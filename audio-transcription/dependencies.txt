@@ -1,0 +1,7 @@
+wavio
+speech_recognition
+librosa
+pysndfx
+numpy
+python_speech_features
+scipy
