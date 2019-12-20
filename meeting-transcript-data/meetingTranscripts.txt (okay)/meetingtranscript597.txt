@@ -1,0 +1,615 @@
+ 
+
+1 
+
+FEDERAL PREVAILING RATE ADVISORY COMMITTEE 
+
+597th FPRAC 
+
+SHELDON FRIEDMAN, Chairperson, Presiding 
+
+Thursday, August 21, 2014 
+
+Room 5526 
+
+Office of Personnel Management 
+
+Washington, D.C. 20415 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ATTENDANCE: 
+ 
+Members/Alternates: 
+ 
+Management Members: 
+ 
+ 
+Mark Allen, OPM 
+ 
+Seth Shulman, DoD 
+ 
+David Pedersen, Navy 
+ 
+Gary Buck, Army 
+  
+ 
+ 
+Labor Members: 
+ 
+Bill Fenaughty, MTD 
+  
+Candace Archer, AFGE 
+ 
+Adair Gregory, NAGE 
+ 
+Steven Landis, ACT 
+ 
+ 
+Staff Specialists and Visitors: 
+ 
+Brenda Roberts, Designated Federal Officer, OPM 
+ 
+Madeline Gonzalez, OPM 
+ 
+Becky Chaves, DoD 
+ 
+Karl Fendt, DoD 
+ 
+Brian Bauer, DoD 
+ 
+Luis Lynch, Air Force 
+     
+ 
+Recording Secretaries: 
+ 
+Mike Eicher, OPM 
+ 
+Terri Wallace, OPM 
+ 
+
+[Transcript prepared from digital audio produced by FPRAC.]
+
+ 
+
+2 
+
+C O N T E N T S 
+
+                                                       Page 
+I.    Opening/Announcements 
+      • Introductions.....................................3 
+      • Announcements.....................................4 
+        - Update on Director's Executive Conference 
+          Room Recording Equipment                   
+        - Status Report on FWS Wage Area Map Book Update 
+ 
+II.   Review of the Minutes of 596th Meeting..............6 
+ 
+III.  Old Business........................................6 
+      a. Review of Lee County, Virginia, 557-MGT-2 
+         - 2013 Update to Review Lee County, Virginia, 586-MGT-1 
+      b. Definition of South Bend-Mishawaka, IN-MI 
+         Metropolitan Statistical Area, 562-MGT-2 
+         - 2013 Update to Definition of South Bend- 
+           Mishawaka, IN-MI Metropolitan Statistical 
+           Area, 586-MGT-2 
+      c. Letter from the American Federation of Government 
+         Employees, dated June 6, 2011, Requesting FPRAC 
+         Review a Proposal to Redefine Monroe County, PA 
+         from the Scranton-Wilkes-Barre, PA Wage Area to 
+         the New York, NY wage area, 564-AFGE-1 
+      d. Definition of Hickory-Lenoir-Morganton, NC 
+         Metropolitan Statistical Area, 575-MGT-1 
+ 
+ 
+ 
+ 
+IV.     New Business......................................7 
+        a. Letter from American Federation of Government 
+ Employees dated August 18, 2014, Requesting 
+ 
+ FPRAC Reexamine the Definition of Grenada and 
+ 
+  
+ Yalobusha Counties, MS, 597-AFGE-1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+    - 2013 Update to Definition of 
+ Hickory-Lenoir-Morganton, NC Metropolitan 
+ 
+ Statistical Area, 588-MGT-1 
+ 
+
+ 
+
+P R O C E E D I N G 
+
+3 
+
+CHAIRMAN FRIEDMAN:  Good morning, everyone, and 
+
+Meanwhile, why don't we go around the room and 
+
+We are in unusual quarters today because of continuing 
+
+ 
+welcome to our 597th meeting of the Federal Prevailing Rate 
+Advisory Committee.  My name is Sheldon Friedman, Chair of the 
+Committee. 
+ 
+difficulties with the recording equipment in the Executive 
+Conference Room downstairs.  Hopefully, that will be resolved by 
+our October meeting. 
+ 
+introduce ourselves, as we normally do?  Let's start with you 
+today, Mark. 
+ 
+MR. ALLEN:  Mark Allen with OPM and also serving 
+temporarily as the Designated Federal Officer until Brenda 
+Roberts is able to join the meeting. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MR. SHULMAN:  Seth Shulman, Department of Defense. 
+MR. PEDERSEN:  David Pedersen, Navy. 
+MR. BUCK:  Gary Buck, Army. 
+MR. FENAUGHTY:  Bill Fenaughty, MTD and NFFE. 
+MS. ARCHER:  Candace Archer, AFGE. 
+MR. GREGORY:  Adair Gregory, NAGE. 
+MR. LANDIS:  Steve Landis, Association of Civilian 
+
+ 
+
+4 
+
+CHAIRMAN FRIEDMAN:  Thank you all. 
+If the people around the edge of the room would also 
+
+So, as I mentioned, the recording equipment is still 
+
+MR. LYNCH:  Luis Lynch, Air Force. 
+MS. CHAVES:  Becky Chaves, DoD. 
+MR. EICHER:  Mike Eicher, OPM. 
+MS. GONZALEZ:  Madeline Gonzalez, OPM. 
+MS. WALLACE:  Terri Wallace, OPM. 
+MR. FENDT:  Karl Fendt, DoD. 
+MR. BAUER:  Brian Bauer, DoD. 
+CHAIRMAN FRIEDMAN:  Okay.  A couple of quick 
+
+Technicians. 
+ 
+ 
+please introduce themselves? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+announcements. 
+ 
+out of commission in the Executive Conference Room in the 
+Director's Office, but we think in October, it will be back in 
+operation. 
+ 
+ 
+ 
+regretfully, the press of other work has prevented as much 
+progress as we would have hoped by now on that, but I understand 
+
+Any other update on that, Madeline, that you have? 
+MS. GONZALEZ:  No, that's the last thing I heard. 
+CHAIRMAN FRIEDMAN:  Regarding the map book project, 
+
+ 
+
+5 
+
+Any further update on that? 
+MR. ALLEN:  One of the issues with this project is 
+
+that it's about 20 percent complete.  There are staffing issues, 
+as people may well be aware of, that are making it very 
+difficult to get it done, but it will be completed as soon as 
+possible.  If any member has a specific map they need, they can 
+request it.  Of course, meanwhile we have the old maps that we 
+can reference. 
+ 
+ 
+that the previous version of the software that we were using to 
+do the mapping was no longer supported in our operating system, 
+so we had to upgrade to a newer version of the software and draw 
+the maps from scratch. 
+ 
+baseline map, and after that is completed, it shouldn't take too 
+long to produce maps for individual wage areas.  I would say the 
+20 percent figure is probably a fair one in terms of the scope 
+of the whole project. 
+ 
+As our Chairman says, if anybody has a request for a 
+specific map for an area that they are interested in, just let 
+us know, and we will see what we can put together. 
+ 
+sure people did not think we had forgotten about this project.  
+
+Right now, we're working on establishing a new 
+
+CHAIRMAN FRIEDMAN:  Thank you.  I just want to make 
+
+ 
+
+6 
+
+MR. ALLEN:  The maps that I have seen so far are 
+
+CHAIRMAN FRIEDMAN:  Right, right. 
+Any other announcements? 
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  If not, that brings up the review 
+
+It is underway, and progress is being made. 
+ 
+looking considerably better than what we had previously. 
+ 
+ 
+ 
+ 
+of the transcript of our last meeting.  Are there any other 
+corrections to that transcript that you want to bring to our 
+attention? 
+ 
+ 
+adopting the transcript of our last meeting? 
+ 
+ 
+transcript of the previous meeting is adopted. 
+ 
+have been hanging around for quite a while.  Is there a 
+particular issue that anyone would like to discuss today?  
+ 
+ 
+late-arriving New Business item, and that is a letter from AFGE 
+
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  If not, we do have one 
+
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  If not, is there any objection to 
+
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  Hearing no objection, the 
+
+That brings up Old Business.  We have four issues that 
+
+ 
+
+7 
+
+I know that we won't finish that agenda item today 
+
+President Cox concerning the Northern Mississippi Wage Area, an 
+issue that FPRAC wrestled with in 2010, which is an issue 
+involving the Army Corps of Engineers employees at a series of 
+lakes in Northern Mississippi. 
+ 
+because, obviously, people have not really had an opportunity to 
+look at it in any depth. 
+ 
+There is some supporting material from our previous 
+work on this issue that we will recirculate.  We figured that 
+the members wouldn't have a chance to review it if we circulated 
+it just a couple of days before the meeting, so we will 
+circulate it in advance of our next meeting. 
+ 
+Is there anything that people want to bring up about 
+this issue now in terms of the type of research that we need to 
+do, or questions that need to be looked into? 
+ 
+wants to bring anything up right now on this issue. 
+ 
+MS. ARCHER:  I actually just want to apologize for 
+this agenda item getting to you so late.  We had anticipated 
+putting it on the September agenda, so I appreciate sort of the 
+preview of this, and we hope to do more work on this for the 
+September meeting. 
+
+I have a few thoughts, but I wonder if anyone else 
+
+ 
+
+8 
+
+CHAIRMAN FRIEDMAN:  Okay.  We actually don't have a 
+
+MS. ARCHER:  Oh, I thought there was a September 17th 
+
+CHAIRMAN FRIEDMAN:  No.  The Chair will be on 
+
+MS. ARCHER:  Oh.  My apologies.  So then the October 
+
+MR. ALLEN:  That actually gives us a little more time 
+
+ 
+September meeting. 
+ 
+meeting. 
+ 
+vacation.  But we have an October meeting. 
+ 
+meeting will be fine. 
+ 
+to look at new information we might have available.  We last 
+reviewed this in 2010, so we should be able to obtain updated 
+information from the Census Bureau.  I doubt that any of the 
+metropolitan statistical areas would have changed in that 
+particular area, but we will take a look and see what's changed 
+there, if anything. 
+ 
+Federal Officer who just walked into the room to introduce 
+herself for the record. 
+ 
+ 
+ 
+the meeting late. 
+
+MS. ROBERTS:  Brenda Roberts. 
+CHAIRMAN FRIEDMAN:  Thank you. 
+MS. ROBERTS:  And I apologize for having to arrive to 
+
+CHAIRMAN FRIEDMAN:  I think I would ask our Designated 
+
+ 
+
+9 
+
+I thought of three things.  The first is to update the 
+
+The second is the viability of the Northern 
+
+CHAIRMAN FRIEDMAN:  That's okay. 
+MR. ALLEN:  I will take off my second hat now. 
+[Laughter.] 
+CHAIRMAN FRIEDMAN:  I have a few thoughts about the 
+
+ 
+ 
+ 
+ 
+issue. 
+ 
+regulatory criteria analysis of the two counties in question 
+where the lakes are located.  Maybe it would be helpful to take 
+a fresh look at an updated analysis. 
+ 
+Mississippi Wage Area.  It is one of those low-employment wage 
+areas that we are going to be talking about later today in our 
+working group.  I don't know the amount of survey data that is 
+being collected in that wage area and so forth, and it would be 
+nice to have a good picture of the viability of that wage area. 
+ 
+these four lakes should be considered a single activity or 
+installation, given the amount of alleged interchange of 
+workforce.  How much actual movement of workers from one lake to 
+another occurs within the four lakes?  This seems to me to be a 
+question for which it should be possible to get some answers, to 
+help us understand the issue better. 
+
+Then the third is whether there is a sense in which 
+
+ 
+
+10 
+
+MR. ALLEN:  I think they are all good questions. 
+ 
+CHAIRMAN FRIEDMAN:  Any other discussion at this time? 
+ 
+ 
+MR. SHULMAN:  I would only observe that certainly we 
+have had discussions about such issues, particularly the Army 
+Corps of Engineers in prior meetings, and it's proven useful to 
+have representatives from the Army Corps of Engineers present. 
+ 
+This is no slight to our friends from the Department 
+of the Army, Gary. 
+MR. BUCK:  I know.  None taken. 
+ 
+MR. SHULMAN:  Okay.  So most representatives from the 
+ 
+Office of the Director of Army Corps of Engineers Civil Works, 
+Operations, Office would have a grasp of what actually goes on, 
+and it would probably have some probative value for any 
+discussion of this issue to have them present. 
+ 
+Corps of Engineers? 
+ 
+just showed up on the agenda on Wednesday. 
+ 
+ 
+happening in 2010.  I wasn't doing this Committee work in 2010, 
+so I was not present for those discussions, but we’ve had other 
+
+MR. BUCK:  Okay.  How about back in 2010? 
+MR. SHULMAN:  I don't know the history of what was 
+
+MR. BUCK:  Have we requested information from the 
+
+MR. SHULMAN:  We have not done anything because this 
+
+ 
+
+11 
+
+CHAIRMAN FRIEDMAN:  Yes.  It seems to me that it would 
+
+discussions where Army Corps of Engineers' pay issues have 
+arisen at lock and dam situations. 
+ 
+MR. BUCK:  Right. 
+ 
+MR. SHULMAN:  We have had Army Corps of Engineers 
+present in the past at meetings in person as well as on the 
+phone, and it has proven useful. 
+ 
+be very helpful if we could get that participation and input.  
+Thank you for that. 
+Unless there's anything else on this issue, we have 
+ 
+laid out a research agenda for it.  So I think that's probably 
+as much as we could hope to do on this topic today. 
+ 
+ 
+ 
+Business items that people want to bring up this morning? 
+ 
+ 
+today after this meeting is over, which will be in this same 
+room. 
+ 
+I just want to remind people that we don't have a 
+September meeting.  Our next meeting will be October 16th. 
+
+Anything else on this issue? 
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  Well, okay.  If not, any other New 
+
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  We do have a working group meeting 
+
+ 
+
+12 
+
+If there is no other new business, it would be in 
+
+MR. SHULMAN:  Well, one of them is certainly wrapped 
+
+[Laughter.] 
+CHAIRMAN FRIEDMAN:  Well, what was he paid, by the 
+
+ 
+order for us to adjourn.  Is there any objection to our 
+adjourning? 
+[No audible response.] 
+ 
+CHAIRMAN FRIEDMAN:  Hearing none -- yes, sir.   
+ 
+ 
+MR. FENAUGHTY:  I have a question, actually.  Are we 
+ever going to get to this Old Business?  Some of this stuff has 
+been hanging out here since Christ was a Carpenter. 
+ 
+ 
+way?  Which wage area was he in? 
+ 
+ 
+ 
+Any thoughts on that?  Anybody  on the Committee on either side 
+of the table have any thoughts on that? 
+[No audible response.] 
+ 
+ 
+CHAIRMAN FRIEDMAN:  Well, I think we need to put our 
+heads together and figure out how to deal with those issues.  
+Basically, these have been non-consensus issues.  We can either 
+walk the plank on them and make a decision or -- 
+ 
+
+MR. FENAUGHTY:  Minimum. 
+[Laughter.] 
+CHAIRMAN FRIEDMAN:  So I think that's a good question.  
+
+ 
+
+13 
+
+CHAIRMAN FRIEDMAN:  I would say on item (a), the 
+
+up.  Item (c) is certainly wrapped up in an entire -- 
+CHAIRMAN FRIEDMAN:  In a larger issue. 
+ 
+MR. SHULMAN:  In a larger issue. 
+ 
+CHAIRMAN FRIEDMAN:  Yes. 
+ 
+MR. SHULMAN:  From my perspective, it would not be 
+ 
+something we want to discuss here until the larger issue is 
+addressed. 
+ 
+Review of Lee County, Virginia, is another one of these rather 
+low-employment wage areas, which we are going to have a 
+discussion on in the working group in a few minutes.  So that 
+might or might not be something that is useful to look at 
+through the lens of the overall employment level in that wage 
+area. 
+ 
+here for quite some time, if my memory is right. 
+ 
+ 
+item (c) that we can't really get into that until we take care 
+of the other big issue. 
+ 
+ 
+
+CHAIRMAN FRIEDMAN:  Right. 
+MR. FENAUGHTY:  But (a) and (b), we can certainly get 
+
+MR. FENAUGHTY:  Well, the first two have been sitting 
+
+CHAIRMAN FRIEDMAN:  Right. 
+MR. FENAUGHTY:  I understand what Seth is saying about 
+
+ 
+
+14 
+
+CHAIRMAN FRIEDMAN:  Yes.  Well, I'm all for that.  I 
+
+Anything else this morning? 
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  If not, any objection to 
+
+moving somewhere, get the ship away from the pier. 
+ 
+second you.  I'm not allowed to second motions, but if I were, I 
+would second your motion. 
+ 
+ 
+ 
+adjourning? 
+[No audible response.] 
+ 
+CHAIRMAN FRIEDMAN:  Okay.  Hearing no objection, we 
+ 
+are adjourned, and I don't know if we need a full 10 minutes, 
+but in a few minutes, we will begin the working group meeting. 
+
+ -  -  
+
+

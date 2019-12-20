@@ -1,0 +1,3149 @@
+                                                                 1
+
+              FEDERAL PREVAILING RATE ADVISORY COMMITTEE
+
+                             586th FPRAC
+
+               SHELDON FRIEDMAN, Chairperson, Presiding
+
+                      Thursday, August 15, 2013
+
+                               Room 5526
+                    Office of Personnel Management
+                        Washington, D.C. 20415
+
+ATTENDANCE:
+
+Members/Alternates:
+
+     Management Members:
+     Mark Allen, OPM
+     Steven Rumble, DoD
+     Bob Kerr, Air Force (via telephone)
+     Pamela Sokol, Army
+
+     Labor Members:
+     Dennis Phelps, MTD
+     Charles Bernhardt, AFGE
+     Robert Shore, NAGE
+
+Staff Specialists and Visitors:
+     Jeanne Jacobson, Designated Federal Officer, OPM
+     Madeline Gonzalez, OPM
+     Jennifer Dorsey, OPM
+     Darlene Freeman, NAVY
+     Jim Brady, DoD
+     Bill Becht, DoD
+     Dawna Powell, DoD
+     Deborah Blake, DOI
+     Crystal Gailes, DOI
+     Kermit Howard, DOI
+     Josh Hildreth, DOI
+     CAPT William Hanrahan, DOI NPS
+
+
+Recording Secretaries:    Mike Eicher and Terri Wallace
+
+   [Transcript prepared from digital audio produced by FPRAC.]
+                                                               2
+
+                          C O N T E N T S
+
+                                                        Page
+I.     Opening/Announcements
+       • Introductions.....................................4
+       • Announcements.....................................6
+         - Articles on the 2013 Locality Pay Equity Act
+           (H.R. 2450) introduced by Rep. Matt Cartwright
+           (D-PA), 586-OC-1
+
+II.    Review of the Minutes of the 585th Meeting..........6
+
+III.   Old Business........................................7
+       a. Review of Lee County, Virginia, 557-MGT-2
+          - Total Employment in the Eastern Tennessee Wage
+            Area by County, 566-OPM-1
+          - List of FWS Wage Areas with Fewer Than 500
+            Employees, 566-OPM-2
+          - Review of Criteria for Defining Appropriated
+            Fund Wage Areas, 545-OC-1 [REPRINT]
+       b. Discussion of Survey Issues/Concerns
+          - FPRAC's Chairman's Memorandum to Members on
+            Survey Issues Work Group, 560-OC-1
+       c. Special Wage Schedule Pay Practice for Federal
+          Wage System Lock and Dam Employees, 562-MGT-1
+       d. Definition of South Bend-Mishawaka, IN-MI
+          Metropolitan Statistical Area, 562-MGT-2
+       e. Letter from the American Federation of Government
+          Employees, dated June 6, 2011, requesting FPRAC
+          review a proposal to redefine Monroe County, PA
+          from the Scranton-Wilkes-Barre, PA wage area to
+          the New York, NY wage area, 564-AFGE-1
+       f. Definition of Hickory-Lenoir-Morganton, NC
+          Metropolitan Statistical Area, 575-MGT-1
+       g. Proposal for FPRAC review of the Federal Wage
+          System Appropriated Fund and Nonappropriated
+          Fund Operating Manuals, 575-AFGE-1
+       h. Suggestion for a research paper on the history
+          of the Federal Government's prevailing rate
+          system
+       i. Review of the Augusta and Portland, ME Federal
+          Wage System Wage Areas, 578-MGT-1
+          - Alternate Analysis of the Portland, ME Federal
+            Wage System Wage Area, 580-MGT-1
+       j. Project to update wage area maps
+       k. Department of the Interior's Special Vessel
+          Schedules, 585-OPM-1
+                                                               3
+
+
+
+                    C O N T E N T S (continued)
+
+                                                       Page
+
+IV.   New Business.........................................7
+      a. Presentation: Comments on the DOI/NPS Pay Plan
+         Proposal for the Isle Royale National Park's
+         RANGER III Vessel, 586-OC-2
+         - Guest Speaker, William Hanrahan,
+           Captain of the RANGER III
+      b. 2013 Update to Review of Lee County, Virginia,
+         586-MGT-1
+      c. 2013 Update to Definition of South Bend-Mishawaka,
+         IN-MI Metropolitan Statistical Area, 586-MGT-2
+                                                                       4
+
+
+                            P R O C E E D I N G
+
+             CHAIRMAN FRIEDMAN:    Good morning, everyone.   Welcome
+
+to this 586th meeting of the Federal Prevailing Rate Advisory
+
+Committee.    My name is Sheldon Friedman, Chair of the Committee,
+
+and as we always do, let's please go around and introduce
+
+ourselves for the recorder.
+
+             Let's start with you today Mark.
+
+             MR. ALLEN:    Mark Allen with OPM.
+
+             MR. RUMBLE:   Steve Rumble with DoD.
+
+             MS. SOKOL:    Pamela Sokol, Army.
+
+             CHAIRMAN FRIEDMAN:    I believe we have a Management
+
+person on the phone.
+
+             MR. KERR:    Yeah.   You have Air Force, Bob Kerr.
+
+             CHAIRMAN FRIEDMAN:    We are hoping you can join us in
+
+person next time.    We'd like that a lot.
+
+             MR. PHELPS:   Dennis Phelps, the Metal Trades
+
+Department.
+
+             MR. BERNHARDT:   Charlie Bernhardt, American Federation
+
+of Government Employees.
+
+             MR. SHORE:    Robert Shore, National Association of
+
+Government Employees.
+
+             CHAIRMAN FRIEDMAN:    And if everyone else around the
+                                                                      5
+
+
+room can introduce themselves too?    Madeline?
+
+           MS. GONZALEZ:    Madeline Gonzalez, OPM.
+
+           MS. JACOBSON:    Jeanne Jacobson, OPM, Designated
+
+Federal Officer.
+
+           MS. WALLACE:    Terri Wallace, OPM.
+
+           MS. FREEMAN:    Darlene Freeman, Department of Navy.
+
+           MS. POWELL:    Donna Powell, DoD.
+
+           MR. BRADY:    Jim Brady, DoD.
+
+           MR. BECHT:    Bill Becht, DoD.
+
+           MS. DORSEY:    Jennifer Dorsey, OPM.
+
+           MR. EICHER:    Mike Eicher, OPM.
+
+           MR. HOWARD:    Kermit Howard, Department of Interior.
+
+           MR. HILDRETH:    Josh Hildreth, Department of Interior.
+
+           MS. GAILES:    Crystal Gailes, Department of Interior.
+
+           MS. BLAKE:    Deborah Blake, Department of Interior.
+
+           CAPT HANRAHAN:   Captain William Hanrahan, Department
+
+of Interior, National Park Service.
+
+           CHAIRMAN FRIEDMAN:   Thank you all, and Captain
+
+Hanrahan is our guest speaker today.       We will get to him very
+
+shortly.
+
+           I want to say welcome back to Terri.      We are glad to
+
+have you back.
+                                                                    6
+
+
+          MS. WALLACE:     Thank you.
+
+          CHAIRMAN FRIEDMAN:    A couple of quick announcements.
+
+We circulated articles from the Washington Post and a couple
+
+other publications on the 2013 Locality Pay Equity Act, H.R.
+
+2450, introduced by Representative Matt Cartwright of
+
+Pennsylvania.   I thought that would be of interest to people.
+
+          Are there any other announcements?
+
+          [No audible response.]
+
+          CHAIRMAN FRIEDMAN:    That's all that I have.
+
+          If not, we can go on to review the transcript of our
+
+last meeting.   Are there any changes or corrections that people
+
+have beyond those we have already heard about from you?
+
+          [No audible response.]
+
+          CHAIRMAN FRIEDMAN:    If not, is there any objection to
+
+adopting that transcript?
+
+          MR. ALLEN:     No objection.
+
+          CHAIRMAN FRIEDMAN:    Hearing no objection, the
+
+transcript is adopted.
+
+          We have a lot of Old Business items sitting in our
+
+Inbox that we are going to work our way through, not today
+
+unfortunately, but soon.    Two of them have New Business items
+
+today that pertain to them, but before we get to that, unless
+                                                                      7
+
+
+there's some urgent item of Old Business people want to discuss
+
+right now, I suggest we move on to New Business.      Is that
+
+agreeable?
+
+             [No audible response.]
+
+             CHAIRMAN FRIEDMAN:   Okay.   So our first item is the
+
+Department of Interior/National Park Service Pay Plan Proposal
+
+for the Isle Royale National Park’s RANGER III Vessel, and the
+
+guest speaker is Captain Hanrahan of that vessel who is going to
+
+address his concerns about the proposal and his alternative to
+
+it.
+
+             Before I introduce Captain Hanrahan, I thought I would
+
+ask Mark to very briefly summarize the Department of Interior
+
+proposal, which was distributed at the last meeting but not
+
+discussed.    So perhaps focusing on what the current pay practice
+
+is, what the proposal is, and what the reasoning is in the
+
+National Park Service as to why the maritime wage schedule is
+
+not applicable.
+
+             MR. ALLEN:   First of all, I'd like to thank Captain
+
+Hanrahan for coming to the meeting today.      It's a long way to
+
+travel on fairly short notice, but this is an issue I think you
+
+do need to get taken care of because we've heard that there are
+
+recruitment and retention problems that are possibly affecting
+                                                                     8
+
+
+the safety in the long term of the operation of the vessel.
+
+             In 585-OPM-1, we've laid out information that we have
+
+received from the Department of the Interior regarding the
+
+background of how pay has been determined up to this point for
+
+the crew of the RANGER III vessel, and we have a proposal here
+
+from the Department of the Interior to update the set-aside pay
+
+schedule.    By set-aside, I mean that the employees of the vessel
+
+are not paid from a regular wage schedule.    They are not under
+
+the government-wide Federal Wage System classification
+
+standards.
+
+             There is an accommodation that was made back in 1972
+
+when the Federal Wage System was created under the law that if
+
+things couldn't fit in readily to the way that the regular
+
+system operated that they would be allowed to continue, so as
+
+not to disadvantage employees by cutting their pay by placing
+
+them under the regular classification standards or job grading
+
+standards and regular wage schedules.
+
+             OPM has documented the set-aside schedule in the back
+
+of the Operating Manual since then.    Before we make any changes
+
+to what's documented in the Operating Manual, FPRAC should
+
+provide OPM with a recommendation and acknowledgement that the
+
+Committee has fully reviewed the agency pay practice.
+                                                                    9
+
+
+          Under the Department of Interior proposal, the pay
+
+practice has been a set-aside pay practice primarily because of
+
+the classification, so we would not be rolling them into the
+
+regular Federal Wage system at this point.
+
+          On page 2, acknowledgement is made that the Department
+
+of Interior found inadequate industry practice exists to warrant
+
+setting pay for the crew of the RANGER III under 5 USC 5348(a),
+
+which is the maritime pay provision in the law.
+
+          Now, there's further explanation of that statement on
+
+page 3 of the attachment from the Department of the Interior.
+
+The second and third paragraphs explain in I think pretty good
+
+detail why it's not suitable in the view of the Department of
+
+the Interior to establish the pay of the crew under the maritime
+
+pay provision.
+
+          CHAIRMAN FRIEDMAN:   There is not actually a "3" on the
+
+page, the third page.
+
+          MR. ALLEN:    Basically, the RANGER III vessel is not
+
+comparable to saltwater vessels using maritime wage schedules.
+
+Generally speaking maritime wage schedules apply to Military
+
+Sealift Command where the crews of the vessels go out for days
+
+upon end transporting military equipment from port to port on
+
+the high seas.
+                                                                   10
+
+
+          In terms of updating the current pay practice, what
+
+the Department of the Interior proposes to do is move away from
+
+having a single-step pay structure to having a five-step pay
+
+structure using the same step-rate percentages and waiting
+
+periods as the FWS system, and they are also proposing to move
+
+away from using the Northwestern Michigan Wage Schedule and
+
+using the Detroit Michigan Wage Schedule instead, and the reason
+
+for that is to ensure parity with another vessel that the
+
+Department of the Interior operates in the region.
+
+          That's basically the gist of it.
+
+          On page 3 of the OPM document, there are conversion
+
+steps, basically pay administration, of what would happen if OPM
+
+updates the Operating Manual.   It would move from their current
+
+rate of pay to a different step, something that's not been
+
+afforded to them in the past.   So there is growth potential with
+
+the change, and the Detroit Wage Schedule is also a higher wage
+
+schedule than the Northwestern Michigan wage schedule and those
+
+things combined should help to alleviate some of the problems of
+
+recruitment and retention for members of the crew.
+
+          CHAIRMAN FRIEDMAN:    I have some questions about the
+
+proposal, but I'm going to hold them, but if others have burning
+
+questions they want to ask right now, they can do that.
+                                                                       11
+
+
+             MR. BERNHARDT:   The only question I have,
+
+Mr. Chairman, is just to make sure that this would only require
+
+an Operating Manual change and not a CFR change.
+
+             MR. ALLEN:   That's correct.
+
+             CHAIRMAN FRIEDMAN:   All right.   So we will get into a
+
+full discussion after we hear from Captain Hanrahan, who it is
+
+my great privilege to introduce.     I thank you so much for
+
+traveling this long distance to bring this matter to our
+
+attention.    I know you have been wrestling with it for many
+
+years.
+
+             Captain Hanrahan is the Captain of the RANGER III
+
+vessel at the Michigan Isle Royale National Park transporting
+
+passengers and freight, and among other things, he has 36 years
+
+of maritime experience, the last 19 of those years as captain of
+
+the RANGER, which he has been since 1994.
+
+             He is a graduate of the Great Lakes Maritime Academy
+
+in Traverse City, Michigan.
+
+             There's much more we could say about him.    He has at
+
+my request furnished a bio which with his permission I will
+
+share with the members of the Committee, not taking too much
+
+more time right now.
+
+             With that, Captain Hanrahan, the floor is yours.
+                                                                   12
+
+
+           CAPT HANRAHAN:    Thank you, Chairman Friedman.    I
+
+appreciate the time you all have given me to speak and to listen
+
+to what I have to say.
+
+           I did want to clarify a few things on the DOI proposal
+
+before I read my statement.    On Attachment E on the DOI
+
+proposal, under "Captain's Statement" - I want to clarify that
+
+the first two paragraphs are not my statement.
+
+           From the italicized point down, that is my statement.
+
+It appears in these paragraphs as if I support this proposal by
+
+DOI, and I clearly do not.
+
+           One other thing I want to mention, the RANGER III, for
+
+those of you who are not familiar with the shipping industry or
+
+the maritime industry, all of the other DOI vessels that are
+
+cited in the DOI proposal are non-commerce public vessels, and
+
+for those that are not familiar with the maritime world, a
+
+public vessel is not required to have a Coast Guard license.
+
+They are not inspected by the U.S. Coast Guard.    They are
+
+strictly public service missions.
+
+           U.S. Navy ships, Coast Guard vessels, they do not --
+
+those captains do not have a license issued by the U.S. Coast
+
+Guard.   The agency takes care of all of their training and
+
+qualification processes.
+                                                                     13
+
+
+          As I said, the research vessels that DOI has cited in
+
+their proposal under USGS, U.S. Fish and Wildlife, none of these
+
+vessels are in commerce contrary to the RANGER III.     The RANGER
+
+III is a DOI vessel, and it is a public vessel; however, it also
+
+transports oil.   It transports hazardous materials.    It
+
+transports passengers.   It operates a crane.   It transports
+
+great bulk propane, explosive propane, all of this in commerce,
+
+and because it is in commerce, it extracts it from that public
+
+protection where you don't have to have -- you don't have the
+
+regulatory regime to deal with on these other DOI vessels.      On
+
+this particular vessel, you do.
+
+          All of our crewmembers are licensed or documented by
+
+the U.S. Coast Guard.    They all have to have transportation
+
+worker identification credentials.   They have to comply with
+
+U.S. Coast Guard physicians, which if you are familiar with
+
+that, there's a 184-page Navigation and Vessel Inspection
+
+Circular that the doctor has to read to make sure that these
+
+people are qualified, and that goes on every 5 years.    These
+
+people have to renew their documents every 5 years.
+
+          They also have to have an OSHA Hazmat Level II
+
+Training Certificate because we carry the oil and the propane.
+
+If you are not familiar with the Oil Pollution Act of 1990, it
+                                                                   14
+
+
+is all of the Exxon Valdez fallout regulations, and in this
+
+particular case, the RANGER III must comply with that law and
+
+all of the fall-out regulations which are 33 CFR 154 and 155,
+
+and that requires specifically that the government meet
+
+contractual issues with regards to cleanup of an oil spill
+
+because we carry oil in commerce.   You have to have a marine
+
+salvage outfit under contract.   You also have to have marine
+
+firefighting outfit under contract.
+
+          And in this particular case, the government meets
+
+those contractual issues through a basic order and agreements
+
+that are negotiated with the U.S. Coast Guard.   Essentially, any
+
+spill or explosion, with the RANGER III, that would be -- those
+
+contractors would be called out by the Captain of the Port at
+
+the Marine Safety Office in Duluth, Minnesota, and using
+
+qualified individuals and incident commanders at Isle Royale,
+
+they would deal with that spill.
+
+          Obviously, Congress does not make for -- it does not
+
+fund these open-ended issues.    If you're not familiar with the
+
+Oil Pollution Act of 1990, it has unlimited liability with
+
+regards to an oil spill, and subsequently, the Department of
+
+Interior cannot meet that.   Obviously, Congress didn't
+
+appropriate funds for that kind of thing.
+                                                                    15
+
+
+             They do, however, back the National Pollutions Fund
+
+Center.     There's a tax that is on every barrel of oil
+
+transported.    Those funds are used to back the Coast Guard to
+
+then call out these contractors.    That's how that is funded.     So
+
+we fall under these basic order agreements, and in fact, I
+
+monitor those contracts with the Coast Guard and work with the
+
+Coast Guard and also the Superintendent of Navy Salvage to meet
+
+the salvage, marine, and firefighting requirements under these
+
+OPA-90 regulations.
+
+             So I want to make it clear to everybody that the
+
+RANGER III is a unique vessel, and I will tell you -- and I know
+
+this from Coast Guard Headquarters, and you will find it on
+
+Coast Guard Headquarters webpage -- that the RANGER III is the
+
+only tank ship that the U.S. Government operates that transports
+
+oil in commerce.
+
+             The only other vessel that you'll find on that webpage
+
+is the gasoline barge Greenstone II, which is also operated by
+
+Isle Royale National Park.    That transports gasoline to Isle
+
+Royale National Park.    That is the second vessel response plan
+
+that you will find on the Coast Guard webpage and the only two
+
+vessels owned by the Federal Government that transports oil in
+
+commerce.
+                                                                     16
+
+
+          You are probably thinking to yourself, well, Military
+
+Sealift Command, et cetera, have oil tankers.     They do, but they
+
+are specifically in public service.   They do not meet the
+
+requirements of OPA-90.
+
+          With that, I'll start on my comments.
+
+          My name is William Hanrahan.   I am here today
+
+representing myself and advocating for the crewmembers of the
+
+package freighter, USNPS RANGER III at Isle Royale National
+
+Park.
+
+          The RANGER is a "public" vessel operated "in commerce"
+
+by the Department of Interior, National Park Service to "service
+
+the logistical needs of Isle Royale National Park."     The vessel
+
+was designed by R.A. Stearns Inc. of Sturgeon Bay, Wisconsin, to
+
+NPS specifications in 1957.   It was built by Christy
+
+Shipbuilding Inc., also of Sturgeon Bay, and entered into
+
+service in September 1958.
+
+          At a cost of $1,160,000 in 1958, it has been in
+
+continuous service for 55 years.   It was repowered with EPA Tier
+
+II-rated engines -- those are emission standards -- and
+
+reconditioned in 1998 at a cost of $2.3 million.    The ship has a
+
+replacement value of 25- to $30 million, and that was a recent
+
+estimate that I did get from J.M. Martinac Shipbuilding, Tacoma,
+                                                                     17
+
+
+and that was at the request of the Superintendent of the Park.
+
+            The ship measures 165 foot, 650 gross rated tons.
+
+That's lightship.   That's when it came out of the dock.    It
+
+displaces that much water, 650 tons.   Fully loaded, it displaces
+
+835 tons.   Maximum cargo is 125 tons, including 25 tons of bulk
+
+No. 2 oil cargo.
+
+             The RANGER is unique in Federal service.    First, it
+
+is the only tank ship operated in commerce by the Federal
+
+Government, and unlike all the other Federal vessels cited in
+
+the DOI proposal you received on June 10th, the RANGER is
+
+inspected and certificated by the U.S. Coast Guard as a
+
+subchapter H passenger vessel.   It is also inspected under
+
+subchapters D, tank vessels, and I, miscellaneous cargo vessels.
+
+It is also classed and regularly inspected by the American
+
+Bureau of Shipping.    Contrary to some media, it is not a
+
+"ferry" vessel, as it also transports bulk cargo oil under OPA-
+
+90, hazardous materials under the USDOT Hazardous Materials
+
+Regulations that includes cargo flammables, explosive break-bulk
+
+propane; municipal waste, water and sewage treatment chemicals;
+
+firearms, ammunitions; paints, fluids; research liquid nitrogen;
+
+drain oil; electrical transformers among others.
+
+            The vessel is also equipped with a 4.5-ton
+                                                                     18
+
+
+telescoping, pedestal-mounted unit crane that handles 40 percent
+
+of all of our tonnage, including Park Service, concessionaire
+
+and visitor boats to 25 feet and 4.5 tons; construction
+
+materials; demolition materials; occasional airplanes, single
+
+and twin engine; fluid tanks; small dozers; municipal waste;
+
+tractors; trailers; occasional autos when we go to the shipyard,
+
+which we will be going this fall; machinery; municipal
+
+electrical generator sets; explosive break-bulk propane
+
+cylinders; all in addition to scheduled passenger service.     Now,
+
+we don't carry those together.
+
+            [Laughter.]
+
+            CAPT HANRAHAN:   However, under DOT rules, we do carry
+
+-- and you will see that in the inspection report in Attachment
+
+A that you can carry 25 passengers with propane, with break-bulk
+
+propane.    DOT feels that you can kill 25 people, but 26 people
+
+would be unacceptable.
+
+            [Laughter.]
+
+            CAPT HANRAHAN:   It is operated "in commerce," subject
+
+to the same maritime laws and regulations as private sector
+
+shipping.   The crew must meet all U.S. Coast Guard document
+
+requirements as dictated on the vessel's Certificate of
+
+Inspection, and you will that in Attachment A.    And you will not
+                                                                  19
+
+
+see that on the other DOI research vessels cited.
+
+          More recently, the RANGER was equipped with the first
+
+U.S. Coast Guard and EPA-approved ballast water treatment system
+
+on the Great Lakes and was the first to have an approved EPA and
+
+U.S. Coast Guard Ballast Water Management Plan for the control
+
+of aquatic nuisance species on the Great Lakes.   As far as I
+
+know, it is still the only ballast water management plan
+
+approved by the EPA and the U.S. Coast Guard on the Great Lakes
+
+as these new regulations come into being.
+
+          It has an operating crew of nine, including four
+
+officers, an NCCCO-certified crane operator and four deck crew.
+
+We also have a volunteer assistant purser, two snack bar
+
+concessionaire employees and currently one cadet from the Great
+
+Lakes Maritime Academy in Traverse City, Michigan, for a total
+
+of 13.
+
+          All operating crew must be U.S. Coast Guard-documented
+
+per 46 CFR 5.57(a)(1).
+
+          As mentioned above, the ship is inspected by the U.S.
+
+Coast Guard twice annually and is certificated to carry 128
+
+passengers, 650 cubic feet of reefer/freezer cargo, 7,500
+
+gallons of cargo No. 2 oil, personal use flammables, and up to
+
+100 tons of dry package cargo in four different cargo holds.
+                                                                   20
+
+
+           The ship must be dry-docked every 5 years for
+
+inspection by U.S. Coast Guard and the American Bureau of
+
+Shipping, as required by law.
+
+           All machinery is rebuilt on regular mandatory
+
+maintenance schedules; typically, 1-, 3-, and 5-year cycles as
+
+required by U.S. Coast Guard and ABS.   This includes the main
+
+engines, the generator engines, ballast pumps, fire pumps,
+
+turbochargers.   You name it; it's inspected.
+
+           I entered on duty with the Park Service as Captain on
+
+March 27, 1994, and have remained in this position since then.
+
+I have been sailing as a U.S. Coast Guard-licensed officer since
+
+graduation from the Academy in 1977 or 36 years.   I attended the
+
+Academy on the GI Bill after 4 years of honorable military
+
+service in the U.S. Air Force, including 6 months service in
+
+Vietnam.
+
+           Since graduation from the Academy, I have worked
+
+primarily in the Great Lakes shipping industry, with additional
+
+service as Captain with the State of Virginia at Jamestown
+
+Ferry; Captain and Chief Mate of a Corps of Engineers contract
+
+hopper dredge in the Gulf of Mexico, and co-pilot tankerman on
+
+the 110-foot, 200-ton, USNPS FORT JEFFERSON stationed at Key
+
+West, Florida, servicing Dry Tortugas National Park.
+                                                                  21
+
+
+          I have 16 years deck officer experience on the Great
+
+Lakes on self-unloading bulk freighters to 1,000-foot and 80,000
+
+dead weight tons, product tank ships, hopper dredges, bulk-
+
+cement freighters, and ocean-going vessels transiting the Great
+
+Lakes.
+
+          I have also participated as an investigator and
+
+subject-matter expert at NPS request in four marine-related
+
+incidents, including Isle Royale; Channel Islands National Park,
+
+California, two incidents; and Kalaupapa National Historical
+
+Park in Moloka'i, Hawaii.
+
+          I hold a U.S. Coast Guard Master Mariner's license,
+
+unlimited tonnage, for the inland waters of the U.S.; an
+
+unlimited tonnage First Class Pilot's license for Great Lake’s
+
+waters between Duluth, Gary, and Buffalo; and an unlimited
+
+Tankerman's endorsement for supervision of bulk product
+
+transfers of dangerous liquid cargo.   In this capacity, I have
+
+conducted well over 100 transfers of dangerous liquid cargo,
+
+including benzene, xylene, gasoline, and over 20 transfers of
+
+No. 2 oil at Isle Royale in 2012 alone.
+
+          My comments on the DOI pay plan proposal to FPRAC-June
+
+10, 2013 are as follows:
+
+          A few weeks ago, Mr. Mark Allen passed you a DOI
+                                                                   22
+
+
+proposal to adopt a pay plan using "selected rates" from the 070
+
+Detroit area FWS pay schedule, also used by the Corps of
+
+Engineers, DOI's Fish & Wildlife, and U.S. Geological Survey
+
+vessels home-based and operating primarily in the Northern
+
+Michigan 071 FWS wage area.
+
+           There are many problems with the DOI proposal.    First,
+
+the proposal is making a position and wage comparison between
+
+RANGER and the uninspected, non-commerce, non-passenger, non-
+
+oil-carrying, non-hazmat, non-crane, non-scheduled fish research
+
+vessels of DOI's USGS and USFWS Great Lakes fleet.   None of
+
+these vessels require a U.S. Coast Guard-licensed operator since
+
+they are uninspected, non-commerce "public" vessels.   They catch
+
+and release fish, take water and core samples, and that is their
+
+singular mission.   How can DOI tender a wage plan that purports
+
+to equate the Captain of a U.S. Coast Guard-inspected, ABS-
+
+surveyed commerce, passenger, tank, hazmat and crane vessel with
+
+that of a captain of a fishing research vessel?
+
+           All DOI vessels cited in the example are less than
+
+half the tonnage of RANGER; less than half the crew, and perform
+
+a non-commerce, non-critical research mission, primarily in fair
+
+weather.
+
+           The DOI proposal doesn't mention the 25-72 percent
+                                                                  23
+
+
+wage disparity between the Corps of Engineers Floating Plant tug
+
+D.L. BILMAIER and RANGER crew, a wage schedule the NPS agreed to
+
+match at the last NPS-conducted Wage Board.   And that is in
+
+Attachment B.   You will see the minutes from that last Wage
+
+Board, and I would tell you that that was the last Wage Board
+
+that was held for these Wage Board employees, and that was in
+
+1969, April 10th, 1969.
+
+          DOI indicates on page 2, paragraph 4 of its proposal
+
+that the "CFWS replaced the DoD Wage Board System"; however, it
+
+did not replace the DOI Wage Board System.    That system still
+
+exists.
+
+          My understanding of a Wage Board System under 5 USC
+
+5348 is to have a legitimate board of trade knowledgeable people
+
+review the maritime industry rates on a timely basis and
+
+determine a fair prevailing rate for that specialized trade, and
+
+that hasn't happened for RANGER in over 43 years.
+
+          Since 1970, Congress has passed numerous maritime laws
+
+and U.S. Coast Guard, EPA, DOT, OSHA. and DHS have implemented
+
+numerous regulations that directly impact RANGER III everyday
+
+operations and management.
+
+          As previously stated, the NPS agreed on April 10, 1969
+
+to match the wages of Corps Floating Plant supervisory officers
+                                                                     24
+
+
+of the Corps' large tug, SUPERIOR.     This Lake Superior based-tug
+
+was replaced with a smaller but similar tug, the D.L.BILMAIER,
+
+in 1995 and is home-based in the 071 wage area at Duluth,
+
+Minnesota.
+
+             I ask DOI and Mr. Allen to explain how it is that the
+
+Captain of the BILMAIER is currently paid 25 percent more than
+
+me, operating a vessel half the size, with a singular mission to
+
+tow the construction barge, H.J. SCHWARTZ to construction sites?
+
+How can DOI justify the crane operator of the crane barge
+
+SCHWARTZ making more than the captain of a U.S. Coast Guard-
+
+inspected, ABS-classed commerce, passenger, tank, hazmat, and
+
+crane vessel while operating under a comprehensive U.S. Coast
+
+Guard, ABS, DOT, EPA, DHS, and OSHA regulatory regime and
+
+supervising a crew of eight in a hazardous maritime environment?
+
+Of all the Federal vessels mentioned in the DOI proposal, and
+
+those not mentioned, I am the lowest paid captain of all
+
+exampled, commanding the largest vessel by an 85 to 340 percent
+
+margin, and you will see the tonnage of each of those DOI, FWS,
+
+and USGS vessels compared to the RANGER.     And the RANGER's
+
+tonnage is 650.    That's lightship.   Loaded out, it's 835 -- and
+
+certainly, with the most complex mission.
+
+             With passengers, unlimited liability under OPA-90
+                                                                  25
+
+
+operating on the fresh waters of Lake Superior, in a hostile
+
+marine-operating environment, how is it that I make less than
+
+the captain of a 190-ton fish research workboat, the USGS
+
+GRAYLING and less than the crane operator on a flat anchored
+
+crane barge (COE SCHWARTZ)?
+
+          Since the last Wage Board determination made in 1969,
+
+Congress has imposed laws and regulations, including the Oil
+
+Pollution Act of 1990, the Maritime Transportation Security Act
+
+of 2004, the DOT Transportation of Hazardous Materials
+
+regulations introduced in 1975, OSHA crane regulations including
+
+everything below the hook on our crane, U.S. Coast Guard
+
+stability regulations, and recently the control of aquatic
+
+nuisance species under new Ballast Water Regulations (33 CFR
+
+151).
+
+          My position monitors compliance, conducts drills and
+
+exercises, maintains logs, provides hazmat and program training
+
+under OPA-90, MTSA, and OSHA, in addition to administrating
+
+these programs.   I also administrate the Park's OPA-90 program
+
+for the Park's gasoline tank barge GREENSTONE II and the
+
+Petroleum Storage Complex, which has five terminals.   You will
+
+see on the U.S. Coast Guard VRP webpage, both the GREENSTONE II
+
+and the RANGER III listed.    You will see my name on both of
+                                                                    26
+
+
+those plans.   I wrote both of those plans, and I still maintain
+
+those.   In fact, I just recently sent in the RANGER's 5-year
+
+plan.
+
+           I also maintain all of the complex plans for the five
+
+different storage terminals at Isle Royale.
+
+           I also administrate vessel and terminal transfer
+
+procedures, facility operation manuals, ordering and inspecting
+
+equipment and personal protective equipment for the five storage
+
+sites at Isle Royale under 33 CFR 154.
+
+           Even though my supervisor and the Park Superintendent
+
+have acknowledged and endorsed these added responsibilities, you
+
+will see in Attachment D a proposed, revised position
+
+description that both the Superintendent and my supervisor, a
+
+42-year NPS veteran, signed and put in.   That still has not been
+
+endorsed or accepted.
+
+           Under these laws and regulations, NPS has refused to
+
+revise or acknowledge these in my official PD or conduct an
+
+official classification appeal (desk audit), as requested by my
+
+supervisor.    In fact, I was told that I would be disciplined if
+
+I did not continue to administrate these programs, even though
+
+these added responsibilities are not in my official PD.
+
+           DOI indicates in their proposal documents that NPS
+                                                                    27
+
+
+changed from marine Wage Board surveys under 5 USC 5348(a) in
+
+1970 to 5348(b) because NPS determined that there was inadequate
+
+maritime industry from which to make wage comparisons.    If this
+
+is the determination, how can other DOI, USFWS, and USGS vessels
+
+in the same wage area make wage comparisons with Corps of
+
+Engineers' floating plant vessels?   Please refer to the Agency
+
+Special Wage Schedules, Evaluation Plan that is Attachment A in
+
+the DOI proposal for USGS and USFWS that state, "The grading
+
+structure is based on a comparison and analysis of the duties
+
+and responsibilities of Bureau vessel employees with comparable
+
+jobs in the Corps of Engineers."   If there is inadequate
+
+maritime industry for NPS to make a marine wage comparison in
+
+the same wage area, how can DOI, USFWS, and USGS make a marine
+
+wage comparison in the same wage area with the Corps?    These are
+
+contradictory pay plan statements, documented in the Special
+
+Rate Schedules, and you can see that in the DOI proposal in
+
+their handout.   Does OPM endorse DOI's interpretation and
+
+determination of “inadequate maritime industry” under 5348(b) as
+
+required in Subchapter S1 Basic Authorities (Attachment E)?    And
+
+you will see in Attachment E, if you go to Subchapter S1-4 Pay-
+
+Fixing Authority, under (b)(4) Vessel Employees in Areas in
+
+Which Inadequate Maritime Industry Exists, it says upon
+                                                                   28
+
+
+recommendation of the agency and approval by the Office of
+
+Personnel Management, vessel employees in an area where
+
+inadequate maritime industry practice exists shall have their
+
+pay fixed and adjusted under the regular wage schedule for the
+
+area, or under a special schedule, rather than in accordance
+
+with maritime rates and practices.   I don't believe that that
+
+exists.
+
+You have Fish and Wildlife and U.S. Geological Survey making
+
+marine comparisons in the same wage area, and then the Park
+
+Service saying you cannot do a marine wage comparison in the
+
+same wage area.   You have two contradictory plans here, and
+
+that's why OPM needs to endorse these and say, "Yes, you can
+
+make that determination," but that was not done.
+
+          The Corps' Floating Plant (XH) schedule is a marine
+
+industry survey based rate for supervisory, USCG licensed 9900
+
+series vessel operators (see Attachment F).   XH schedule people
+
+on board the BILMAIER are the 9900 series officers.   And I want
+
+to clarify something here that probably some people are going to
+
+be confused on.   Fish and Wildlife, USGS, Corps of Engineers,
+
+non-commerce public vessels, they do not require a license;
+
+however, the agencies require these people to have a license to
+
+get the position.   And the reason they do that is because,
+                                                                  29
+
+
+unlike the U.S. Navy or the U.S. Coast Guard, the agencies do
+
+not have the capability to endorse and qualify these people.     So
+
+they allow the Coast Guard to do that by requiring the license,
+
+but the Coast Guard does not require the tug BILMAIER, the
+
+GRAYLING, these other research vessels to have a license.
+
+RANGER, they do.
+
+          So, the Corps Floating Plant (XH) schedule is a marine
+
+industry survey based rate for supervisory, U.S. Coast Guard
+
+licensed 9900 series vessel operators.   How can this be if there
+
+is “inadequate maritime industry”, as NPS determined?   And if
+
+you refer to page 18, paragraph 1, of the NPS's 1980 position
+
+paper, which is contained in the DOI proposal as Attachment F,
+
+in the proposal, please read what NPS said of the Corps vessels:
+
+"They are not considered vessels and therefore are not listed
+
+under that category.   Since these are not comparable situations,
+
+the RANGER III pay schedule cannot be based on the Corps'
+
+schedule, just as the maritime industry cannot be used due to
+
+lack of comparability."
+
+          If you refer back to the 1969 Wage Board minutes, you
+
+will see that it was in fact Department of Interior, National
+
+Park Service that proposed to use the Corps' schedules, in which
+
+in the mid-'70s, they then reversed themselves and said, "These
+                                                                   30
+
+
+are not vessels.   We can't use them for comparison," and the
+
+reason was because the Corps still used a maritime survey to
+
+determine those wages, and during that period on the Great
+
+Lakes, the industry was going through consolidation.   They were
+
+enlarging these vessels.   They were putting sections into these
+
+vessels, made them bigger, to carry more cargo.   They eventually
+
+then consolidated even further when they went to 1,000-foot
+
+vessels, in which there's now 13 of them on the Great Lakes.
+
+And union considerations, they didn't mind paying a captain
+
+another $30,000 or $40,000 because he was carrying -- he or she,
+
+excuse me -- he or she was carrying that much more cargo.
+
+            The ship I started on in 1974 when I first started out
+
+carried 17,000 tons.   These thousand-footers are now carrying
+
+80,000 tons.
+
+            So when the unions negotiated as four or five of these
+
+smaller vessels went to the scrapyard, these bigger ships came
+
+out.   Wages were going up, and that's partially why these wages
+
+in the maritime end went up higher.   And obviously, you will see
+
+in later attachments here that in fact those now reach into
+
+$320,000.
+
+            How can DOI's USFWS and USGS agencies use the Corps
+
+Floating Plant Schedules for comparison as stated in their
+                                                                   31
+
+
+evaluation plan if “these are not vessels”?   If these are not
+
+vessels, why does the Corps require U.S. Coast Guard licenses to
+
+obtain the positions?   Are Corps floating plant vessels for
+
+USFWS and USGS wage plan purposes but not for NPS?
+
+            Also, how can the maritime industry on the Great Lakes
+
+be excluded for wage comparisons when the RANGER is part of that
+
+commercial maritime industry?   Again, the RANGER III is in
+
+commerce.   It's part of that commercial industry on the Great
+
+Lakes, and if you look on marinetraffic.com at any time, you
+
+will see the AIS returns.   You will see that there's significant
+
+maritime industry on the Great Lakes.
+
+            If you will please again refer to page 18 in the NPS
+
+position paper, page 2, “In December 1972, the NERO, NPS
+
+Regional Office, constructed a multi-step rate system for the
+
+RANGER III positions; however, their conclusion was that that
+
+type of pay system was viewed as extremely expensive.   They
+
+stated that such a system would provide incentive increases
+
+beyond that warranted by the true change in wage structures for
+
+the marine industry of the Great Lakes area”.
+
+            Please note that in the first paragraph on page 18,
+
+NPS said the Great Lakes maritime industry could not be used for
+
+wage determination due to lack of comparability, but then NPS
+                                                                   32
+
+
+used comparability with the industry to block any possibility of
+
+adding steps, as every other Federal vessel on the Great Lakes
+
+has.
+
+          In order to compute Great Lakes, St. Lawrence Seaway
+
+pilotage rates, U.S. Coast Guard Headquarters surveys Great
+
+Lakes captains' and first mates' wages.   The 2013 survey,
+
+printed in the Federal Register, shows total captain wage
+
+packages ranging from $231,000 to $320,000 respectively for 9
+
+months work (see Attachment G).
+
+          While these vessels are significantly larger, it does
+
+illustrate the top of the range.   There are few mariners on the
+
+Great Lakes with 1,600-ton deck licenses and 2,000 horsepower
+
+engineering licenses, the minimum required for RANGER.
+
+          Here, let me explain that there's two pools that you
+
+pull your people from, and those pools are the 100-ton, the T-
+
+boat, which is the recreational, and then you go into those
+
+commerce vessels on the Great Lakes, and those are all typically
+
+bulk freighters that are 4,000-ton and above.    That's the pool
+
+of mariners that you typically will hire from.   In the Gulf of
+
+Mexico is those midrange-type vessels, but on both the East and
+
+the West Coast, typically those are unlimited horsepower
+
+licenses and unlimited tonnage licenses, and that's the primary
+                                                                   33
+
+
+pool that you have to pull from.    You can't pull from the
+
+recreational vessel pool, these tour boats and whatnot, because
+
+they're 100-ton or less.    And the Coast Guard issues licenses in
+
+the 100-ton, 200-ton.     Then they jump to 500-ton, then to 1,600-
+
+ton, then to unlimited.
+
+          Most current and former RANGER employees have
+
+unlimited tonnage, horsepower, and AB seaman documents.    Is it
+
+any surprise that the USA Job announcements for the chiefs' and
+
+assistant engineers' positions received only one applicant after
+
+14 postings in the 2011 and 2012 period?    The last posting
+
+offered a $7,500 sign-on bonus but only received one applicant,
+
+and that ran continuously for more than 8 months.
+
+          The DOI proposal indicates that the Captain of the
+
+USGS KIYI, stationed at Ashland, Wisconsin, is a Wage Board
+
+employee, like the others exampled; however, this isn't the
+
+case. Captain Joe Walters of KIYI is a General Schedule Marine
+
+Operations Specialist, not an "excepted service" Wage Board
+
+employee, as indicated.    The same is true for Captain Sam Miller
+
+and the Chief Engineer on EPA's LAKE EXPLORER II that is home-
+
+based in Duluth, Minnesota.
+
+          DOI has left these Corps and EPA vessels out of the
+
+proposal and has misrepresented the KIYI wage plan.     The reality
+                                                                   34
+
+
+is there are four different DOI marine pay plans being used in
+
+the 071 wage area alone, including Wage Board employees, Wage
+
+Board with steps, General Schedule with steps, and regular FWS
+
+employees with steps.   The RANGER is the only vessel without
+
+steps, and as wages have been frozen by the President for the
+
+last 4 years, all other Federal employees, including all Great
+
+Lakes marine employees, continue to receive step increases
+
+during this wage freeze.   Again, the RANGER got shorted; again,
+
+as NPS continued to claim they were studying the pay issue.     See
+
+Attachment H, and if you'll look at that, you will see that the
+
+pay plan on the vessel RANGER has been an issue since 1999, and
+
+you can see the schedule that National Park Service put out, and
+
+it's still unresolved at this point.   Fourteen years later, it's
+
+still unresolved.
+
+          On August 12, 2012, NPS proposed a fixed wage marine
+
+pay plan (WM) used by NOAA.   The NPS lead HR specialist, a 30-
+
+plus-year GS-14, proposed this wage plan, (see Attachment I),
+
+using NOAA's wage formula, a combination of tonnage and
+
+horsepower.
+
+          Consider that I command a commerce passenger, tank,
+
+hazmat, and crane ship that is larger than some NOAA vessels and
+
+has a compressed schedule of 44 trips per year, making four
+                                                                    35
+
+
+dockings per trip, many in high wind and restricted visibility
+
+conditions -- this is what the Coast Guard calls "adverse
+
+weather" under OPA-90 parlance -- on a fixed passenger schedule,
+
+in a rocky, unforgiving maritime environment with few aids-to-
+
+navigation -- and I mean buoys and racons.   A racon is a Morse
+
+Code signature that shows up on radar that identifies a
+
+particular dangerous area.    We don't have those at Isle Royale.
+
+           Despite these factors, the HR specialist, in
+
+consultation with a NOAA HR specialist using the NOAA formula,
+
+came up with a pay plan that actually reduced my wages.   And if
+
+you will -- just as a side note on that, if you look at that
+
+particular proposal, the NOAA proposal, the math was incorrect
+
+where it stated the wage that they proposed for me at $39.90 an
+
+hour.   If you do the math, it is actually $39.09, which would
+
+mean I would get a pay cut.
+
+           Having spoken many times with senior NOAA officers
+
+while trying to hire a chief engineer, these officers, after
+
+seeing pictures of the RANGER, believed the ship to be a Class
+
+III vessel by the NOAA classing formula.
+
+           Believing something must be wrong, I closely reviewed
+
+NPS's proposal and discovered that both the NPS and the NOAA HR
+
+managers mistakenly assumed “international tonnage” was the same
+                                                                   36
+
+
+as “Great Lakes gross-rated tonnage”.     However, international
+
+tonnage is a measure of the interior volume of a vessel measured
+
+in 100 cubic feet per ton, while gross-rated tonnage is a
+
+measure of weight or light ship displacement in short tons.     Had
+
+I not caught this error, all RANGER crew would be making less
+
+today.
+
+          When I notified the ISRO superintendent, the NPS lead
+
+HR specialist, and the NPS Midwest regional director of the
+
+error and my own corrected wage figure of $126,000 annually
+
+based on a U.S. Coast Guard conversion factor, the proposal was
+
+dropped like a hot potato.   And you will see that in Attachment
+
+J.
+
+          It's not surprising that this proposal is not
+
+mentioned in this current DOI proposal.    If the NPS lead HR
+
+specialist and the NOAA HR specialist can't tell the difference
+
+between international tons and gross-rated tons on a critical
+
+pay plan formula, how credible can the NPS determination be that
+
+there is “inadequate maritime industry on the Great Lakes from
+
+which to make a comparison”, a determination made over 43 years
+
+ago that contradicts the current DOI USFWS and USGS wage plan?
+
+          On December 31, 2010, Edward Hickey, RANGER's former
+
+chief engineer, retired.   He was frustrated with the pay issues,
+                                                                    37
+
+
+disparate pay, unpaid lunch while on duty, the meals and
+
+incidental disparity, and ever-increasing responsibilities of
+
+the position.    His vacated position was posted 14 times on
+
+USAJOBS, and I interviewed at least six applicants.     None took
+
+the position when offered, and pay was the reason.
+
+             I eventually did hire Peter Tormala, a young marine
+
+engineer that was working for Crowley Maritime.    He hadn't
+
+applied for the chief engineer's position; rather, the assistant
+
+engineer's position, which was vacated when Assistant Engineer
+
+Charles Hamel retired in June of 2011. Mr. Tormala had 6 years'
+
+experience as a marine engineer, none as 1st Assistant or Chief
+
+Engineer, and was working as a 2nd Assistant Engineer on a West
+
+Coast tank ship.    I told him that with his unlimited horsepower
+
+Second Assistant's license, he could qualify for the Chief
+
+Engineer's position.    I asked if he was interested.   He said
+
+yes, and I hired him off the Assistant Engineer's Certificate of
+
+Eligibles.
+
+             He filled the position for 6 months, then resigned and
+
+went back to his former second assistant position due to pay.       I
+
+will tell you that he makes over $110,000 now in that position,
+
+and that's for 180 days work.    He works 75 days on, 75 off, does
+
+that all year.
+                                                                     38
+
+
+             Former Chief Engineer Ed Hickey luckily and graciously
+
+agreed to work again until a new Chief Engineer could be hired,
+
+but this time as a contractor at $620 a day or $77.50/hr, not as
+
+a reemployed annuitant at $300 a day, ($37.53/hr or $51.42/hr
+
+with benefits included), as he had in 2011.    He decided to work
+
+as a contractor because he knew the Park was paying more for
+
+contracted employees.    And it is $750 a day, that's $93.75 an
+
+hour for a contracted Captain (see Attachment K).    That rate was
+
+paid while I took my wife for medical treatments in Marshfield,
+
+Wisconsin.
+
+             And I will tell you that as I sit here today, Captain
+
+Terry Reynolds of ABCD Marine, which also provides pilotage
+
+services for all of the LCS vessels coming out of Marinette
+
+Marine, all of the Coast Guard vessels coming out of Marinette
+
+Marine, and NOAA vessels coming out of Marinette Marine, he is
+
+standing by for me.    He made the trip on Tuesday and Wednesday.
+
+He will make a trip today, Friday, and Saturday, and the
+
+taxpayers are paying him $750 for me to be here -- per day.    He
+
+did this because he knew the Park was paying $750 a day for the
+
+contracted captain.
+
+             The assistant engineer's position was re-advertised,
+
+and only one applicant, Gregg Burr, applied, a recent graduate
+                                                                   39
+
+
+of the Great Lakes Maritime Academy in Traverse City, Michigan,
+
+with no experience as a licensed marine engineer.   He was hired
+
+in September of 2011 and resigned in June this year, right after
+
+the Park spent $10,000 in training costs to get this employee a
+
+U.S. Coast Guard tankerman's endorsement (see Attachment A),
+
+necessary to transfer cargo oil under OPA-90.   He now works for
+
+Overseas Group Incorporated, a tanker fleet in the Gulf of
+
+Mexico, as a Third Assistant Engineer making $95,000 a year for
+
+a 180-day year or $528 a day, not including pension or medical
+
+plans.   His NPS pay was $28.48 an hour or $215 a day for 260
+
+days or $56,000 annually, benefits not included.    And this was
+
+less than a backfill, seasonal, motorboat operator at Voyageurs
+
+National Park (see Attachment L).
+
+           Here is a guy that has a 4-year degree, graduated from
+
+the Academy, has to have a Coast Guard license, has to have a
+
+TWIC, has to have an OSHA, has to have all of these documents,
+
+and he's making less than a motorboat operator at Voyageurs
+
+National Park.
+
+           This vacated position is currently being held up by
+
+the sequestration awaiting an NPS waiver, as the Park pays
+
+another contractor $450 a day to fill this mandatory position -
+
+not with a Marine Engineer, but with a Marine Oiler.   And again
+                                                                      40
+
+
+-- this oiler comes to us from ABCD Marine, same company that
+
+provides these positions for the Navy and NOAA.
+
+            And because the contracted person does not have a U.S.
+
+Coast Guard Tankerman's Endorsement, NPS is paying an additional
+
+$620 a day to former Chief Engineer Hickey when cargo oil must
+
+be loaded and unloaded, and that is approximately 20 to 24 times
+
+per year.
+
+            Right now, I am eight loads of oil behind at Isle
+
+Royale.    There's more than a quarter of a million dollars
+
+sitting in an account right now to pay for that oil to be
+
+delivered to Isle Royale, and it's doubtful that I will be able
+
+to deliver that many loads of oil before the end of the fiscal
+
+year, which means that money will have to be de-obligated out of
+
+those accounts and then re-obligated and possibly carried over
+
+to 2014.    It's all dependent on Mr. Hickey's schedule.    If he's
+
+available, then I have to notify him that I need him for the
+
+transfer of the oil, and if not, I can't transfer oil.
+
+            Also, as indicated in the DOI proposal, NOAA Chief
+
+Engineer Jeff Hokkanen of the NOAA vessel OSCAR DYSON, has a
+
+base pay of $147,000 annually and with mandatory overtime makes
+
+$162,000, not including benefits.   I interviewed this gentleman
+
+to take the Chief Engineer's position on the RANGER.       I only got
+                                                                     41
+
+
+halfway through the interview, and when he found out he had to
+
+take a 52 percent pay cut to come to the RANGER, because he was
+
+from Duluth, Minnesota, he just ended the interview right there
+
+and then.
+
+             How can there be such a disparate hourly wage for
+
+essentially the same engineering job and same U.S. Coast Guard
+
+license?    The Chief Engineer's position vacated by Mr. Tormala
+
+was posted again in the spring of 2012, now with a $7,500 sign-
+
+on bonus, continuously this time, until the Chief Engineer was
+
+hired in February of this year.    He was a 2nd Assistant Engineer
+
+with NOAA.    It was on the MacARTHUR II.   He had no experience as
+
+a Chief or 1st Assistant Engineer and was the sole applicant on
+
+the Certificate of Eligibles.    He was a 10-point vet.   He was
+
+the only applicant I had virtually.    He had the job.    I didn't
+
+even do an interview.
+
+             The RANGER crane operator, David Latvala, is paid 72
+
+percent less than the crane operator of the 071 wage area Corps
+
+crane barge H.J. SCHWARTZ, which I indicated to you makes more
+
+than me, and 18 percent less than Isle Royale's own land-based
+
+crane operators (see Attachment M).    And again, this is a non-
+
+commerce position at Isle Royale in the Park.
+
+             This gentleman -- we actually have two crane operators
+                                                                       42
+
+
+on the shore that operate a mobile crane and also a travel lift.
+
+They are paid $5 more per hour than Mr. Latvala, and Mr. Latvala
+
+has to have a certification by NCCO because the RANGER is in
+
+commerce, and yet he's still $5 an hour less than that and 72
+
+percent less than the crane operator on the H.J. SCHWARTZ, which
+
+is the Corps of Engineers.
+
+             And I might add that there are no stability
+
+considerations when you do a lift with that crane barge because
+
+it is a spud barge.    It is anchored to the ground when you make
+
+a lift, where on the RANGER III, you have to consider all of the
+
+ballast and the bottom when you make a lift.    That lift has to
+
+be offset.    When you're making a 90-degree, swinging a boom out
+
+on a crane, and you're making a lift of 4-1/2 tons, you have to
+
+know what's in the bottom of the ship before you make that lift.
+
+We are not attached to the ground when we do that.
+
+             Mr. Latvala requested a desk audit in 2009.    NPS paid
+
+$1,600 to have this desk audit performed by an NPS Denver
+
+Service Center contractor.    His position was classified
+
+equivalent to a WG-11 by the contractor, while he is currently
+
+paid equivalent to a fixed WG-9/3.    Despite being graded at WG-
+
+11 by the contractor, the NPS MWRO regional HR office, who
+
+requested and paid for the audit, discarded the audit and then
+                                                                   43
+
+
+said “only OPM can classify a Wage Board position”.
+
+            At the very same time, Madeline Gonzalez, the
+
+Ombudsperson for OPM, said “DOI retains authority to classify
+
+and pay employees on the vessel” -- and this was by their
+
+special set-aside authority -- the exact opposite of what NPS HR
+
+had said.   At best, Mr. Latvala is losing $6,600 per 33 weeks
+
+annual employment since July of 2009 and at worst $22,000 for 33
+
+weeks compared to the Corps SCHWARTZ crane operator, contrary to
+
+5 USC 5341(1).
+
+            I also had requested a desk audit, which my
+
+supervisor, a 42-year NPS veteran, requested in 2006 (Attachment
+
+D), but this was held up until Mr. Latvala's was completed.
+
+When his was rejected by the regional NPS HR office, my desk
+
+audit request was disregarded and shelved by NPS.   It still has
+
+not been endorsed by NPS or accepted.
+
+            In addition to RANGER pay issues, the Park's tug and
+
+barge operation, also a U.S. Coast Guard-licensed “commerce”
+
+position, but not Wage Board -- this is a WG-12, and I might add
+
+that in my mind that is impossible to do since WG is a non-
+
+supervisory position.   For the captain to have to have a
+
+license, a tankerman's certificate, and be pulling an OPA-90
+
+gasoline barge, one would think that he would have to be a
+                                                                   44
+
+
+supervisor.   It's incomprehensible to me that the person would
+
+be a WG as opposed to a WS and frankly should be Wage Board as
+
+far as I'm concerned.
+
+          That operation is at a standstill.   The Park has been
+
+unable to hire a tug Captain/tankerman for over 2 years since
+
+the former Captain, Joe Bergan, frustrated over pay and work
+
+issues, defected to USGS as the captain of the USGS GRAYLING,
+
+leaving no backfill Captain, Mate, AB, or Oiler for RANGER.
+
+This particular gentleman, a hardworking guy, had all of the
+
+endorsements, so that if I were off the vessel, the First Mate
+
+were off the vessel, Oiler was off the vessel, AB was off the
+
+vessel, this guy could fill it because he had those credentials,
+
+and he was gone.   He just recently said that he would not come
+
+back.
+
+          He started with USGS on a 75-foot, 190-ton fish
+
+research vessel at a higher rate of pay than I make on this 165-
+
+foot, 650-ton U.S. Coast Guard-inspected passenger, oil, crane
+
+vessel, and I have been in this position for 20 years.   He has
+
+no passengers, no cargo oil, no cargo hazmat, no U.S. Coast
+
+Guard or ABS inspection regime to manage or comply with, no
+
+marine work rules, no firearms, no deck cargo other than fish,
+
+no dangerous cargo manifest to fill out, no stability
+                                                                   45
+
+
+calculations, no OPA-90, no MTSA, no sea marshals, and he
+
+operates this workboat with two crew in fair weather.
+
+           In addition, USGS receives full travel per diem
+
+($66/day) for their Headquarters, not for where the boat is
+
+stationed, while RANGER's crew is less than one-third of the GSA
+
+travel allowance for meals and incidental expenses at $20 a day.
+
+           This is the current NPS state of affairs, disastrous
+
+by most HR standards, dangerous by marine.
+
+           My proposal - first, I will propose that management
+
+and administration of this commerce maritime wage plan be
+
+removed from DOI/NPS and moved to OPM, MSC, or the Corps.    I
+
+firmly believe, as do all crew (current, former, or retired),
+
+that DOI/NPS has abused their “special set-aside authority” and
+
+is intentionally undermining the “prevailing rates” of this
+
+unique Wage Board vessel crew.   This latest proposal is just a
+
+continuation of this.
+
+           They have also denied crew of the basic right to have
+
+their position descriptions revised and audited, so that a fair
+
+wage can be determined based upon position responsibilities,
+
+risk management (and Federal liabilities) by a legitimate Wage
+
+Board.   Neither DOI nor NPS has the maritime industry knowledge
+
+or marine HR experience to manage this wage program.    Again, see
+                                                                   46
+
+
+Attachments H and I.   I think that illustrates what I'm talking
+
+about.
+
+          I would also advise that the Park's U.S. Coast Guard
+
+inspected tug SHELTER BAY and OPA-90 gasoline tank barge
+
+GREENSTONE II be added to the Wage Board pay plan and managed by
+
+OPM, Corps, or other agency with maritime knowledge due to the
+
+U.S. Coast Guard-inspected status, unlimited liability of OPA-
+
+90, MTSA inclusion, often adverse weather, unforgiving operating
+
+environment, marginal equipment, and USCG licensing required to
+
+safely perform this hazardous job upon the fresh waters of Lake
+
+Superior, in a wilderness National Park, with limited aids to
+
+navigation.
+
+          My proposal for the master's wage plan is to adopt an
+
+hourly rate that acknowledges the responsibilities and unlimited
+
+liabilities of operating a passenger, tank, and hazmat-carrying
+
+vessel in commerce under a U.S. Coast Guard and ABS inspection
+
+regime in a hazardous, unforgiving marine environment.
+
+          In addition to the operational responsibilities
+
+assigned to me, I also am responsible for administrating the
+
+OPA-90 program, enforcement and partial administration of the
+
+MTSA program, acceptance and carriage of firearms and
+
+ammunition, a new paradigm in National Parks, liaison with U.S.
+                                                                     47
+
+
+Coast Guard Headquarters VRP section, Superintendent of Navy
+
+Salvage, U.S. Coast Guard D-9 contract officers and the U.S.
+
+Coast Guard Captain of the Port MSU Duluth, administration and
+
+compliance of the Ballast Water Treatment Program, shipyard dry-
+
+docking contract document preparation, which this last pay
+
+period I had 32 hours overtime -- and that was preparing the
+
+dry-document contract that's coming up for this fall, which I
+
+will be the contract officer's technical representative for
+
+these contracts -- preparing position announcements, which I've
+
+done several, selecting candidates from qualified lists of
+
+applicants, preparing and submitting annual and long-term
+
+budgets, supervising a crew of eight, hazmat and OPA-90
+
+training, which I do every year, all those items that a full
+
+vessel department would be responsible for at any other agency
+
+or commerce shipping company.
+
+          I am proposing that the Master of the RANGER be paid
+
+the same hourly rate as a Corps of Engineers Hopper Dredge
+
+Captain, WJ-16 or $58.06 an hour.   It's in Attachment N.    While
+
+some Corps hopper dredges are larger by tonnage than RANGER,
+
+their singular mission is to suck up mud from channels.     I know,
+
+I've been there, I've been a captain on a dredge -- no
+
+passengers, no hazmat, no dangerous cargo manifests, no OPA-90,
+                                                                  48
+
+
+no firearms, no sea marshals, no flammables, no cargo oil, and
+
+they have vessel shore-side administrative support from a marine
+
+management office.
+
+          What RANGER lacks in size is certainly offset by the
+
+mission responsibilities and liabilities of passengers, oil,
+
+crane, maritime security, and hazmat service on top of my
+
+administrative duties.
+
+          Also, Corps hopper dredges are U.S. Coast Guard
+
+inspected and ABS classed, a strict inspection regime not
+
+imposed on Corps floating plant vessels (Tug BILMAIER) or the
+
+Federal vessels DOI is using as a comparison in their current
+
+pay plan proposal.
+
+          As far as the crew, I will propose that the RANGER
+
+officers also be placed on the Hopper Dredge Schedule and
+
+unlicensed positions placed on the Corps Great Lakes Floating
+
+Plant Schedules.
+
+          I will reverse myself on that.   I would propose that
+
+all of the crew go onto the Hopper Dredge Schedules, and the
+
+reason is because as far as my research is, it's that on the
+
+Floating Plant Schedule for Detroit, they do not have AB seamen.
+
+They just don't use ABs to my knowledge, where the hopper
+
+dredges do use ABs or able-bodied seamen is the certification.
+                                                                   49
+
+
+So I would propose -- I would change this to just put the whole
+
+crew on the Hopper Dredge Schedules.
+
+          Because our crane operations are ultimately supervised
+
+by the Captain and First Officer, I propose that the crane
+
+operator be paid the same rate as a non-supervisory crane
+
+operator on the Corps Floating Plant or Hopper Dredge Schedules,
+
+whichever, or approximately $32 per hour.
+
+          As indicated in the DOI proposal, DOI/NPS still has
+
+not officially acknowledged, revised, or classified   RANGER PDs
+
+even after a more than a decade -- see Attachment D -- another
+
+reason to move management of this program to OPM or the Corps.
+
+          I also request that the FPRAC recommend that each PD
+
+be revised and pay adjustments made by a legitimate Wage Board
+
+for the start of FY14.   This crew has been punished enough
+
+without additional delays and HR mumbo-jumbo deliberations.
+
+This has been 13 years, actually 14, of "malarkey" as Vice
+
+President would say.   Again, see Attachment H.
+
+          My hopes are that the FPRAC will study the vessel's
+
+comparative operations closely against other agency vessels,
+
+ocean, lakes, and brown water; consult with the U.S. Coast Guard
+
+Marine Inspection office in Duluth; speak with my supervisor,
+
+Keith Butler; consider each crewmember's position
+                                                                        50
+
+
+responsibilities; evaluate the Federal risk and liability of
+
+operating a passenger, tank, and hazmat vessel in this hazardous
+
+marine operating environment; and ultimately produce a fair wage
+
+for this crew that complies with 5 USC 5348(a) -- not (b) -- and
+
+5341(1-4).
+
+             If you have any questions, I will do my best to answer
+
+these, and thank you for this opportunity to speak and submit
+
+this document for the record.
+
+             CHAIRMAN FRIEDMAN:    Thank you very much, Captain
+
+Hanrahan, for your very comprehensive remarks.
+
+             I would like to ask if any of our DOI visitors would
+
+like to add anything at this point, or if not, we can go
+
+directly to questions and discussion.        Do any of you want to
+
+respond?
+
+                  MR. HOWARD:     We don't have any comments at this
+
+time.
+
+             CHAIRMAN FRIEDMAN:    Okay.    In that case, let me open
+
+it up to members of the Committee.         Any questions or discussion?
+
+                  MR. BERNHARDT:    I have a few questions,
+
+Mr. Chairman.
+
+             First of all, Captain, thank you for that
+
+presentation.    My first question is, What took you so long?
+                                                                   51
+
+
+           CAPT HANRAHAN:   What took me so long to get here?
+
+           MR. BERNHARDT:   To be here with us today.
+
+           CAPT HANRAHAN:   The research that I have done over
+
+several years, it involved numerous FOIA requests.      I still have
+
+FOIA requests pending with OPM, as Madeline is probably aware
+
+of.   Going to a step system has been brought up numerous times,
+
+and numerous times it was blocked by NPS.   And I'm still waiting
+
+on some FOIA requests.
+
+           It just takes a lot of time to gather all of this
+
+data, and then it can be termed as a complex issue, if you want
+
+to look at it that way, because the RANGER III is a unique
+
+vessel.   There's no doubt about it, but it just takes a lot of
+
+time to put all of this information together and figure it out,
+
+and after a certain amount of time -- I mean, nobody on the crew
+
+wants to pick a fight with Park Service.    Nobody wants to get
+
+into a rigmarole fight over this thing.    They tried to work
+
+through every channel possible to do this, including the
+
+grievance process, only after several discussions.
+
+           The original lead HR specialist from the Midwest
+
+Regional Office, as I said, came on board in 1999, talked to the
+
+crew then, and resolved to look at the situation and resolve it.
+
+At no time in all of the last 14 years did NPS come forward and
+                                                                    52
+
+
+say, "Look, you guys, as far as we're concerned, you are paid
+
+adequately under 5 USC 5348(b)."     Nobody ever said that.   It was
+
+always, "We're studying it.     We're doing this.   We're looking at
+
+this.    We're doing this."   It was always some excuse and --
+
+            MR. BERNHARDT:    You were strung along.
+
+            All you would have had to tell me is that they reduced
+
+your hours to 32 per week, and I would have thought Wal-Mart was
+
+running this ship.
+
+            You have painted a picture of exploitation that is --
+
+I'm outraged sitting here listening to it.
+
+            CAPT HANRAHAN:    You know, these are all pretty good
+
+working guys.   I think everybody wants a fair wage, but they are
+
+convinced, as I am, that they've ended up on the short end of
+
+the stick here.
+
+            Everybody knows that this vessel performs far beyond
+
+the research vessels, far beyond a tug for the Corps.
+
+            Mr. Allen's comment about saltwater vessels, MSC, NOAA
+
+- I don't buy that.    Saltwater, freshwater - when you're an
+
+engineer, it doesn't make any difference.     For the deck
+
+officers, it doesn't make any difference.     You're standing a
+
+watch.   You stand at 8 hours a day.    You get paid on an hourly
+
+basis, yet if you work more, which they will on saltwater
+                                                                    53
+
+
+vessels because they are working different watches, they get
+
+paid overtime.   They are remunerated for that overtime, but the
+
+hourly rate is the issue.
+
+          The other thing is this has been a fixed rate, and it
+
+has been that for 55 years.    This is almost some kind of hybrid
+
+between 5348(a) and 5348(b) where there are no steps versus (a),
+
+where the wages get reviewed every year.
+
+          And I don't think, you know, I wouldn't expect that a
+
+marine survey be done every year.   I would expect that every 2
+
+years maybe or every 3 years, you would review that, but to
+
+extract this vessel from the maritime industry and now try to
+
+hook it onto an FWS wage schedule that essentially is a survey
+
+of construction trade industry versus the maritime industry just
+
+isn't fair.   It should, as far as I'm concerned, stay in the
+
+5348(a) category, and should have never left that.
+
+          CHAIRMAN FRIEDMAN:    Any other questions?
+
+          MR. BERNHARDT:    Yeah, one more question, Mr. Chairman.
+
+          Where do the funds to pay the crew come from?    Are
+
+they appropriated funds, or do they come from some other kind of
+
+source?
+
+          CAPT HANRAHAN:    They come from appropriated funds, but
+
+there are also revenues.    There are obviously revenues involved
+                                                                     54
+
+
+here.   The total budget is in the $700,000 annual range.    About
+
+$200- to $230,000 are recovered in revenues.   Some people would
+
+say that that's operating in the red.   Well, that's not the case
+
+because you are transporting -- there's three users of this
+
+vessel, and that is the Park Service, the exclusive concession
+
+at Isle Royale National Park, and then the general public.    The
+
+revenues are coming from the general public.   You're looking at
+
+about, as I said, $200- to $230,000; however, the other half of
+
+that is some reduced freight rates that are accommodating the
+
+exclusive concessionaire, and then NPS obviously doesn't pay
+
+rates to themselves.
+
+           So transporting the oil, the majority of the oil is
+
+transported for generators on the island to produce electricity
+
+at three different power stations, but it's also transported for
+
+the concessionaire who uses it for their tour vessel, for
+
+heating up the lodge units, and then they also sell diesel oil
+
+at the marina.
+
+           And the reason that they do this -- and you're saying,
+
+"Well, why not eliminate that function?"   If you eliminate that
+
+function and they've considered that, people will bring gasoline
+
+and oil in 30-gallon drums, and you end up at the camp grounds
+
+with drums of gasoline.
+                                                                     55
+
+
+            I can remember one example of a fairly large charter
+
+boat coming out there, and he had about twelve 5-gallon cans,
+
+plastic cans of gasoline on the top of his cabin.     I was
+
+thinking to myself, that thing is just a bomb waiting for a
+
+spark to happen, and that's primarily why the Park Service
+
+through the concessionaire sells oil and gasoline at the marina
+
+there.
+
+            One other thing, Isle Royale is -- for those who are
+
+not familiar with Isle Royale, it's in the middle of Lake
+
+Superior.   It's a 76-mile trip.    It's 6 hours on the RANGER III
+
+to get there.
+
+            CHAIRMAN FRIEDMAN:    Any other questions or discussion?
+
+            MR. ALLEN:   I'd like to thank you very much for coming
+
+today.   You are the expert.     This is a lot of good information
+
+you've provided.
+
+            We currently have two ideas that we should consider.
+
+I think one is the current recommendation from the Park Service
+
+-- National Park Service, and the Department of the Interior and
+
+yours, which is to link the crew of your vessel to the same kind
+
+of practices as the Army Corps of Engineers follows for their
+
+hopper dredge.
+
+            CAPT HANRAHAN:   It would go to the Hopper Dredge
+                                                                       56
+
+
+Schedules.    The only thing, I don't think that the Hopper Dredge
+
+Schedules, they may not have a crane operator on there, so I do
+
+not know.    If not, then as I said, use the nonsupervisory crane
+
+operator with the Corps, which is approximately $32 an hour,
+
+which is still $7 an hour short of the crane operator on the
+
+H.J. SCHWARTZ, which is a supervisory position.       The particular
+
+person in that position supervises the operations of that barge,
+
+not the Captain of the tug.
+
+             MR. ALLEN:   But that sounds like the issue with the
+
+crane operator position could be resolved by aligning that
+
+position's duties with other jobs that the Army Corps of
+
+Engineers has --
+
+             CAPT HANRAHAN:   I would say so and --
+
+             MR. ALLEN:   It's not a problem that's incapable of
+
+being solved.
+
+             CAPT HANRAHAN:   As I said, he makes 72 percent less,
+
+and as he said, if the guy drops -- Corps of Engineers drops a
+
+rock, you just pick up another one.     If you drop a single-engine
+
+airplane that cost $700,000, which he has picked up, we pick up
+
+boats regularly there that cost $200,000 on a regular basis, and
+
+he puts more time on the crane probably in a week than our two
+
+land-based crane operators put in, in a season.       And yet he's $5
+                                                                    57
+
+
+a less than our land-based crane operators.
+
+           CHAIRMAN FRIEDMAN:   Anything else?
+
+           MR. BERNHARDT:   One thought, and I ask this almost
+
+rhetorically because I don't think we can expect to have the
+
+answer.   But what if we did a straight-out survey of the
+
+maritime industry on the lakes?    Would we find sufficient
+
+matches to make a schedule?
+
+           MR. ALLEN:   I can't really speculate on that.     OPM
+
+does not administer the -- actually, I don't think anybody
+
+actually does a survey --
+
+           MR. BERNHARDT:   I don't think so, either.
+
+           MR. ALLEN:   -- for the maritime industry on the Great
+
+Lakes.
+
+           The rates under 5348 tend to be based on union scale,
+
+the National Maritime Union and other unions that represent
+
+members of vessels, crewmembers.
+
+           So, most likely, we -- there's plenty of data out
+
+there based on the union scale.    I don't actually have access to
+
+that myself, but it would not be too difficult for somebody to
+
+find out what they are.
+
+           CAPT HANRAHAN:   As I said -- and it is in the
+
+attachments in the Federal Register -- the U.S. Coast Guard does
+                                                                      58
+
+
+do surveys on a regular basis on Captains, Great Lakes Captains
+
+and First Mate's wages, and the reason they do that is because
+
+they determine the rates set on the St. Lawrence Seaways such
+
+that the piloting organizations, that's how their pay is
+
+determined.
+
+           And as you'll see in that, the total package for the
+
+captain was between $230- and $320,000, and that's the total
+
+package.   That's medical, all those benefits for a Captain's
+
+pay.   That's how they determine the pilotage rates, - there is
+
+data there that the Coast Guard surveys.     There's a specific
+
+person in Coast Guard Headquarters that does that.
+
+           CHAIRMAN FRIEDMAN:     Yes?
+
+           MS. GAILES:   I was just going to ask in that instance,
+
+just to make sure that it's considered - the route that the
+
+RANGER III goes versus where the other ships are going and
+
+making sure that's a comparable maritime industry, if that is
+
+what is decided.
+
+           And also, in terms of the Hopper Dredge Schedule, I
+
+don't see in the proposal, the area that they're using.     So if
+
+that could be provided to us, that would be good as well.
+
+           MR. ALLEN:    I believe it would be Detroit.
+
+           CAPT HANRAHAN:   No.    There's only an East Coast and a
+                                                                    59
+
+
+West Coast Hopper Dredge Schedule.    They contract-out dredging
+
+on the Great Lakes.    However, that may change since they
+
+reportedly have a dredging crisis.    You may see a Corps dredge
+
+come back in the Lakes, but they use just an East and a West
+
+Coast schedule.
+
+          And you'll see the one that I have in my attachments
+
+as a West Coast schedule -- announcement is what it is.
+
+          CHAIRMAN FRIEDMAN:    Jim, do you want to enlighten us
+
+more on that?   Are those schedules developed by your unit?
+
+          MR. BRADY:    Yes.   We develop them manually, and they
+
+are developed based on wage areas, number of wage areas that
+
+exist, and it's a combination average of the rates for East Cost
+
+and West Coast.
+
+          MR. BERNHARDT:    Which one is higher, Jim?
+
+          MR. BRADY:    Off the top of my head, I don't know.
+
+          MR. BERNHARDT:    We want the higher one, okay?
+
+          [Laughter.]
+
+          MR. BRADY:    It's in the middle of the country.
+
+          [Laughter.]
+
+          MR. ALLEN:    In Attachment D to the OPM document 585-
+
+OPM-1, we have a Hopper Dredge Schedule, which applies to the
+
+U.S. Army, the U.S. Army Engineer District Detroit, Michigan.
+                                                                    60
+
+
+          CHAIRMAN FRIEDMAN:   Well, anyway, obviously, my sense
+
+is we're not going to resolve this today.    I think I can just
+
+establish that for the record by asking the question:    Is there
+
+consensus to adopt the proposal presented in 585-OPM-1?
+
+          MR. ALLEN:   I need to do some more thinking about this
+
+myself.
+
+          CHAIRMAN FRIEDMAN:   So we clearly do not have
+
+consensus to adopt; therefore, we need to come up with something
+
+else.
+
+          Is there anything else we can do on this today?
+
+          I think Mark laid out two options.     A third one, it
+
+seems to me, is whether there is a maritime wage schedule and
+
+whether we agree or not that it should be applicable.    This
+
+third option ought to at least be on the table for
+
+consideration, that is my 2 cents.     I don't have any idea yet
+
+what the answer is, but at least I'll throw it out there.
+
+          MR. ALLEN:   We are getting ourselves educated.
+
+          CHAIRMAN FRIEDMAN:   Yeah.
+
+          MR. ALLEN:   Thank you.
+
+          CAPT HANRAHAN:   It is somewhat complex because I
+
+recognize that the vessel is a unique situation.
+
+          CHAIRMAN FRIEDMAN:   Well, anything else on this now?
+                                                                      61
+
+
+I would like us to --
+
+            Yes, please, go ahead.
+
+            MS. GAILES:   I just wanted to make one last comment -
+
+I don't want to give the impression that anything is being
+
+blocked.    We were continuing to review, because it is a complex
+
+issue.   We want to make sure we have as much information as
+
+possible before we can move forward, so that is just one comment
+
+I would like to make.
+
+            CHAIRMAN FRIEDMAN:     I have a question while you folks
+
+are here, to make sure I understand your proposal.
+
+            I am looking at Attachment C, in OPM 585-OPM-1, where
+
+you have the current rates.      I see the previous page, the FWS
+
+wage schedule for Northwestern Michigan.      They're obviously all
+
+Step 3's.
+
+            What I just wanted to be clear on is, where exactly
+
+are you proposing to slot people in the Detroit schedule,
+
+Attachment D?
+
+            MS. GAILES:   At the same Step 3 but with eligibility
+
+for within-grade.
+
+            CHAIRMAN FRIEDMAN:    Okay.   So at a level equivalent to
+
+the grade corresponding to where they're at now?
+
+            MS. GAILES:   Correct.
+                                                                      62
+
+
+           CHAIRMAN FRIEDMAN:      So, for example, for Captain
+
+Hanrahan, it looks like he's equivalent to a WS-16, $39.23, I
+
+believe.   He would go where, just so I understand it correctly?
+
+           MS. GAILES:    He would also go to the XH-16, Step 3,
+
+which looks like it's about $45.31.
+
+           CHAIRMAN FRIEDMAN:      Okay.   So I just wanted to clarify
+
+what the proposal is.    That's all.
+
+           CAPT HANRAHAN:    How would I come up at Step 3 when I
+
+have 24 years federal service?
+
+           MS. GAILES:    Well, we were just putting you where the
+
+actual grade was, where you are right now.       It wasn't increasing
+
+any kind of grades.     It was giving the opportunity for --
+
+           CHAIRMAN FRIEDMAN:      At 3 or -- is that your
+
+understanding?
+
+           MR. ALLEN:    Yeah, the steps are scoped out on page 4
+
+of the OPM document.
+
+           CAPT HANRAHAN:    And I would still be less than the
+
+captain on the BILMAIER which the Park Service agreed at the
+
+last wage board on August 10th of 1969.
+
+           MS. GAINES:    Right.    And one thing in terms of the
+
+past documentation, I'm not sure that that process or -- you
+
+know, where those people's decisions ended up.       That was years
+                                                                      63
+
+
+ago, so we needed to move from this point forward.
+
+           CAPT HANRAHAN:    And since that came up, Congress has,
+
+as I said, laid OPA-90 on us, maritime transportation security
+
+HMR -- all of these since you agreed to match the Corps'
+
+Floating in 1969.
+
+           And I might add that I administrate those programs
+
+too.   That's not in my position description.   At some point, I
+
+will drop dead from paper.
+
+           CHAIRMAN FRIEDMAN:   Okay.   Well, we will have to
+
+ponder this.   Hopefully, we'll do it quicker than another 43
+
+years.
+
+           [Laughter.]
+
+           CHAIRMAN FRIEDMAN:   In fact, we will.
+
+           Anything else on this matter?
+
+           MR. PHELPS:   I have one question for Ms. Gaines.    She
+
+was just saying that they were looking to move forward.    So that
+
+makes a point on why we must make sure things are written down
+
+and documented because 10 years from now, somebody else is going
+
+to be at FPRAC who wasn't here at this meeting from either the
+
+Management or the Labor side. With documentation in writing,
+
+everyone can see where your starting point is, not disregard it,
+
+and state that we'll just start from the present and move
+                                                                     64
+
+
+forward.   I mean, that's just an unfair way to look at things.
+
+           MS. GAILES:   There was a resolution that was written
+
+down, but there wasn't a resolution from any of the meetings
+
+from the past.
+
+           MR. PHELPS:   I don't know.   I haven't had a chance to
+
+really look at it that much, but from what the Captain said, it
+
+sounded like they had minutes from the meeting where
+
+disagreement was made.   Am I wrong on that, or is that what it
+
+was?
+
+           CAPT HANRAHAN:   Yes, you will see that in the minutes.
+
+You’ll also see the letter that was sent where they did actually
+
+implement that on June 1st of 1969.
+
+           I would also like maybe a date that you can put your
+
+hands on a document that says we're going to resolve this at
+
+some date that's reasonable instead of going on for another 14
+
+years.
+
+           CHAIRMAN FRIEDMAN:   Just so you understand how we work
+
+here, we advise the Director of OPM.     So we can't -- I suppose
+
+we could tell you here that there's a deadline by which we will
+
+render some verdict to the Director of OPM, but that would then
+
+be up to --
+
+           CAPT HANRAHAN:   That's up to --
+                                                                        65
+
+
+             CHAIRMAN FRIEDMAN:    Yeah.   That would be our
+
+recommendation --
+
+             CAPT HANRAHAN:    Understood.
+
+             CHAIRMAN FRIEDMAN:    -- which she could then do what
+
+she wants with.
+
+             CAPT HANRAHAN:    Kind of like the NTSB.
+
+             CHAIRMAN FRIEDMAN:      Is there a way we can set a
+
+deadline for ourselves to develop a recommendation on this?        It
+
+may not end up being a consensus recommendation, but I feel like
+
+we owe --
+
+             MR. PHELPS:    Personally, I don't see where it would
+
+take that much time.       Mark said he wants to look at things.   I
+
+have no problem with him taking some time to research, but it
+
+seems fairly clear to me, even at this point, without looking at
+
+anything else that these people have been used and abused, if
+
+not for lack of more descriptive words, already.        And I don't
+
+think we should take any more time than absolutely necessary to
+
+help them.
+
+             CHAIRMAN FRIEDMAN:    Do you want to respond on the
+
+schedule, Mark?
+
+             MR. ALLEN:    I think we'll have a better idea once we
+
+dig into this some more and come back to the next meeting.
+                                                                      66
+
+
+            CHAIRMAN FRIEDMAN:    Okay.    So is that adequate for now
+
+in terms of schedule?    It means we'll have a full discussion of
+
+a possibly revised proposal, or do we need more time than that?
+
+I just want to clarify exactly where we stand on this.
+
+            MR. ALLEN:   The only proposal we have at the moment is
+
+the one from the Department of the Interior.       That's an agency
+
+proposal coming to OPM.      There is a personal idea from Captain
+
+Hanrahan which we're also going to consider, and there may be
+
+other ideas that others have also.        So there's a lot to think
+
+about.   I'm not prepared right now to say we'll have a
+
+recommendation coming out of the Committee at the next meeting.
+
+            CHAIRMAN FRIEDMAN:    Well, I would like us to set some
+
+kind of a deadline for this, whatever is reasonable.       Can we
+
+pick one?
+
+            MR. ALLEN:   I think I've already stated that we'll
+
+come back to the next meeting with a better idea of where we
+
+stand.
+
+            CHAIRMAN FRIEDMAN:    All right.    I guess that's the
+
+best we can do at the moment.     Captain Hanrahan, I really do
+
+appreciate your coming.
+
+            CAPT HANRAHAN:    You're welcome.    I thank all of you
+
+for the opportunity.
+                                                                    67
+
+
+            CHAIRMAN FRIEDMAN:   All right.
+
+            Well, we do have a couple other New Business items.
+
+Please summarize them briefly for us, Mark.
+
+            MR. ALLEN:   The Management members currently have a
+
+proposal on the agenda on Old Business, 557-MGT-2, Lee County,
+
+Virginia.
+
+            We have received new commuting pattern information and
+
+new metropolitan area definitions, and the document 586-MGT-1 is
+
+basically this.   It's an update of the statistical information
+
+that's possible to be updated for 557-MGT-2.
+
+            But Management recommendation remains the same, which
+
+is to say that Lee County is appropriately defined to the
+
+Eastern Tennessee wage area.
+
+            What's really driving that is it's adjacent to the
+
+survey area for Eastern Tennessee, and it's a considerable
+
+distance away from the survey area for the West Virginia wage
+
+area.
+
+            The other one, 586-MGT-2, is a similar update to 562-
+
+MGT-2, and again, with this one, there's no change in the
+
+Management recommendation based on a further analysis of the new
+
+metropolitan area definitions and commuting patterns.
+
+            This one would result in placing 11 employees on a
+                                                                  68
+
+
+lower wage schedule, and it's driven by our review of the MSA –
+
+under OPM regulations it is permissible for MSAs to be split
+
+between FWS wage areas only in very unusual circumstances.
+
+          CHAIRMAN FRIEDMAN:   Any questions or discussion on the
+
+review of Lee County, Virginia?
+
+          MR. BERNHARDT:   Yeah.   Mr. Chairman, one thing that
+
+AFGE wants to throw out into the discussion is whether there is
+
+a chance or the sense in the system to eliminate the Eastern
+
+Tennessee wage area altogether.
+
+          As you know, we have been urging review of the FWS
+
+wage areas and make them aligned with the GS pay locality wage
+
+areas, so we want to throw out for consideration the possibility
+
+of eliminating the Eastern Tennessee wage area.
+
+          I know we're not prepared to discuss that, but I want
+
+to put that out there that that's going to be an issue AFGE
+
+wants us to consider.
+
+          CHAIRMAN FRIEDMAN:   We have in our Work Group an issue
+
+of reviewing the whole question of minimum FWS employment levels
+
+for wage areas, which we need to revisit and make a decision on.
+
+          So, anyway, is there consensus to adopt the Management
+
+proposal to retain Lee County where it is in Eastern Tennessee?
+
+          MR. BERNHARDT:   I think at this point, I've got to
+                                                                      69
+
+
+withhold consensus, especially because Jacque is not here today.
+
+             CHAIRMAN FRIEDMAN:   So there is not, so okay.      I
+
+assumed that was the case.     I just wanted to --
+
+             MR. ALLEN:   We have been holding off on this one
+
+because of the activities in the Work Group.
+
+             CHAIRMAN FRIEDMAN:   On this other one for South Bend-
+
+Mishawaka - is there any consensus now on that one?
+
+             MR. BERNHARDT:   I think we've got to wait on that one,
+
+too, Mr. Chairman.    This is something that I confess I really
+
+haven't given attention to.
+
+             CHAIRMAN FRIEDMAN:   Okay.    I hope we can deal with
+
+these two soon.    It may require more time, but that's the way it
+
+goes.   We’ve had them on our agenda for some time now.
+
+             So, with that, is there any other New Business that
+
+people want to bring up?
+
+             [No audible response.]
+
+             CHAIRMAN FRIEDMAN:   Is there anyone who objects to the
+
+idea of adjourning?
+
+             [No audible response.]
+
+             CHAIRMAN FRIEDMAN:   Hearing no objection, we are
+
+adjourned.    See you all next month.     Thank you very much.
+

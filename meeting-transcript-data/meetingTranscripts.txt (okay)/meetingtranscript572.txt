@@ -1,0 +1,2409 @@
+ 
+
+ 
+
+ 
+
+1 
+
+572nd FPRAC 
+
+Room 5526 
+
+Office of Personnel Management 
+
+Washington, D.C. 
+
+Thursday, March 8, 2012 
+
+SHELDON FRIEDMAN, Chairperson, Presiding 
+
+FEDERAL PREVAILING RATE ADVISORY COMMITTEE 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ATTENDANCE: 
+ 
+Members/Alternates: 
+  Management Members 
+  MARK ALLEN, Office of Personnel Management 
+  SETH SHULMAN, Department of Defense 
+  DARLENE FREEMAN, Department of Air Force 
+  CARLOS SAAVEDRA, Department of Navy 
+  ANN MARIE HANNON, Department of VA (via telephone) 
+ 
+  Labor Members 
+  WILLIAM FENAUGHTY, NFFE, representing MTD 
+  KEITH HILL, AFGE (via telephone) 
+  JACQUELINE SIMON, AFGE (via telephone) 
+  SARAH SUSZCZYK, NAGE 
+  STEVEN FISHER, ACT 
+ 
+Staff Specialists and Visitors: 
+  JEROME MIKOWICZ, Designated Federal Officer, 
+  Office of Personnel Management 
+  MADELINE GONZALEZ, Office of Personnel Management 
+  TERRI AVONDET, Office of Personnel Management 
+  SEAN REILLY, Office of Management and Budget 
+  H.L. ROVAN, Department of Defense 
+  JIM BRADY, Department of Defense 
+  KARL FENDT, Department of Defense 
+  CRAIG JERABEK, Department of Defense 
+  CHRIS LYNCH, Department of Defense 
+  TAMMY VANKEUREN, Department of Air Force 
+  BARBARA WALKER, Department of Army [via telephone] 
+  DENNIS PHELPS, MTD 
+ 
+
+ 
+
+ 
+
+ 
+Recording Secretary:  FEBBIE GRAY 
+ 
+ [Transcript prepared from digital audio produced by FPRAC.] 
+
+2 
+
+ 
+
+ 
+
+ 
+
+3 
+
+C O N T E N T S 
+
+ 
+                                                        Page 
+ 
+I.    Opening/Announcements 
+      • Introductions......................................5 
+      • Announcements 
+        - Charter for the Federal Prevailing Rate 
+          Advisory Committee, 572-OC-1.....................7 
+        - Membership Balance Plan for the Federal 
+          Prevailing Rate Advisory Committee, 572-OC-2.....7 
+ 
+II.   Review of the Minutes of 571st Meeting 
+ 
+III.  Old Business 
+      a. Review of Lee County, Virginia, 557-MGT-2 
+         - Total Employment in the Eastern Tennessee 
+           Wages Area by County, 566-OPM-1 
+         - List of FWS Wage Areas with Fewer than 500 
+           Employees, 566-OPM-2 
+         - Review of Criteria for Defining Appropriated 
+           Fund Wage Areas, 545-OC-1 [REPRINT] 
+      b. Discussion of Survey Issues/Concerns 
+         - FPRAC's Chairman's Memorandum to Members on  
+           Survey Issues Work Group, 561-OC-1 
+      c. Special Wage Schedule Pay Practice for Federal 
+         Wage System Lock and Dam Employees, 562-MGT-1 
+      d. Definition of South Bend-Mishawaka, IN-MI 
+         Metropolitan Statistical Area, 562-MGT-2 
+      e. Letter from the American Federation of Government 
+         Employees, dated June 6, 2011, requesting FPRAC 
+         review a proposal to redefine Monroe County, PA 
+         from the Scranton-Wilkes-Barre, PA wage area to 
+         the New York, NY wage area, 564-AFGE-1 
+      f. Report of the Wage Area Definition Study Group, 
+         570-MGT/LBR-1.....................................9 
+ 
+IV.   New Business 
+      Updates to 570-MGT/LBR-1............................. 
+      • New York 
+        - Section VII. Set of Revised Wage Area Definitions 
+        - Section VIII. Lead Agency Wage Survey Capability 
+        - Section IX. Implementation Plan 
+        - Section X. Effective Date of Change in Wage Schedule 
+        - Section XI. Potential Set of Revised Wage Schedules 
+        - Section XIII. Other Appropriate Factors 
+
+ 
+
+ 
+
+ 
+
+4 
+
+C O N T E N T S (continued) 
+
+ 
+                                                        Page 
+ 
+IV.   New Business (continued) 
+ 
+      • Hartford 
+        - Section VII. Set of Revised Wage Area Definitions 
+        - Section VIII. Lead Agency Wage Survey Capability 
+        - Section IX. Implementation Plan 
+        - Section X. Effective Date of Change in Wage Schedule 
+        - Section XI. Potential Set of Revised Wage Schedules 
+        - Section XIII. Other Appropriate Factors 
+      • Boston 
+        - Section VII. Set of Revised Wage Area Definitions 
+        - Section VIII. Lead Agency Wage Survey Capability 
+        - Section IX. Implementation Plan 
+        - Section X. Effective Date of Change in Wage Schedule 
+        - Section XI. Potential Set of Revised Wage Schedules 
+      • Philadelphia 
+        - Section VII. Set of Revised Wage Area Definitions 
+        - Section VIII. Lead Agency Wage Survey Capability 
+        - Section IX. Implementation Plan 
+        - Section X. Effective Date of Change in Wage Schedule 
+        - Section XI. Potential Set of Revised Wage Schedules 
+      • Washington 
+        - Section VI. Viability of Wage Surveys 
+ 
+          Hagerstown-Martinsburg-Chambersburg, MD wage area 
+          and viability of Harrisburg, PA wage area) 
+        - Section VII. Set of Revised Wage Area Definitions 
+        - Section VIII. Lead Agency Wage Survey Capability 
+        - Section IX. Implementation Plan 
+        - Section X. Effective Date of Change in Wage Schedule 
+        - Section XI. Potential Set of Revised Wage Schedules 
+        - Section XII. Unintended Consequences and Remarks 
+      • San Francisco 
+        - Section VII. Set of Revised Wage Area Definitions 
+        - Section VIII. Lead Agency Wage Survey Capability 
+        - Section IX. Implementation Plan 
+        - Section X. Effective Date of Change in Wage Schedule 
+        - Section XI. Potential Set of Revised Wage Schedules 
+        - Section XII. Unintended Consequences and Remarks 
+ 
+ 
+ 
+
+(definition of "orphan" counties in the 
+
+ 
+
+ 
+
+ 
+
+5 
+
+ 
+
+C O N T E N T S (continued) 
+
+ 
+                                                        Page 
+ 
+IV.   New Business (continued) 
+      • Los Angeles 
+        - Section VII. Set of Revised Wage Area Definitions 
+        - Section VIII. Lead Agency Wage Survey Capability 
+        - Section IX. Implementation Plan 
+        - Section X. Effective Date of Change in Wage Schedule 
+        - Section XI. Potential Set of Revised Wage Schedules 
+      • Other Locality Pay Areas 
+
+ 
+
+ 
+
+ 
+
+6 
+
+P R O C E E D I N G S 
+
+My name is Sheldon Friedman, and welcome to this 572nd 
+
+Why don't you start, Mark? 
+MR. ALLEN:  Mark Allen with OPM. 
+MR. SHULMAN:  Seth Shulman, Department of Defense. 
+MS. FREEMAN:  Darlene Freeman, Air Force. 
+MR. SAAVEDRA:  Carlos Saavedra, Department of the 
+
+ 
+ 
+CHAIRMAN FRIEDMAN:  Good morning, everyone.  Sorry 
+about the slightly late start.  We've got some folks on the 
+phone this morning. 
+ 
+meeting of the Federal Prevailing Rate Advisory Committee.  As 
+usual, why don't we go around the room and introduce ourselves, 
+and then we will get to the folks on the phone. 
+ 
+ 
+ 
+ 
+ 
+Navy. 
+ 
+Official for this meeting. 
+ 
+ 
+ 
+ 
+ 
+could introduce themselves, please? 
+
+MR. FENAUGHTY:  Bill Fenaughty, NFFE. 
+MR. PHELPS:  Dennis Phelps, IBEW. 
+MS. SUSZCZYK:  Sarah Suszczyk, NAGE. 
+MR. FISHER:  Steve Fisher, ACT. 
+CHAIRMAN FRIEDMAN:  And if the folks on the phone 
+
+MR. MIKOWICZ:  Jerry Mikowicz, the Designated Federal 
+
+ 
+
+ 
+
+ 
+
+7 
+
+MS. HANNON:  Ann Marie Hannon, VA. 
+MS. WALKER:  Barbara Walker, Department of Army. 
+MS. SIMON:  Jacque Simon, AFGE. 
+MR. HILL:  Keith Hill, AFGE. 
+CHAIRMAN FRIEDMAN:  Thank you.   
+And then let's go around the sides of the room, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+please. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+received them.  These are, more or less, bookkeeping 
+requirements under the FACA legislation that the General 
+Services Administration oversees. 
+
+MS. AVONDET:  Terri Avondet, OPM. 
+MS. GONZALEZ:  Madeline Gonzalez with OPM. 
+MS. VANKEUREN:  Tammy Vankeuren, Air Force. 
+MR. BRADY:  Jim Brady, DoD. 
+MR. FENDT:  Karl Fendt, DoD. 
+MR. JERABEK:  Craig Jerabek, DoD. 
+MR. LYNCH:  Chris Lynch, DoD. 
+MR. ROVAN:  Hank Rovan, DoD. 
+MS. GRAY:  Febbie Gray, OPM. 
+MR. REILLY:  Sean Reilly, OMB. 
+CHAIRMAN FRIEDMAN:  Welcome, everyone. 
+We have a couple of announcements.  Folks have 
+
+ 
+
+ 
+
+ 
+
+8 
+
+The first item, 572-OC-1, is our charter for FPRAC.  
+
+Which brings us to old business, and I would suggest 
+
+Any questions about either of these documents? 
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  Review of the minutes of the 571st 
+
+ 
+Every 2 years, we need a new one.  The old one is about to 
+expire.  The new one is before you for your information.  The 
+second item is the Membership Balance Plan for FPRAC, 572-OC-2, 
+which I've been told is a new GSA requirement for FACA 
+committees.  It simply states what our past practice has been 
+with respect to membership on FPRAC. 
+ 
+ 
+ 
+meeting will have to await our next meeting. Since this is an 
+extra meeting, we actually don't have them ready yet. 
+ 
+we skip down to item (f), the Report of the Wage Area Definition 
+Study Group, 570-MGT/LBR-1. 
+ 
+Group on February 29th.  I believe everyone now has the 
+subsequent material that has come through that study group as 
+well as a transmittal memo from me, the Chair of the study 
+group, to members of FPRAC, and an executive summary.  You have 
+in addition documents submitted by DoD, and a letter from 
+several meetings back that Barbara Walker has requested be 
+
+We had a 10th and final meeting of the Wage Area Study 
+
+ 
+
+ 
+
+ 
+
+9 
+
+considered for inclusion in the report that comes out of this 
+Committee. 
+ 
+563-OPM-1, Statement for the Federal Prevailing Rate 
+Advisory Committee, was Director Berry's charge to us to review 
+in depth the October 2010 FPRAC recommendation.  We now have the 
+report of the study group before us plus these other 
+supplementary materials, and we have the very important task of 
+getting back to Director Berry pursuant to his request to us as 
+to whether or not we favor implementation of that October 2010 
+recommendation and whether the study group report before you, 
+either as is or with changes that this group would want to make, 
+should be passed on to him. 
+ 
+I would not anticipate that we will finish the 
+discussion today but am hopeful that we will do so at our 
+meeting next week. 
+ 
+suggestion.  It does seem to me that there are three 
+possibilities:  forward the study group report as is, amend it 
+in some way, or not forward it.  Those seem to be the three 
+possibilities. 
+ 
+see how people want to proceed with the discussion. 
+
+As to how we proceed on this discussion, I am open to 
+
+So, with that, let me just throw the floor open and 
+
+ 
+
+ 
+
+ 
+
+10 
+
+MR. ALLEN:  Mr. Chairman, maybe a good starting point 
+
+The October 2010 FPRAC recommendation in my mind was 
+
+CHAIRMAN FRIEDMAN:  Okay. 
+MR. ALLEN:  I'll go back to the reason why we 
+
+ 
+would be for me to quickly summarize what's in the report and 
+what we were asked to do. 
+ 
+ 
+established a study group and why we have prepared what looks 
+like a 600-page report on how the October 2010 FPRAC 
+recommendation could be implemented if Director Berry chooses to 
+implement the recommendation. 
+ 
+framed as more of a concept than something that could be 
+immediately implemented.  As we see from the work that the study 
+group was engaged in, we have several hundred pages of 
+documentation now that could be provided to Director Berry to 
+show him in more detail and far more depth how the  original 
+FPRAC recommendation could be put into place through the 
+regulatory process of issuing proposed regulation and final 
+regulation. 
+Briefly, what Director Berry asked FPRAC to take 
+ 
+another look at was an in-depth analysis determining to the 
+extent possible a potential set of revised wage area 
+definitions, a potential set of revised wage schedules, the 
+
+ 
+
+ 
+
+ 
+
+11 
+
+number of wage employees, changes in pay, and use of pay 
+retention (where applicable), the viability of surveys in 
+remaining portions of revised wage areas, the capability of the 
+lead agency to conduct surveys in remaining portions of revised 
+areas, an effective implementation plan and time table with the 
+highest priority areas for initial implementation, findings of 
+any unintended consequences and applicable remedies, and any 
+other appropriate factors to be considered if the FPRAC 
+recommendation proposal were to be implemented in whole or in 
+part after the pay freeze ends. 
+ 
+met 10 times.  I think we made a great deal of progress in 
+addressing the questions that Director Berry posed to the 
+Committee. 
+ 
+I would like to thank Madeline Gonzalez in particular 
+for leading this project.  I think the work that is reflected in 
+the report is outstanding work, and I would also like to thank 
+Terri Avondet, Joe Ratcliffe, and Mike Eicher of OPM's Pay 
+Systems Staff for helping out with the report as well. 
+ 
+were posed. 
+ 
+
+I think the report mostly addresses the questions that 
+
+As Chairman Friedman has mentioned, the study group 
+
+As the executive summary to the document shows, we 
+
+ 
+
+ 
+
+ 
+
+12 
+
+covered a lot of ground.  However, there are a couple of things 
+that the study group did not reach consensus on, and those 
+documents, I believe, have been provided to the Committee for 
+its consideration, but I will turn this over to the DoD staff to 
+explain those documents. 
+ 
+MR. SHULMAN:  Okay.  As Mark just noted, we have 
+submitted two separate documents that were broached during 
+various study group meetings that are at the moment not included 
+in this study group report, and we believe strongly that in the 
+interest of transparency and for the fullness of understanding 
+of what the issues are that ultimately the bill payers -- the 
+Department of Defense, the Department of Veterans Affairs, and 
+other Federal agencies who employ FWS employees -- will have to 
+face, we believe that these documents should be submitted as 
+part of the findings of the study group. 
+ 
+group noted some challenges with the existing proposed 
+implementation plan, and we have submitted 572-DOD-1 as a 
+document that would accompany this report, if it were sent at 
+all, and I’m talking about a suggested alternative means of 
+implementation. 
+ 
+
+As noted, the DoD staff who participated in the study 
+
+I won't get into the weeds on what is discussed in 
+
+ 
+
+ 
+
+ 
+
+13 
+
+this, because we all have copies of it, and you have the ability 
+to read it.  Presumably, members of this Committee who attended 
+the study group meetings are also familiar with it. 
+ 
+The second document that DoD would like submitted with 
+this report is a list of unintended consequences, which frankly 
+are significant.  Aside from the fact that there's been really 
+no business case established or business need identified to 
+increase prevailing rates for any of these affected employees 
+and the total cost to the Department of Defense at a minimum 
+could actually approach a half-a-billion dollars over the FYDP 
+by the time you fully burden each position to which an increase 
+is applied and including all the orphaned counties, we'll set 
+the $500-million price tag or roughly $500-million price tag 
+aside for the moment.  We will wind up with pay inequities 
+across the Department if this were to be implemented the way 
+it's discussed. 
+ 
+will have undercompensated other employees in the same pay 
+system, in the same locality.  We will have essentially a multi-
+tiered compensation system where none existed previously.  There 
+will be challenges in gathering data to deal with increases in 
+prevailing rates, because we will no longer be able to match up 
+
+We will have overcompensated certain employees.  We 
+
+ 
+
+ 
+
+ 
+
+14 
+
+There are design flaws that we believe need to be 
+
+Future changes to General Schedule boundaries are 
+
+So we have submitted 572-DoD-2 for the Committee's 
+
+to actual prevailing rates in industry. 
+ 
+considered and rectified if, again, this is to go the way it is. 
+ 
+impossible to predict at this stage.  We don't know what will 
+happen, and as a result, these prevailing rates may also be 
+impacted at that point. 
+ 
+consideration as part of this.  Again, in the interest of 
+transparency, everyone who's a decision-maker needs to have all 
+the facts in front of him or her, and I think we would be doing 
+Director Berry a disservice if this type of information was not 
+part of the submission as it currently stands. 
+ 
+Department of the Army asked for inclusion in this report, the 
+letter identified as 566-MGT-1 that as the Chairman mentioned 
+was read into the record several meetings ago that describes 
+Army's serious and significant concerns with implementation of 
+this type of proposal and its significant impacts to their 
+ability to run an effective and efficient business operation in 
+at least one location. 
+ 
+
+Finally, as requested, as you know late yesterday, the 
+
+Since it has been read into the record already, it is 
+
+ 
+
+ 
+
+ 
+
+15 
+
+a matter of public record.  It is something that this Committee 
+has heard, and honestly, we see no reason why, again, in the 
+interest of the fullness of the facts and transparency that this 
+should also not be considered as part of the submission of this 
+report. 
+ 
+MS. SIMON:  This is Jacque Simon from AFGE.  Thanks 
+for that, Seth, and also, Mark, thank you for your description 
+of what preceded today's meeting, and I also want to thank the 
+OPM staff who worked so hard on this.  It's a tremendous amount 
+of work, as everybody can see before them, and really 
+high-quality work.  And we're extremely grateful for everybody's 
+professionalism and conscientious effort to get this done within 
+a short time frame. 
+With regard to DoD's proposed additions, we really, 
+ 
+really disagree strongly with a lot of what's written in these 
+documents and which you must sort of read through.  Most 
+importantly, what's called an "alternate implementation plan" is 
+not in fact an alternate implementation plan. 
+ 
+facts.  These aren't facts, and one of the problems is that this 
+is an alternative proposal.  It would be one thing if it were an 
+alternative means of achieving the end envisioned in AFGE's 
+
+And, you know, you kept saying decision-makers need 
+
+ 
+
+ 
+
+ 
+
+16 
+
+And by all means, if the Army wants that kind of plan, 
+
+proposal.  It is not an alternative means for achieving that 
+end.  It is a means to achieve an alternative end.  It is not an 
+implementation plan for the proposal that the work group 
+studied.  It is not.  It is a completely different proposal. 
+ 
+they should go ahead and propose it to FPRAC, and then we will 
+study that plan, but this is not an implementation plan for our 
+proposal.  That's Item 1. 
+ 
+Item 2 is, you know, you just read into the record the 
+number half-a-billion.  That is not an accurate cost estimate.  
+It's a cost estimate that's about 250 million dollars more than 
+the cost estimate that OPM prepared, and given that facts 
+matter, there's no reason to exaggerate its cost.  So it's 
+almost like a rhetorical thing:  A billion here, a billion 
+there, soon you're talking a lot of money.  Well, let's not use 
+the word "billion" unless we're somewhere in the neighborhood of 
+billions.  We're talking at worst, at most, you know, given that 
+we get pay increases in the future of 1.1 percent, something in 
+the neighborhood of 300 to 350 million over 10 years, not 
+half-a-billion.  So let's not say half-a-billion. 
+ 
+almost all of these substantive unintended consequences in your 
+
+In addition, as far as the unintended consequences, 
+
+ 
+
+ 
+
+ 
+
+17 
+
+We have dealt with orphan counties, and we would not 
+
+The other thing is, on the third document -- I mean, 
+
+unintended consequences document would be consequences of this 
+alternative plan that DoD has proposed, not of our proposal. 
+ 
+have a multi-tiered system with the implementation plan that the 
+OPM study put forward.  The multi-tiered, you know, "crazy 
+quilt" is a result of DoD's alternative, not the AFGE plan as 
+described in the work group report. 
+ 
+we could discuss this further.  I don't want to, you know, 
+dominate the discussion.  Regarding the letter from the 
+commander -- I don't know if she's a commander or what her 
+position is at Tobyhanna.  I don't know if she's even still 
+there.  As you noted, that was read into the record of FPRAC.  
+Surely, the Director has access to our minutes and the public 
+record of what has transpired at FPRAC meetings.  God knows 
+there were numerous letters and individuals who testified for 
+the record at FPRAC who were in favor of this proposal, and 
+people who the Director has as much responsibility to listen to 
+as this particular individual from Pennsylvania. 
+ 
+report every piece of testimony and every letter that was 
+written on this subject?  No, that's unnecessary.  It's an 
+
+So, you know, are we going to include as part of the 
+
+ 
+
+ 
+
+ 
+
+18 
+
+unnecessary duplication.  These materials are easily available 
+to the Director if he wants to go back and look over the record.  
+So the third item is entirely unnecessary.  It's just redundant, 
+and it doesn't have a place in this report. 
+And we do not think that the other two documents do, 
+ 
+either, partially because they are, you know, not responsive to 
+the Director's request.  They are not germane to the proposal.  
+They are an alternative proposal, and the unintended 
+consequences are really a part of DoD's plan for an alternative 
+proposal, and they are not really reflective of consequences of 
+the implementation of our proposal. 
+So I'll leave it at that. 
+ 
+ 
+MR. SHULMAN:  Okay.  I think we're going to agree to 
+disagree on Items 1 and 2, and I'm not going to belabor that, 
+but I will tell you how we arrived at the number, which I stated 
+earlier. 
+The $337-million number over a 5-year FYDP, as 
+ 
+identified by OPM staff, is not our number.  That's OPM's 
+number, if I'm correct in that, Mark.  Okay.  And by OPM's own 
+admission, that number may very well be on the low side.  
+However, that is simply a salary dollar number.  That does not 
+account for a fully burdened amount of money.  When I say "fully 
+
+ 
+
+ 
+
+ 
+
+19 
+
+MS. SIMON:  Well, we all know that's going down, don't 
+
+burdened," when we pay an individual, we also include on top of 
+that an additional 36.76 percent for all of the various benefits 
+and entitlement costs that go with each position. 
+ 
+we? 
+ 
+MR. SHULMAN:  Regardless of that, we have to include 
+the cost for the bill payer, and that would be, in this case, 
+the Department of Defense, and the Department of Veterans 
+Affairs.  So that number, the total final number has to be 
+reflective of what the sum outlay for each Federal Department is 
+going to be.  So, when you multiple 36.76 by $337 million, you 
+wind up with $460.88 million, and this number, as also 
+established by OPM, does not include the orphan counties. 
+So my rounding close to half-a-billion dollars is not 
+ 
+out of line with what the actual cost will be to the government, 
+okay?  I'm not making these numbers up.  This is actually how we 
+do the calculations. 
+ 
+So, when you get right down to it, we are just trying 
+to arrive at what the true cost is, and ultimately, the burden 
+has to be paid by the American taxpayer, okay?  So the numbers 
+are what they are, and they may well be on the low side.  They 
+might be slightly high.  We won't know.  But I will tell you 
+
+ 
+
+ 
+
+ 
+
+20 
+
+MS. SIMON:  Oh, I don't -- 
+MR. SHULMAN:  -- making these -- 
+MS. SIMON:  -- think anybody would -- 
+MR. SHULMAN:  -- numbers up. 
+MS. SIMON:  -- disagree that that's how you do the 
+
+that to do the right math, you have to include the fully 
+burdened cost.  That's how we do the budgeting for these sorts 
+of things. 
+ 
+And every individual activity that has employees does 
+it exactly the same way, and I will look to my colleagues from 
+Air Force and Navy who are sitting at the table with me.  And 
+OPM will bear this out.  This is how we do the math.  I'm not -- 
+ 
+ 
+ 
+ 
+ 
+math.  I just think that in the executive summary, it is 
+described as the additional wage cost.  I mean, it's not 
+misrepresented. 
+ 
+be identified.  Ultimately, that's what the bill payer has to 
+worry about. 
+In that particular case, that would be us, and there 
+ 
+is a direct impact to the Department's ability to carry out its 
+mission when you increase costs across an organization the size 
+of ours. 
+
+MR. SHULMAN:  Okay, gotcha.  But the true cost has to 
+
+ 
+
+ 
+
+ 
+
+21 
+
+You know, when you talk about it on an individual 
+
+ 
+case-by-case basis, it doesn't seem like a lot of money.  Just 
+like the half-percent salary increase that Congress may or may 
+not vote on this year, that for us individually doesn't cost a 
+lot, but for the government as a whole, it's a little bit more 
+than that.  It's about a billion dollars, I'd say.  So you can't 
+look at this on the individual level. You've got to look at it 
+in the aggregate, and that's why I use the numbers I do. 
+ 
+They're not meant to shock.  They are very real 
+numbers, and there is a very real impact to a Department that is 
+currently engaged in efficiencies and effectiveness studies with 
+regard to how we save money, and we still haven't faced the 
+issue of sequestration, which is also looming on the horizon.  
+And even if we don't have that, we are going to face more cuts. 
+ 
+So the monies have to come from somewhere.  This is a 
+very real and legitimate concern that the Department's 
+leadership has.  I think the Director -- 
+ 
+ 
+ 
+ 
+ 
+
+MS. SIMON:  We're all -- 
+MR. SHULMAN:  -- would be -- 
+MS. SIMON:  -- aware of the budget situation. 
+MR. SHULMAN:  Okay. 
+MS. SIMON:  That may -- 
+
+ 
+
+ 
+
+ 
+
+22 
+
+MR. SHULMAN:  The Director -- I mean, that's -- but 
+
+ 
+that should be -- 
+ 
+ 
+ 
+ 
+ 
+or on this call. 
+
+MS. SIMON:  But nobody -- 
+MR. SHULMAN:  -- part of the -- 
+MS. SIMON:  Nobody -- 
+MR. SHULMAN:  -- consideration. 
+MS. SIMON:  -- needs to persuade anybody in this room 
+
+MR. SHULMAN:  No, that's fine.  All we're saying--      
+
+ 
+CHAIRMAN FRIEDMAN:  Let me make a suggestion then. 
+
+CHAIRMAN FRIEDMAN:  Let me make a suggestion that 
+
+MR. FENAUGHTY:  I agree with Jacque.  I don't think 
+
+MR. SHULMAN:  All we're saying is that Director Berry 
+
+ 
+should have that number in front of him. 
+ 
+others on either side of the table who haven't spoken yet might 
+want to have an opportunity to weigh in.  Anybody? 
+ 
+that these dogmas should be part of the report. 
+ 
+or could stop DoD from submitting it to Director Berry or OMB or 
+anybody else they want to, but I don't believe they should be a 
+part of the report itself. 
+ 
+
+You know, there is no way that anybody would want to 
+
+MR. PHELPS:  I agree -- 
+
+ 
+
+ 
+
+ 
+
+23 
+
+MS. SUSZCZYK:  I agree. 
+ 
+MR. PHELPS:  -- that they should not be. 
+ 
+ 
+MR. SAAVEDRA:  I believe as much information as we're 
+able to provide must be forwarded, noting that no business case 
+was established as to why the proposal was introduced in the 
+first place.  What is it that we were trying to fix?  That was 
+never established.  So we have to be fully up front, engaged to 
+note we're not fixing anything, and it's going to cost this 
+much. 
+ 
+this, and Director Berry must know that.  It just needs to be 
+said.  These are facts. 
+ 
+the report. 
+ 
+MR. SAAVEDRA:  No, this Committee should be 
+responsible in providing the information.  We have the 
+information. 
+ 
+know, this proposal has already been voted on and sent to 
+Director Berry.  All he asked for was certain -- 
+ 
+ 
+
+MR. SAAVEDRA:  Were the facts. 
+MR. PHELPS:  -- specific information. 
+
+MR. PHELPS:  Well, I think Jacque was right.  You 
+
+The cost to the Federal Government, to the taxpayer is 
+
+MR. PHELPS:  Fine, send it to him as your comments to 
+
+ 
+
+ 
+
+ 
+
+24 
+
+If DoD or Navy or Army wants to submit, you know, 
+
+MR. SAAVEDRA:  What he asked for were facts. 
+MR. PHELPS:  Certain specific information afterwards 
+
+ 
+ 
+-- 
+MR. SAAVEDRA:  And the facts. 
+ 
+MR. PHELPS:  -- and that counter-proposal is not what 
+ 
+was asked for.  He didn't ask for a counter-proposal.  He asked 
+for facts that were out there and how it would be implemented, 
+and I don't believe that those documents reflect what the 
+Director asked for. 
+ 
+these other documents to show what their counter-proposal to the 
+proposal would be, then they're more than welcome to, but I 
+don't believe they should be a part of the report of this 
+Committee. 
+ 
+question?  And we don't actually have motions before us yet, but 
+are some of the Management folks saying that if these three 
+pieces were included in the report that you would then support 
+by consensus sending it to the Director? 
+ 
+ 
+exactly we're talking about here. 
+
+CHAIRMAN FRIEDMAN:  Can I just ask a clarification 
+
+MR. SHULMAN:  That's a fair question. 
+CHAIRMAN FRIEDMAN:  I just want to understand what 
+
+ 
+
+ 
+
+ 
+
+25 
+
+MR. SHULMAN:  That's a fair question.  I think we 
+
+CHAIRMAN FRIEDMAN:  Do you want to have a caucus?  
+
+So the folks on the phone, we are going to have to cut 
+
+MS. HANNON:  All right, thank you. 
+MS. SIMON:  Okay.  Should the labor people stay on the 
+
+ 
+probably want to step outside for a few minutes and talk about 
+that. 
+ 
+Okay. 
+ 
+you off and then get you back.   
+ 
+ 
+phone or -- 
+ 
+ 
+simpler, right?  Yeah. 
+ 
+ 
+caucus, and we are back in session. 
+ 
+from the caucus? 
+ 
+you had a question for us, and we took the opportunity to 
+discuss your question at caucus, and we've come back with a 
+question. 
+
+MR. PHELPS:  Yeah. 
+CHAIRMAN FRIEDMAN:  I guess you can.  It would be 
+
+[Off the record for Management caucus.] 
+CHAIRMAN FRIEDMAN:  Management is back from its 
+
+Is there anything that you folks want to report back 
+
+MR. SHULMAN:  Pursuant to your request, Mr. Chairman, 
+
+ 
+
+ 
+
+ 
+
+26 
+
+MS. SIMON:  Well, we probably need to caucus, but my 
+
+ 
+We would like to know what Labor's position would be 
+regarding incorporating DOD-572-1 and DOD-572-2 and the list of 
+all documents supporting or opposing the original AFGE proposal 
+that have already been submitted into FPRAC for the record in 
+the final report of the working group's analysis, as requested 
+by Director Berry in 565-OC-2. 
+ 
+first reaction is that this is another thing that might delay us 
+because of the time it would take to gather all those materials. 
+ 
+MR. ALLEN:  Jacque, I think our plan, regardless of 
+what happens today, is for Madeline to put the documentation 
+together in a final format that can go forward to Director 
+Berry.  It’s going to take her a little while to do that since 
+the report is so voluminous and we have to add the other 
+documents, because they are already part of the FPRAC record.  
+That shouldn't -- 
+ 
+ 
+ 
+caucus.  AFGE would insist on inclusion of an additional 
+document that responds to the so-called implementation plan B 
+and the so-called unintended consequences B, because, you know, 
+
+MS. SIMON:  Well, I'll -- 
+MR. ALLEN:  -- take too long. 
+MS. SIMON:  -- tell you one thing, before we even 
+
+ 
+
+ 
+
+ 
+
+27 
+
+As it was, we were expecting, regardless of how it 
+
+there was no sort of sense that, okay, if it wasn't written 
+today, it can't go forward, if that's going to be the -- you 
+know, if it's going to be a thousand pages rather than 600 
+pages.  That would definitely -- I know AFGE would insist on a 
+written response. 
+ 
+went today, that DoD would be submitting to the Director their 
+documents, and we would be submitting our refutation of those 
+documents -- or of the, you know, arguments put forward in those 
+documents. 
+ 
+If those documents become part of the official work 
+group report, you know, it could put us back weeks or months 
+until we have several more meetings where we discuss the AFGE 
+response to the DoD documents, which is why it makes so much 
+more sense for DoD to, you know, put forward their documents, 
+you know, independently as sort of a dissenting report or 
+whatever, in which case we would submit additional documents as 
+well, but we can't just stop the clock today and say anything 
+not in today can't go if DoD's stuff goes. 
+ 
+I mean, obviously, you know, we can always just write 
+a letter to the Director, but I guess everything would depend on 
+how much delay this would entail. 
+
+ 
+
+ 
+
+ 
+
+28 
+
+MR. PHELPS:  To me, it would seem redundant to put 
+
+MS. SIMON:  It's already way, way -- 
+MR. PHELPS:  -- in on -- 
+[Simultaneous speaking.] 
+MS. SIMON:  -- way, way, way, way, way behind 
+
+ 
+everything -- 
+ 
+ 
+ 
+ 
+schedule. 
+ 
+stuff that's already been submitted is already there. 
+ 
+MS. SIMON:  Right. 
+ 
+MR. PHELPS:  The one that Army read into the record a 
+while back is already there, you know.  It would just seem to me 
+like we'd be burdening down this to stick everything in there, 
+and I don't think -- I personally wouldn't agree to do it just 
+so DoD can get what they want in today, you know. 
+ 
+Director Berry as not part of the report. 
+ 
+something? 
+ 
+We weren't intending -- the last item was not an idea -- the 
+idea is not to submit the actual documents but a page with 
+
+As Jacque said, you know, they can always submit it to 
+
+MR. PHELPS:  That's all -- you know, all the other 
+
+CHAIRMAN FRIEDMAN:  Well, do you want to say 
+
+MR. SHULMAN:  Yeah.  I would just make an observation.  
+
+ 
+
+ 
+
+ 
+
+29 
+
+MR. SHULMAN:  That would be the Deputy Chief of Staff 
+
+MS. SIMON:  As a -- 
+MR. SHULMAN:  -- about -- 
+[Simultaneous speaking.] 
+MS. SIMON:  As a substitute for the letter from that 
+
+references of those documents, so not the actual papers 
+themselves, but there have been a number of items that have been 
+submitted for the record in this room.  Then we would simply 
+reference those items as an appendix to the report, nothing 
+more, nothing less.  We're not talking— 
+ 
+ 
+ 
+ 
+Marriott guy? 
+ 
+for Tobyhanna.  Yes. 
+ 
+ 
+for Civilian Personnel Policy. 
+ 
+ 
+Your point was well taken that there had been a lot of other 
+things submitted, and I was agreeing with you that, yes, we want 
+those to be included in the record too.  It's part of the 
+fullness of the -- 
+ 
+
+MS. SIMON:  Yeah.  Mr. Marriott. 
+MR. SHULMAN:  Through Dr. Duncan who is the Army G1 
+
+MS. SIMON:  Right. 
+MR. SHULMAN:  But, yes, it wouldn't be a substitute.  
+
+MS. SIMON:  No, no, no. 
+
+ 
+
+ 
+
+ 
+
+30 
+
+MR. SHULMAN:  -- of the disclosure. 
+MS. SIMON:  I hear what you're saying.  What I'm just 
+
+MR. SHULMAN:  Yes. 
+MS. SIMON:  -- copy of -- 
+MR. SHULMAN:  Yes. 
+MS. SIMON:  -- Mr. Marriott's letter. 
+MR. SHULMAN:  Yes, exactly right, just as -- 
+MS. SIMON:  It would be a page with a lot of 
+
+ 
+ 
+asking you, instead of the actual -- 
+ 
+ 
+ 
+ 
+ 
+ 
+references? 
+ 
+ 
+just trying to understand what you're saying. 
+ 
+ 
+issue from those other two DoD documents. 
+ 
+documents?  One reference? 
+MR. SHULMAN:  572-DOD-1 and 572-DOD-2, as submitted 
+ 
+today for discussion, we would like to know what your position 
+is going to be if we tabled this as a motion with regard to 
+putting these in the report. 
+
+MR. SHULMAN:  You got it. 
+MS. SIMON:  Is that what you are envisioning?  I'm 
+
+MR. SHULMAN:  Yes, just a reference page.  You got it. 
+MS. SIMON:  Okay.  Well, you know, that's a separate 
+
+MR. FENAUGHTY:  Do you mean all three of these 
+
+ 
+
+ 
+
+ 
+
+31 
+
+MS. SIMON:  Well, and we're responding back that if 
+
+Well, how about this, Seth, if we could just step back 
+
+MR. SHULMAN:  We haven't actually determined that, but 
+
+ 
+you want to have these things in the report, then, you know, the 
+unions are going to have a refutation in the report, which is 
+why we want this to, you know -- 
+ 
+a second.  Is your proposal that Management is fine with 
+submitting this document to Director Berry with your 
+implementation plan, your unintended consequences, and a page 
+full of references? 
+ 
+we're asking what Labor's position would be on that.  Do you 
+think that we would be able to reach consensus if that were the 
+case? 
+ 
+ 
+ 
+before us. 
+ 
+MR. SHULMAN:  Yes.  So you said you might need to 
+caucus for that.  We believe that we might be able to reach 
+consensus on submitting the report with those two documents -- 
+with DoD Items 572 DOD-1, 572-DOD-2, and a list of references 
+attached, but that -- 
+
+MS. SIMON:  Well, do you? 
+MR. SHULMAN:  I would like to think so. 
+MS. SIMON:  Well, okay.  I mean, that's the question 
+
+ 
+
+ 
+
+ 
+
+32 
+
+MR. PHELPS:  I don't think we need to caucus. 
+CHAIRMAN FRIEDMAN:  Okay. 
+MR. PHELPS:  I mean, if the rest of Labor would like 
+
+MS. SIMON:  Okay, I guess we -- 
+MR. SHULMAN:  -- really depends on -- 
+MS. SIMON:  -- do need a -- 
+MR. SHULMAN:  -- Labor's position. 
+MS. SIMON:  -- caucus then. 
+CHAIRMAN FRIEDMAN:  So, did I hear a request for a 
+
+ 
+ 
+ 
+ 
+ 
+ 
+caucus, does Labor need one? 
+ 
+ 
+ 
+to, you know, we could certainly do that, but I wouldn't be able 
+to support that. 
+ 
+ 
+that there would not be consensus to proceed then. 
+ 
+ 
+ 
+ 
+ 
+we are back in session.  Do you folks have something to report 
+in response? 
+
+MR. FENAUGHTY:  Nor ACT. 
+CHAIRMAN FRIEDMAN:  I guess that answers the question 
+
+MS. SIMON:  Can we have a caucus? 
+MR. PHELPS:  Sure, we can, Jacque. 
+CHAIRMAN FRIEDMAN:  You can certainly have a caucus.  
+[Off the record for Labor caucus.] 
+CHAIRMAN FRIEDMAN:  Labor has finished its caucus, and 
+
+ 
+
+ 
+
+ 
+
+33 
+
+Well, we can start discussion on that or we can -- if 
+
+MR. HILL:  Yeah.  Mr. Chair, this is Keith Hill. 
+ 
+CHAIRMAN FRIEDMAN:  Yes, Keith. 
+ 
+ 
+MR. HILL:  I'd like to make a motion that we advance 
+the report to Director Berry sans Management's counter-proposal 
+as is, and I am asking for a second on that motion. 
+MS. SUSZCZYK:  Seconded. 
+ 
+CHAIRMAN FRIEDMAN:  Okay.  It's been moved and 
+ 
+seconded to send the report as is from the study group to 
+Director Berry. 
+ 
+there's a motion to postpone, we can take that up. 
+MS. SIMON:  I think the discussion is pretty much what 
+ 
+we had earlier.  You know, there's certainly nothing to prevent 
+DoD from submitting additional materials, including a reference 
+to all the letters and testimony for and against this proposal 
+that have been provided to FPRAC, and, you know, the unions will 
+do the same, but the document is what it is.  It's a product of 
+the work group, and OPM's staff and you know, we all had lots of 
+input as it was being prepared, and it's ready.  It's ready for 
+the Director. 
+ 
+ 
+
+CHAIRMAN FRIEDMAN:  Any discussion? 
+MR. SHULMAN:  That is but one view, and I would not 
+
+ 
+
+ 
+
+ 
+
+34 
+
+MR. SHULMAN:  We so request motion to postpone until 
+
+MR. ALLEN:  And seconded. 
+MR. HILL:  I think there's a motion on the table 
+
+CHAIRMAN FRIEDMAN:  Okay.  Well, there is, but I think 
+
+CHAIRMAN FRIEDMAN:  Any discussion? 
+MR. SHULMAN:  Nor discuss it today. 
+CHAIRMAN FRIEDMAN:  Nor discuss it today. 
+Well, you can make a motion to postpone consideration 
+
+submit that we are prepared to vote on this today. 
+ 
+ 
+ 
+ 
+until the next meeting. 
+ 
+next week. 
+ 
+ 
+already, isn't there? 
+ 
+a motion to postpone, if there's consensus on it -- maybe 
+there's not.  Maybe people want to go ahead.  If there's not 
+consensus on the motion to postpone, then we'll go back to the 
+main motion.   
+ 
+ 
+ 
+it follow Robert's Rules of Order? 
+CHAIRMAN FRIEDMAN:  We do follow Robert’s Rule of 
+ 
+Order, except the Chairman is ignorant of them.  So if I'm 
+
+MR. HILL:  We will -- 
+[Simultaneous speaking.] 
+MR. HILL:  I am unfamiliar with FPRAC procedure.  Will 
+
+ 
+
+ 
+
+ 
+
+35 
+
+CHAIRMAN FRIEDMAN:  Okay.  I guess -- let me see. 
+MR. HILL:  So I guess we have to -- 
+CHAIRMAN FRIEDMAN:  So there would not be consensus 
+
+violating them, let me know. 
+ 
+MR. HILL:  Well, I think there's a motion on the 
+table.  I don't consider the motion to postpone a friendly 
+amendment. 
+ 
+ 
+ 
+then to postpone this until a week from today? 
+ 
+vote? 
+ 
+discussion on either side, we can vote. 
+ 
+the motion to postpone? 
+ 
+CHAIRMAN FRIEDMAN:  We'd be voting on the -- the 
+motion to postpone would only be if by consensus, so we're--
+ 
+ 
+to be consensus. 
+ 
+done with the discussion of the other motion? 
+ 
+
+MS. SUSZCZYK:  Okay. 
+CHAIRMAN FRIEDMAN:  About which there does not appear 
+
+CHAIRMAN FRIEDMAN:  We are discussing Keith's motion, 
+
+MS. SIMON:  No.  Well, I don't know.  Want to do a 
+
+CHAIRMAN FRIEDMAN:  Unless there's any further 
+
+MS. SUSZCZYK:  Are we voting on the first motion or 
+
+MS. SIMON:  Okay.  So are we going to vote?  Are we 
+
+ 
+
+ 
+
+ 
+
+36 
+
+MS. SIMON:  Okay. 
+[Off the record for Management caucus.] 
+CHAIRMAN FRIEDMAN:  Management has concluded its 
+
+Would you like to report anything from your caucus? 
+MR. ALLEN:  We have a substitute motion to introduce, 
+
+and Management has requested a caucus. 
+ 
+ 
+ 
+caucus, and we are back in session. 
+ 
+ 
+a substitute to the main motion that AFGE made.  Management 
+would like to introduce a substitute motion to incorporate 
+572-DOD-1 and 572-DOD-2 and a list of all documents supporting 
+or opposing the AFGE proposal which have been submitted to FPRAC 
+for the record into the Final Report of the working group's 
+analysis as requested by the Director of OPM in 565-OC-2. 
+ 
+CHAIRMAN FRIEDMAN:  Is there a second for that? 
+MR. SHULMAN:  Second the motion. 
+ 
+ 
+CHAIRMAN FRIEDMAN:  So, if I'm correct in my Rules of 
+Order, we debate that one first. 
+ 
+ 
+ 
+earlier. 
+ 
+
+MR. SHULMAN:  I believe that's right, yes. 
+CHAIRMAN FRIEDMAN:  Any response or debate on that? 
+MR. PHELPS:  We've already had the debate on that 
+
+CHAIRMAN FRIEDMAN:  Okay. 
+
+ 
+
+ 
+
+ 
+
+37 
+
+MR. FENAUGHTY:  We already talked about it. 
+CHAIRMAN FRIEDMAN:  Okay.  Are we ready to -- 
+MR. SHULMAN:  We would merely remind the Committee 
+
+ 
+ 
+ 
+membership that we were asked to do this.  The Director gave us 
+specific instruction.  He said it in 565-OC-2 that this should 
+be in the report.  We haven't done anything other than what the 
+Director has asked for in making this motion, and failing to 
+adhere to the Director's request is in itself going to be a 
+little bit of a challenge for this Committee to explain. 
+ 
+substitute motion? 
+ 
+ 
+vote.  Do you want to poll people, Madeline? 
+ 
+Management members present now because Ann Marie Hannon at VA 
+had to disconnect from the phone temporarily.  Which four 
+members are voting on the Labor side, please? 
+ 
+ 
+ 
+talking about? 
+
+MR. FENAUGHTY:  I'm voting. 
+MS. GONZALEZ:  And one AFGE member.  Okay. 
+MS. SIMON:  What about one AFGE member?  What are you 
+
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  If not, I believe we're ready to 
+
+CHAIRMAN FRIEDMAN:  Any further discussion of the 
+
+MS. GONZALEZ:  Who is voting?  We only have four 
+
+ 
+
+ 
+
+ 
+
+38 
+
+MS. SIMON:  Okay.  Keith, do you want to vote for 
+
+MR. HILL:  Sure.  Which proposal are we voting on 
+
+MS. SIMON:  That's in our rules? 
+MS. GONZALEZ:  Yes. 
+CHAIRMAN FRIEDMAN:  Yes.  It doesn't affect the 
+
+ 
+CHAIRMAN FRIEDMAN:  There are only four Management 
+representatives present, so one Labor representative needs to 
+recuse himself or herself. 
+ 
+ 
+ 
+outcome. 
+ 
+AFGE? 
+ 
+first? 
+CHAIRMAN FRIEDMAN:  We're going to vote first on the 
+ 
+substitute motion just offered by Management to incorporate 572-
+DOD-1, 572-DOD-2, and the list of items that have been submitted 
+or appeared at our meetings pertaining to this matter.  So 
+that's the motion. 
+ 
+ 
+ 
+ 
+Order, but I'm not sure a substitute motion could be an-- 
+ 
+
+Is that substitute motion clear to everybody? 
+MR. FENAUGHTY:  Well, I just have a question. 
+CHAIRMAN FRIEDMAN:  Sure. 
+MR. FENAUGHTY:  I'm not an expert on Robert's Rules of 
+
+CHAIRMAN FRIEDMAN:  An amendment? 
+
+ 
+
+ 
+
+ 
+
+39 
+
+CHAIRMAN FRIEDMAN:  Okay.  I appreciate that.  I think 
+
+MR. FENAUGHTY:  Changing it. 
+MR. HILL:  Actually, actually it's a separate and 
+
+ 
+MR. FENAUGHTY:  -- amended motion, another motion.  
+I'm not trying to split hairs.  I just think we should get it 
+right. 
+ 
+it would be an amendment to the main motion.  It's taking 
+Keith's motion and saying -- 
+ 
+ 
+distinct proposal or amendment or motion.  It's not -- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+procedurally? 
+ 
+ 
+ 
+ 
+ 
+
+MS. SIMON:  It's not a friendly -- 
+MR. HILL:  -- an amendment -- 
+MS. SIMON:  -- amendment -- 
+MR. HILL:  -- to my motion. 
+MS. SIMON:  -- anyway. 
+MR. HILL:  It's not a friendly amendment. 
+CHAIRMAN FRIEDMAN:  Right.  So what does that mean 
+
+MS. SIMON:  It's an amendment -- 
+[Simultaneous speaking.] 
+MS. SIMON:  -- by way of a substitution. 
+CHAIRMAN FRIEDMAN:  Are you saying we need to vote? 
+MR. FENAUGHTY:  It is two separate motions. 
+
+ 
+
+ 
+
+ 
+
+40 
+
+CHAIRMAN FRIEDMAN:  Okay.  So does that mean we need 
+
+MR. HILL:  I would say so. 
+MR. SHULMAN:  However, this motion is the precursor, 
+
+ 
+to take up the first motion first?  I'm happy to do it in 
+whichever order is correct from the parliamentary standpoint. 
+ 
+MS. SIMON:  I think you take up the first -- Keith, 
+you take up the first motion first, right? 
+ 
+ 
+the natural precursor in terms of order of operations to the 
+motion that Keith submitted.  So absent consideration of this 
+motion first, we are not able to entertain the previous motion 
+at all, really. 
+ 
+ 
+ 
+ 
+ 
+ 
+voted on before the original one, given that it's not a friendly 
+amendment to the existing -- to the first motion.  I mean, it's 
+not like you're changing "of" to "to." 
+MR. SHULMAN:  Well, we would ask you then to kindly 
+ 
+pull your motion until we have determined the outcome of this 
+
+MS. SIMON:  I mean, you can entertain it. 
+CHAIRMAN FRIEDMAN:  Yeah, but which one--  
+MR. HILL:  You can amend the -- 
+CHAIRMAN FRIEDMAN:  -- is the question. 
+MR. HILL:  -- motion, but you can't change the motion. 
+MS. SIMON:  You can't have your subsequent motion 
+
+ 
+
+ 
+
+ 
+
+41 
+
+MS. SIMON:  Well, no, we want to vote on our motion 
+
+MR. HILL:  The motion stands. 
+MR. SHULMAN:  I don't think we can vote on it, not 
+
+CHAIRMAN FRIEDMAN:  Well, I think it's been considered 
+
+one. 
+ 
+first. 
+ 
+ 
+without consideration of our motion.   
+ 
+in debate.  I mean, I don't know what further consideration -- 
+ 
+MR. SHULMAN:  The vote then would be on an incomplete 
+-- from our perspective, from Management's perspective, it would 
+be on an incomplete report.  We're asking -- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+right, if that's -- 
+ 
+your amendment.  
+
+MS. SIMON:  Well, then you -- 
+MR. SHULMAN:  -- for consideration -- 
+MS. SIMON:  -- vote against -- 
+MR. SHULMAN:  -- of the documents -- 
+MS. SIMON:  -- it. 
+[Simultaneous speaking.] 
+MR. SHULMAN:  The documents will be in there. 
+CHAIRMAN FRIEDMAN:  Yeah.  I guess you then vote no, 
+
+MR. FENAUGHTY:  Just vote no against it and then go to 
+
+ 
+
+ 
+
+ 
+
+42 
+
+MS. SIMON:  I mean, you vote against it, so that we 
+
+MR. SHULMAN:  I don't know how you can vote on it and 
+
+MR. HILL:  Well, the motion to -- 
+[Simultaneous speaking.] 
+MR. HILL:  -- submit your documents should have been 
+
+ 
+can vote on other things, and, you know, we just proceed. 
+ 
+AFGE has proposed when the -- 
+ 
+ 
+ 
+proposed before my amendment. 
+ 
+ignore the fact that the Director has asked us for certain 
+things to be included in the report that no one is interested in 
+entertaining. 
+ 
+MR. PHELPS:  Well, that's your opinion.  That's not 
+our opinion, and there's a motion on the floor, and I'll call 
+the motion. 
+ 
+MR. SHULMAN:  All right.  So, if there's a difference 
+of opinion, I think that there is something -- there's a clear 
+legal issue at stake here.  So we probably need an attorney to 
+tell us whether it's appropriate or not. 
+ 
+that when a motion is called you have a vote. 
+ 
+
+MR. SHULMAN:  Again, I don't see how you vote on what 
+
+MR. PHELPS:  Yeah, but Robert's Rules of Order says 
+
+CHAIRMAN FRIEDMAN:  We just need to follow Robert's 
+
+ 
+
+ 
+
+ 
+
+43 
+
+MS. SIMON:  I know them -- 
+MR. PHELPS:  I know them fairly well -- 
+MS. SIMON:  -- backwards and forwards. 
+MR. PHELPS:  -- and I know once a motion is on the 
+
+Rules of Order.  Does anybody know them in this room or on the 
+telephone? 
+ 
+ 
+ 
+ 
+floor, the motion -- 
+ 
+ 
+ 
+is a friendly amendment to the amendment. 
+MR. PHELPS:  That stops debate. 
+ 
+CHAIRMAN FRIEDMAN:  Okay.  Then let's vote. 
+ 
+ 
+MR. HILL:  The debate was held already. 
+ 
+CHAIRMAN FRIEDMAN:  Okay.  So I'm going to state the 
+motion.  The motion is to send the report that we have received 
+from the study group as is to Director Berry.  Did I state it 
+correctly? 
+ 
+ 
+ 
+ 
+
+MR. HILL:  Well, you have to vote on -- 
+MR. PHELPS:  -- is called, you have to vote. 
+MR. HILL:  -- the first amendment first, unless there 
+
+MS. SIMON:  Yeah. 
+CHAIRMAN FRIEDMAN:  All right.   
+MS. HANNON:  Hi. 
+CHAIRMAN FRIEDMAN:  Did somebody just join us? 
+
+ 
+
+ 
+
+ 
+
+44 
+
+MS. HANNON:  Yeah.  This is Ann Marie calling in.  I'm 
+
+CHAIRMAN FRIEDMAN:  Okay. 
+MS. GONZALEZ:  So we have 5 Management and 5 Labor 
+
+ 
+in transit now, so I should be able to rejoin the meeting. 
+ 
+ 
+members now. 
+CHAIRMAN FRIEDMAN:  Okay.   
+ 
+MR. HILL:  It's 5 and 5 now. 
+ 
+ 
+CHAIRMAN FRIEDMAN:  Ann Marie, we're just about to 
+vote on Keith's original motion, which is to send the report 
+that FPRAC received from the study group as is to Director 
+Berry. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+So do you want to call the roll for voting, Madeline? 
+MS. GONZALEZ:  Okay.  MTD? 
+MR. FENAUGHTY:  Yes. 
+MS. GONZALEZ:  AFGE? Jacque? 
+MS. SIMON:  Yes. 
+MS. GONZALEZ:  AFGE? Keith? 
+MR. HILL:  Yes. 
+MS. GONZALEZ:  NAGE? 
+MS. SUSZCZYK:  Yes. 
+MS. GONZALEZ:  ACT? 
+MR. FISHER:  Yes. 
+
+ 
+
+ 
+
+ 
+
+45 
+
+MS. GONZALEZ:  OPM? 
+ 
+MR. ALLEN:  No. 
+ 
+MS. GONZALEZ:  DoD? 
+ 
+MR. SHULMAN:  No. 
+ 
+MS. GONZALEZ:  Air Force? 
+ 
+MS. FREEMAN:  No. 
+ 
+MS. GONZALEZ:  Navy? 
+ 
+MR. SAAVEDRA:  No. 
+ 
+MS. GONZALEZ:  VA? 
+ 
+MS. HANNON: No. 
+ 
+MS. GONZALEZ:  Mr. Chairman, the vote is 5 to 5. 
+ 
+CHAIRMAN FRIEDMAN:  So we have a tie, and it's up to 
+ 
+me then to resolve this.  I vote yes.  I believe we should send 
+this report on.  I believe those who have a different view on 
+the Management side should feel every encouragement to get their 
+view to Director Berry. 
+ 
+ 
+can now vote to amend the report. 
+ 
+ 
+incorporate 572-DOD-1, 572-DOD-2, and a list of documents 
+
+[Technical disturbance:  Loud Telephone Audio Noise.] 
+MR. SHULMAN:  It's not necessarily in conflict.  You 
+
+[Technical disturbance:  Loud Telephone Audio Noise.] 
+CHAIRMAN FRIEDMAN:  We now vote on Mark's motion to 
+
+ 
+
+ 
+
+ 
+
+46 
+
+MS. SIMON:  And that is the motion to delay until next 
+
+[Technical disturbance:  Loud Telephone Audio Noise.] 
+CHAIRMAN FRIEDMAN:    I'll state the motion again.  
+
+[Technical disturbance:  Loud Telephone Audio Noise.] 
+CHAIRMAN FRIEDMAN:  There is a motion on the floor, 
+
+supporting or opposing the AFGE proposal which have been 
+submitted to FPRAC for the record into the final report of the 
+study group that was requested by the Director of OPM. 
+ 
+ 
+which is the one we are now voting. 
+ 
+week a vote on the motion to include the other items?  I mean, 
+there are two motions on the floor, right? 
+ 
+ 
+It's the motion that Management offered, which is to incorporate 
+572-DOD-1, 572-DOD-2, and a list of items that have been 
+submitted to FPRAC on one side or the other side of the table on 
+the underlying issue that we're considering, into the study 
+group report. 
+ 
+already been addressed in our previous vote. 
+CHAIRMAN FRIEDMAN:  Well, that's what I thought, too, 
+ 
+but Management would like a recorded vote on that, and there’s a 
+motion before us.  So I don't know of any reason not to have the 
+vote. 
+
+MR. HILL:  Mr. Chair, I would submit that that's 
+
+ 
+
+ 
+
+ 
+
+47 
+
+MR. SHULMAN:  Yeah.  I would like to make a few 
+
+[Technical disturbance:  Loud Telephone Audio Noise.] 
+CHAIRMAN FRIEDMAN:  Unless there's further discussion, 
+
+ 
+ 
+I suggest we vote.  Any further discussion of it? 
+ 
+observations again.  Going back to what Director Berry asked us 
+for in 565-OC-2:  The working group will review all of the 
+information developed for the analysis as outlined above.  If 
+any working group member does not agree with OPM's proposed 
+methodology for any of the analysis, the working group chair 
+will provide a reasonable amount of time for discussion of 
+alternatives.  If consensus or creative resolution is not 
+reached in a timely manner, the working group chair will note 
+any remaining differences of opinion for the record, with a 
+summary explanation and opportunity for more detailed 
+explanation for the record and move forward on the study.  Any 
+such notes may be made part of the final report at the request 
+of any party. 
+ 
+Management requests for these documents to be made part of the 
+final study report. 
+ 
+suggests that the Chair should summarize the disagreement. 
+
+And so technically we don't need to vote on this.  
+
+MS. SIMON:  Seth, this is Jacque.  What you just read 
+
+ 
+
+ 
+
+ 
+
+48 
+
+CHAIRMAN FRIEDMAN:  That document was FPRAC's 
+
+MS. SIMON:  Oh, no, no, no.  There was plenty of 
+
+[Technical disturbance:  Loud Telephone Audio Noise.] 
+CHAIRMAN FRIEDMAN:  So we have a motion before us 
+
+ 
+instruction to the study group, I believe. 
+ 
+ 
+that's been seconded.  I'll state it -- I guess I've stated it 
+already.  I don't need to state it again, do I? 
+MR. FENAUGHTY:  Not for me. 
+ 
+ 
+MS. SIMON:  Yeah.  Can we just clarify that what Seth 
+just read was not the Director's instructions to FPRAC but the 
+FPRAC's instructions to the study group? 
+ 
+ 
+wasn't consensus could have been summarized by the Chair; 
+however, these weren't issues on which there -- my contention is 
+these are not issues about which there weren't consensus.  These 
+are separate issues.  This is a different proposal. 
+MR. SHULMAN:  My observation would be certainly from 
+ 
+what the DoD staff has shared in that there was quite a bit of 
+discussion on these items in the working group, and there was no 
+consensus reached, so I have to take them at their word, 
+honestly. 
+ 
+
+CHAIRMAN FRIEDMAN:  That's correct. 
+MS. SIMON:  And, you know, the issues on which there 
+
+ 
+
+ 
+
+ 
+
+49 
+
+MR. SHULMAN:  I don't know that that's an accurate 
+
+MS. SIMON:  No, of course not, but that's -- 
+MR. SHULMAN:  Then there is a lack of consensus. 
+[Simultaneous speaking.] 
+CHAIRMAN FRIEDMAN:  Okay.  Any further discussion? 
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  If not, I suggest we vote. 
+MS. FREEMAN:  Mr. Chairman, I just wanted to say that 
+
+discussion, and the discussion was these documents were 
+irrelevant to our proposal. 
+ 
+reflection of how the DoD staff feels about them. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+as far as the submission of additional information -- you're 
+saying that the paragraph read earlier by Seth in 565-OC-2--that 
+this was not from the Director, but that this is what the charge 
+is for the FPRAC working group, if that's the direction that 
+they were going in the beginning, regardless of the working 
+group, then that's what everybody was thinking, and this is what 
+they were charged with doing. 
+ 
+If this is what they thought that they were charged with, this 
+is what they were supposed to be doing, then this is what, you 
+know, the Committee ended up doing, so this is why we're saying 
+
+So, you know, there's no need to change it at the end.  
+
+ 
+
+ 
+
+ 
+
+50 
+
+MS. WALKER:  This is Barbara.  May I address the 
+
+CHAIRMAN FRIEDMAN:  Sure. 
+MS. WALKER:  I was involved with many of those working 
+
+that the information or whatever should be there, because we 
+thought that this is what the working group was charged with. 
+ 
+MR. PHELPS:  Well, those of us that were involved, 
+this is what we ended up doing, not the document submitted right 
+towards the end by DoD. 
+ 
+Committee? 
+ 
+ 
+group meetings, and there was quite a bit of discussion about 
+additional documentation that could be provided into the study.  
+And it was the consensus -- well, we didn't even have to come to 
+a consensus according to our rules. 
+ 
+we had that was relevant to the cause at hand could be provided, 
+and that's what we've done.  And it seems now that the union 
+members are preventing Management from providing that 
+documentation.  I don't understand that. 
+ 
+ 
+described. 
+ 
+
+MS. SIMON:  Barbara, this is Jacque Simon from AFGE. 
+You know, our contention is not the way, what you just 
+
+What we were told is any additional information that 
+
+MS. WALKER:  Well, it absolutely is, Jacque.  We -- 
+
+ 
+
+ 
+
+ 
+
+51 
+
+MS. WALKER:  I'm not even talking about the 
+
+MS. SIMON:  I'm sorry, but it's -- 
+MS. WALKER:  -- discussed it -- 
+MS. SIMON:  -- not. 
+MS. WALKER:  -- in the meeting. 
+MS. SIMON:  I mean, we don't think that the 
+
+ 
+ 
+ 
+ 
+ 
+alternative proposal is responsive to our proposal. 
+ 
+alternative proposal.  I'm talking about Management having the 
+ability to provide additional relevant documentation in the 
+study. 
+MS. SIMON:  Well, see, that's the key thing. 
+ 
+MS. WALKER:  The document that I asked to be included 
+ 
+had already been read into the record.  Providing it to Director 
+Berry in conjunction with this study is very relevant, because 
+that paper was relevant to your proposal. 
+MS. SIMON:  You're back to Mr. Marriott's letter? 
+ 
+MS. WALKER:  I'm back to any documentation that is to 
+ 
+be supplied to help the Director make a well-educated decision 
+on this proposal. 
+ 
+conversation right now for the first time this morning? 
+ 
+
+MS. SIMON:  Barbara, are you just coming into the 
+
+MS. WALKER:  No, I'm not. 
+
+ 
+
+ 
+
+ 
+
+52 
+
+MS. SIMON:  Oh.  Because I thought, you know, that we 
+
+MS. WALKER:  Exactly. 
+MS. SIMON:  -- it sounds like you're talking about 
+
+MS. WALKER:  Right. 
+MS. SIMON:  It wasn't just Mr. Marriott's letter, but 
+
+ 
+had sort of moved on to a different proposal from Management, 
+which was not Mr. Marriott's letter by itself but a page of 
+citations of all material that had been introduced to FPRAC, 
+testimony letters, et cetera relevant to the proposal. 
+ 
+ 
+-- 
+ 
+ 
+just Mr. Marriott's letter? 
+ 
+include any relevant documentation into this survey report. 
+ 
+would exclude the alternative implementation thing and the 
+so-called unintended consequences and just the list of relevant 
+testimonies and letters? 
+ 
+bottom line of were we or were we not allowed to provide 
+additional information in this survey report. 
+ 
+MS. SIMON:  I think -- I think not. 
+CHAIRMAN FRIEDMAN:  Okay.   Unless there's some 
+ 
+
+MS. WALKER:  No, I agree with DoD's proposal to 
+
+MS. SIMON:  Well, are you proposing a new motion which 
+
+MS. WALKER:  No, I'm not.  I'm trying to get to the 
+
+ 
+
+ 
+
+ 
+
+53 
+
+MS. SIMON:  Okay. 
+MR. HILL:  Could you please read the motion again? 
+CHAIRMAN FRIEDMAN:  The motion is to incorporate 
+
+Did I state the motion accurately? 
+MR. ALLEN:  That is a fair representation, yes. 
+CHAIRMAN FRIEDMAN:  Okay.  And, Madeline, would you 
+
+further discussion, I believe we're ready to vote. 
+ 
+ 
+ 
+Documents 572-DOD-1 and 572-DOD-2 from today's FPRAC meeting 
+plus a list of items that are relevant to the underlying issue 
+that have been submitted to FPRAC, those three things, 
+incorporate them into the report that FPRAC will send to 
+Director Berry. 
+ 
+ 
+ 
+call the roll? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MS. GONZALEZ:  OPM? 
+MR. ALLEN:  Yes. 
+MS. GONZALEZ:  DoD? 
+MR. SHULMAN:  Yes. 
+MS. GONZALEZ:  Air Force? 
+MS. FREEMAN:  Yes. 
+MS. GONZALEZ:  Navy? 
+MR. SAAVEDRA:  Yes. 
+MS. GONZALEZ:  VA? 
+
+ 
+
+ 
+
+ 
+
+54 
+
+MS. HANNON:  Yes. 
+MS. GONZALEZ:  Metal Trades? 
+MR. FENAUGHTY:  No. 
+MS. GONZALEZ:  AFGE?  Keith? 
+MR. HILL:  No. 
+MS. GONZALEZ:  AFGE?  Jacque? 
+MS. SIMON:  No. 
+MS. GONZALEZ:  NAGE? 
+MS. SUSZCZYK:  No. 
+MS. GONZALEZ:  ACT? 
+MR. FISHER:  No. 
+MS. GONZALEZ:  The vote is a tie. 
+CHAIRMAN FRIEDMAN:  What a surprise.  Well, I have to 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+cast the deciding vote.  I vote no -- [inaudible].  
+ 
+ 
+memo to convey the extent of this disagreement and the fact that 
+there will be additional materials provided to the Director in 
+very high probability from the Management side. 
+ 
+offered at the outset to Madeline, to Terri, to everyone else 
+who did such hard and long work on this report.  Thank you all, 
+
+[Technical disturbance:  Loud Telephone Audio Noise.] 
+CHAIRMAN FRIEDMAN:  And we'll try in the transmittal 
+
+With that, I want to reiterate thanks that Mark 
+
+ 
+
+ 
+
+ 
+
+55 
+
+Is there any other business that needs to come before 
+
+and thanks to all the participants in the study group and our 10 
+meetings and all the work we did.  Thank you all here today.  I 
+know everybody is not happy with the outcome.  There would have 
+been no way for that to be possible. 
+ 
+us today? 
+ 
+ 
+ 
+to that.  So we've got consensus on something. 
+ 
+ 
+ 
+
+MR. PHELPS:  Motion to adjourn. 
+MR. ALLEN:  Second. 
+CHAIRMAN FRIEDMAN:  Okay.  I bet there is no objection 
+
+MR. FENAUGHTY:  One out of seven ain't bad. 
+CHAIRMAN FRIEDMAN:  Yeah. 
+
+•-•-• 
+
+

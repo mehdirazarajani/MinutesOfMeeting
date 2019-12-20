@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f45b2cf8-8267-4673-be3e-e48c4253aeb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Minutes_of_Meeting" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TXn4K1iZCqxYviAL1J9bV8qwU6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/sentence-classification-master" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.ProbablisticsRankingRevised">
+    <configuration name="File Reader and Cleaner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Minutes_of_Meeting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Mehdi Raza\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/File Reader and Cleaner" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProbablisticsRankingRevised" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Minutes_of_Meeting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Mehdi Raza\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/ProbablisticsRankingRevised.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProblasticRanking" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Minutes_of_Meeting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Mehdi Raza\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/ProblasticRanking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SentenceWordMatching (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Minutes_of_Meeting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Mehdi Raza\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SentenceWordMatching.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SentenceWordMatching" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Minutes_of_Meeting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Mehdi Raza\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SentenceWordMatching.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Minutes_of_Meeting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Mehdi Raza\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ProbablisticsRankingRevised" />
+        <item itemvalue="Python.File Reader and Cleaner" />
+        <item itemvalue="Python.ProblasticRanking" />
+        <item itemvalue="Python.SentenceWordMatching (1)" />
+        <item itemvalue="Python.SentenceWordMatching" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f45b2cf8-8267-4673-be3e-e48c4253aeb3" name="Default Changelist" comment="" />
+      <created>1573615114393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573615114393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575556257433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1575556257433" />
+    <state width="1515" height="256" key="GridCell.Tab.0.bottom" timestamp="1576860451418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576860451418" />
+    <state width="1515" height="256" key="GridCell.Tab.0.center" timestamp="1576860451418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576860451418" />
+    <state width="1515" height="256" key="GridCell.Tab.0.left" timestamp="1576860451418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576860451418" />
+    <state width="1515" height="256" key="GridCell.Tab.0.right" timestamp="1576860451418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576860451418" />
+    <state width="1515" height="256" key="GridCell.Tab.1.bottom" timestamp="1576860451419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576860451419" />
+    <state width="1515" height="256" key="GridCell.Tab.1.center" timestamp="1576860451418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1576860451418" />
+    <state width="1515" height="256" key="GridCell.Tab.1.left" timestamp="1576860451418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1576860451418" />
+    <state width="1515" height="256" key="GridCell.Tab.1.right" timestamp="1576860451419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1576860451419" />
+    <state x="279" y="57" key="SettingsEditor" timestamp="1576739470077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576739470077" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/File Reader and Cleaner</url>
+          <line>45</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/File Reader and Cleaner</url>
+          <line>56</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/File Reader and Cleaner</url>
+          <line>39</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="(pt &lt;= 0 or ut &lt;= 0 or pt &gt; 1 or ut &gt; 1)" language="Python" />
+          <url>file://$PROJECT_DIR$/venv/ProblasticRanking.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/ProblasticRanking.py</url>
+          <line>208</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="pt &gt; 1 or pt &lt;= 0 or ut &gt; 1 or ut &lt;= 0" language="Python" />
+          <url>file://$PROJECT_DIR$/venv/ProbablisticsRankingRevised.py</url>
+          <line>243</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="value_dict" language="Python" />
+        <watch expression="resulants" language="Python" />
+        <watch expression="word" language="Python" />
+        <watch expression="rt" language="Python" />
+        <watch expression="n" language="Python" />
+        <watch expression="nt" language="Python" />
+        <watch expression="r" language="Python" />
+        <watch expression="cluster_collection" language="Python" />
+        <watch expression="cluster_words" language="Python" />
+        <watch expression="sentences" language="Python" />
+        <watch expression="resulants[key_sentence]" language="Python" />
+        <watch expression="resulants" language="Python" />
+        <watch expression="row" language="Python" />
+        <watch expression="tasks" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

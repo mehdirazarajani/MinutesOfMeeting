@@ -1,0 +1,616 @@
+1 
+
+FEDERAL PREVAILING RATE ADVISORY COMMITTEE 
+
+587th FPRAC 
+
+SHELDON FRIEDMAN, Chairperson, Presiding 
+
+Thursday, September 19, 2013 
+
+Room 5526 
+
+
+Office of Personnel Management
+
+
+Washington, D.C. 20415 
+
+
+ATTENDANCE: 
+Members/Alternates: 
+ 
+
+Management Members: 
+
+Mark Allen, OPM
+
+Steven Rumble, DoD
+
+Bob Kerr, Air Force
+
+Pamela Sokol, Army (via telephone) 
+
+Labor Members: 
+Dennis Phelps, MTD
+
+Jacque Simon, AFGE
+
+Robert Shore, NAGE
+
+Steven Landis, ACT 
+
+
+ 
+
+Staff Specialists and Visitors: 
+
+Brenda Roberts, Designated Federal Officer, OPM
+Madeline Gonzalez, OPM
+Jennifer Dorsey, OPM
+Chris Hammond, OPM
+Jim Brady, DoD
+Becky Chaves, DoD
+Karl Fendt, DoD
+Deborah Blake, DOI
+Kermit Howard, DOI
+Emily Parkhurst, DOI 
+
+Recording Secretaries:  Mike Eicher and Terri Wallace 
+
+[Transcript prepared from digital audio produced by FPRAC.] 
+
+
+
+C O N T E N T S 
+
+
+2 
+
+I.    Opening/Announcements
+
+Page
+• Introductions.....................................4 
+
+• Announcements.....................................5 
+
+II.  Review of the Minutes of the 586th Meeting..........7 
+
+ 
+III.  Old Business........................................7 
+
+
+a. Review of Lee County, Virginia, 557-MGT-2
+
+- 2013 Update to Review Lee County, Virginia,
+
+586-MGT-1 
+
+b. Discussion of Survey Issues/Concerns
+Survey Issues Work Group, 560-OC-1
+
+- FPRAC's Chairman's Memorandum to Members on 
+c. Special Wage Schedule Pay Practice for Federal
+Wage System Lock and Dam Employees, 562-MGT-1
+d. Definition of South Bend-Mishawaka, IN-MI 
+Metropolitan Statistical Area, 562-MGT-2
+e. Letter from the American Federation of Government 
+Employees, dated June 6, 2011, requesting FPRAC
+review a proposal to redefine Monroe County, PA
+from the Scranton-Wilkes-Barre, PA wage area to
+the New York, NY wage area, 564-AFGE-1
+f. Definition of Hickory-Lenoir-Morganton, NC
+Metropolitan Statistical Area, 575-MGT-1
+g. Proposal for FPRAC review of the Federal Wage
+System Appropriated Fund and Nonappropriated
+Fund Operating Manuals, 575-AFGE-1
+of the Federal Government's prevailing rate
+system
+Wage System Wage Areas, 578-MGT-1
+- Alternate Analysis of the Portland, ME Federal
+Wage System Wage Area, 580-MGT-1
+
+h. Suggestion for a research paper on the history
+
+i. Review of the Augusta and Portland, ME Federal
+
+j. Project to update wage area maps
+k. Department of the Interior's Special Vessel
+
+Schedules, 585-OPM-1 
+
+3 
+
+P R O C E E D I N G 
+
+CHAIRMAN FRIEDMAN:  Thank you, and good morning, 
+
+everyone.  Welcome to this, our 587th meeting of the Federal 
+Prevailing Rate Advisory Committee. 
+
+Before we get started, I would like to ask that we 
+observe a moment of silence in memory of the victims of the 
+tragic shooting at the Washington Navy Yard earlier this week. 
+
+[Moment of silence.] 
+CHAIRMAN FRIEDMAN:  Okay.  Thank you, everyone. 
+As we usually do, why don't we go around the room and 
+
+introduce ourselves?  Today, I'll start with you, Mark. 
+
+MR. ALLEN:  Mark Allen with OPM. 
+MR. RUMBLE:  Steve Rumble, Department of Defense. 
+MR. KERR:  Bob Kerr, Air Force. 
+
+MS. SOKOL:  Pamela Sokol, Army. 
+MR. PHELPS:  Dennis Phelps, Metal Trades Department. 
+MS. SIMON:  Jacque Simon, AFGE. 
+MR. SHORE:  Robert Shore, NAGE. 
+MR. LANDIS:  Steven Landis, ACT. 
+CHAIRMAN FRIEDMAN:  I forgot to introduce myself. 
+
+Sheldon Friedman, Chair of FPRAC. 
+
+4 
+
+Folks around the edge of the room, please introduce 
+
+yourselves. 
+
+MS. GONZALEZ:  Madeline Gonzalez with OPM. 
+MS. ROBERTS:  Brenda Roberts, OPM and the Designated 
+
+Federal Officer. 
+
+MR. BRADY:  Jim Brady, DoD. 
+MS. CHAVES:  Becky Chaves, DoD. 
+MR. HAMMOND:  Chris Hammond, OPM. 
+MR. EICHER:  Mike Eicher, OPM. 
+MS. WALLACE:  Terri Wallace, OPM. 
+MS. DORSEY:  Jennifer Dorsey, OPM. 
+MR. HOWARD:  Kermit Howard, Department of the 
+
+Interior. 
+
+MS. BLAKE:  Deborah Blake, Department of the Interior, 
+
+National Park Service. 
+
+MS. PARKHURST:  Emily Parkhurst, Department of the 
+
+Interior, Office of Solicitor. 
+
+CHAIRMAN FRIEDMAN:  Thank you.  Just a quick 
+
+announcement or two.  Our FPRAC colleague, Bill Fenaughty, has 
+had some heart surgery, and I took the liberty of getting him a 
+get-well card, which I’ll pass around.  I understand he's 
+recovering and hopefully will be back before too long. 
+
+5 
+
+I'll start it with you, and if people could get it 
+
+back to me, I'd appreciate it. 
+
+Another announcement.  Some bad news and some good 
+
+news.  We were asked a while back by one of the members of the 
+Committee to update our book of maps that show the FWS wage 
+areas, and this is an excellent idea, so we are proceeding to do 
+that.  The bad news is that the old software that was being used 
+for mapping, it's so out of date, it's no longer being provided 
+technical support.  The good news is we are getting some new 
+software. 
+
+Do we have it in hand, or are we still awaiting it? 
+
+Anybody know the answer? 
+
+MS. GONZALEZ:  We are waiting for the Help Desk to 
+
+install it. 
+
+CHAIRMAN FRIEDMAN:  So what I would like to ask the 
+
+members of the Committee is if they have suggestions about 
+changes in format or changes in information that the maps would 
+convey, without any guarantee we can address those suggestions, 
+please let us know.  It would be very helpful to have those 
+ideas, and a good way to submit those would be just to take an 
+old map and mark it up and say do it this way or do it that way. 
+We can get them in to Madeline. 
+
+6 
+
+MS. GONZALEZ:  As soon as possible will be helpful. 
+CHAIRMAN FRIEDMAN:  We will send an e-mail as a 
+
+reminder for people to do that, but please convey your thoughts. 
+
+MR. ALLEN:  I would just make an observation.  With 
+the maps we have currently been using and using in the past, 
+they have a lot of information on them, and so for a layperson, 
+somebody not associated with the Committee, it would be 
+difficult for somebody to understand just looking at the map 
+what we're trying to convey on it.  It's got wage area 
+boundaries, survey areas, and areas of application.  This is 
+just something to think about. 
+
+CHAIRMAN FRIEDMAN:  Okay.  So we would like to 
+
+announce to the Committee that our colleague Mark has a new job 
+title.  Tell us what it is, Mark. 
+
+MR. ALLEN:  Acting Deputy Associate Director for Pay 
+
+and Leave in Employee Services, and I will be Acting through the 
+end of this calendar year. 
+
+CHAIRMAN FRIEDMAN:  Okay.  Any other announcements 
+
+people have? 
+
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  If not, we will move on to review 
+
+of the transcript of our last meeting.  Does anybody have 
+
+7 
+
+corrections or changes beyond those that we have already heard 
+from you about? 
+
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  I don't hear anybody coming 
+
+forward on that.  So unless there's some objection, I assume the 
+transcript is adopted.  Hearing no objection, it's adopted. 
+Thank you. 
+
+That brings up Old Business, and we have quite a bit 
+of it on our plate, and one of the things we talked about doing 
+is wanting to work our way through that. 
+
+I want to start with the last item, which is the issue 
+of the Department of the Interior's Special Vessel Schedule, and 
+ask Mark if there's any update or anything new to report on that 
+since our last meeting. 
+
+MR. ALLEN:  I asked staff to take a look at what some 
+
+of the options might be.  There are a number of options that 
+were apparently considered way back in 1969 when the Federal 
+Wage System was being set up as an administrative pay system. 
+Some of those were rejected, so what we've ended up with is a 
+set-aside schedule, and unfortunately, none of the options 
+really seem to be ideal.  So I think we are placed in a position 
+to figure out what the best option of five or so is.  I will 
+
+8 
+
+just go through what I think the options are, and I am perfectly 
+open to hearing what any of the other members of the Committee 
+think other options are.  I think what I have is fairly 
+comprehensive. 
+
+Option number one, in no particular order. 
+We don't have a Management proposal on this at the 
+
+moment, so this is just laying out what I think the options are. 
+
+The default under the Federal Wage System is to pay 
+FWS employees from the regular wage schedule where they work. 
+The crew of the vessel Ranger III are kind of by default paid 
+rates from the regular wage schedule for the Northwestern 
+Michigan wage area.  So option one would be don't change 
+anything.  That presents an obvious problem because the regular 
+rates don't anymore provide for adequate recruitment and 
+retention of crewmembers of the vessel.  And Captain Hanrahan 
+came, and he gave pretty convincing evidence that's true. 
+
+The second option would be to continue the set-aside 
+
+schedule pay practice using rates from the Northwestern Michigan 
+wage schedule, but add steps to the rates that the crew are 
+currently paid.  I think they are currently paid from a single 
+rate, Step 3, and having five steps would provide room for 
+growth for the crew.  They would still be in alignment with 
+
+9 
+
+prevailing rates in their local wage area under the regular 
+Federal Wage System, but they would be more equalized with how 
+the rest of the pay system works. 
+
+Option three -- and this is what the Department of the 
+
+Interior sent over to us in their memorandum -- is to continue 
+the pay practices of the set-aside pay schedule, but base the 
+rates of pay on the Detroit, Michigan, floating plant wage 
+schedule, using the five-step structure. 
+
+In my mind, that does present some problems because 
+
+they are looking to a wage area that's outside of the 
+Northwestern Michigan wage area.  Captain Hanrahan has indicated 
+that the rationale behind aligning with the Detroit wage 
+schedule just to match the rates up to another Department of the 
+Interior vessel isn't really an apples-to-apples kind of thing 
+because the two vessels are so dissimilar. 
+ 
+On the Ranger III, I think we have to recognize it as 
+a unique operation, and that's one of the things that presents a 
+difficulty for figuring out what the appropriate pay schedule to 
+use is. 
+
+Next option.  And I think that Captain Hanrahan had 
+
+mentioned this and brought this to our attention.  Continue as a 
+set-aside, special schedule, but base the rates of pay on the 
+
+10 
+
+hopper dredge wage schedule.  There are currently two wage 
+schedules for hopper dredge employees.  One is for the Atlantic 
+and Gulf Coasts, and the other is for the West Coast. 
+
+We did check with the Army Corps of Engineers and 
+
+found that there are actually no hopper dredge vessels currently 
+operating in the Great Lakes, but one thing in the plus column 
+for using this option is that the rates of pay are based on 
+maritime rates of pay, so there's a direct correlation between 
+what the crewmembers of hopper dredge vessels are paid and what 
+is going on in the maritime sector of the economy. 
+
+Option five, pay the Ranger III crew prevailing 
+
+maritime rates under 5 USC 5348, and the big problem with that 
+one is that the Department of the Interior has already found 
+that there's inadequate maritime practice in the local area to 
+match up exactly what the crew of the Ranger III are doing in 
+terms of operating the type of vessel they have and what other 
+vessels are operating in the area. 
+
+And that's all I've got for now. 
+CHAIRMAN FRIEDMAN:  Before I open it to discussion, 
+what do you plan to do with that, Mark?  Is that going to be 
+written up and distributed to the Committee? 
+
+MR. ALLEN:  No, I don't have anything written for 
+
+11 
+
+distribution to the Committee.  It's just options that we've 
+identified, and I just wanted to open it up for the Committee 
+members to see if they have any other ideas. 
+
+MR. PHELPS:  I just wonder why there would be a 
+
+problem with tying it to the prevailing maritime rates.  You 
+know, when we have Wage Committee meetings and stuff that we 
+have, if there's not sufficient data for the area being 
+surveyed, you know, they go outside that area to another area 
+where they do have that data for, you know, the airplane 
+mechanics and those types of things. 
+
+MR. ALLEN:  Yeah.  That would be kind of a Monroney 
+
+Amendment concept? 
+
+MR. PHELPS:  Right.  Yeah.  Right. 
+MR. ALLEN:  Under the Monroney Amendment, there would 
+be a limited amount of data that would be imported to the local 
+wage area to establish an adequate -- a more adequate wage 
+schedule, but it's still relying on the local data for the bulk 
+of the wage schedule, rates to be calculated. 
+
+In a manner of speaking, the concept of using a hopper 
+
+dredge schedule is fairly similar to I think what you're 
+thinking, which is if there aren't adequate data to set a 
+schedule that's capable of recruiting and retaining employees, 
+
+12 
+
+then what else is available?  And I think the next best thing, 
+although it's not ideal, might be the hopper dredge schedule. 
+
+MS. SIMON:  Or the Detroit. 
+MR. ALLEN:  The Detroit schedule, Captain Hanrahan has 
+
+said is not appropriate because --
+
+MS. SIMON:  It doesn't have anything from the same 
+
+industry? 
+
+MR. ALLEN:  It's actually the regular wage schedule 
+
+that applies to the crewmembers of floating plants, and in 
+Captain Hanrahan's opinion, there is too much of a difference 
+between his vessel and floating plant vessels. 
+
+CHAIRMAN FRIEDMAN:  Well, I think we have some work to 
+
+do on this. 
+
+I would like to ask our visitors from the Department 
+of the Interior, since you are here today, if there is anything 
+you would like to contribute before we deliberate further on 
+this issue. 
+
+MR. HOWARD:  We don't have anything to contribute at 
+this time.  If OPM requires more dialogue with us, we are open 
+to discussion as far as assisting with coming up with a 
+solution.  So we're just interested in hearing the options and 
+working from that standpoint. 
+
+13 
+
+CHAIRMAN FRIEDMAN:  I think one question in my mind is 
+
+to understand better how DOI determined there wasn't adequate 
+comparison to be made with the maritime industry.  That option 
+5, which Mark laid out, which apparently was considered but not 
+adopted by DOI, it would be helpful to understand it a little 
+better, at least for me, anyway, the reasoning behind that. 
+
+MR. ALLEN:  There would be a long history behind that 
+because there was a decision that had to have been made when the 
+maritime provision was initially put in place that it would not 
+apply to the crew of the Ranger III.  This goes back decades. 
+So there would have to be a new determination that there was now 
+comparable maritime industry in the local area to set pay under 
+5348, even though there's been decades of practice of not doing 
+that.  But I would have to leave it to the Department of the 
+Interior to respond to that question. 
+
+CHAIRMAN FRIEDMAN:  Okay.  Unless there's something 
+
+further on this, I do hope we address this matter quickly. 
+
+MS. SIMON:  Is there some reason why that list you 
+
+just read can't be distributed to us?  I think it would be 
+helpful to have.  I thought you were reading from something. 
+Even if it's not a fully developed Management proposal, a 
+written list would be helpful to really see. 
+
+14 
+
+MR. ALLEN:  Sure.  I can just get a brief summary out 
+
+to everybody. 
+
+MS. SIMON:  Okay, thank you. 
+MR. ALLEN:  Okay. 
+CHAIRMAN FRIEDMAN:  Is it reasonable for us to set 
+
+some sort of timeline on this issue?  I'd certainly like to if 
+we can, in coming up with a recommendation.  Hopefully, it will 
+be a consensus recommendation, but it may not be.  We'll have to 
+see. 
+
+MR. ALLEN:  The information we are looking for is from 
+
+the Department of the Interior to respond to the Chairman's 
+question about how the determination was made that maritime pay 
+under 5348 could not be applicable to the crew. 
+
+MR. HOWARD:  In that regard, we will have a response 
+
+to you. 
+
+CHAIRMAN FRIEDMAN:  Other than that, we don't need 
+
+additional information?  I didn't mean by asking my question to 
+delay this. 
+
+MR. ALLEN:  This has been an issue for 43 years, as 
+
+Captain Hanrahan pointed out. 
+
+CHAIRMAN FRIEDMAN:  Right. 
+MR. ALLEN:  And the letter he provided to us or the 
+
+15 
+
+memorandum he provided to us from 1969 lays out pretty much the 
+same concerns that we're still presented with, finding a way to 
+deal with what is a unique situation for the Federal Wage 
+System. 
+
+CHAIRMAN FRIEDMAN:  Okay.  Well, we will check in next 
+
+month and see where we are on this. 
+
+Any other Old Business items people want to discuss? 
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  If not, I have no New Business 
+
+items that I'm aware of.  Any New Business items people want to 
+bring to our attention now? 
+
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  We do have a Work Group meeting. 
+We will get that process restarted right after this meeting is 
+over. 
+
+If there is no objection, we can adjourn. 
+MR. SHORE:  Are we setting a schedule for the 
+
+Department of the Interior Special Vessel as we follow up on the 
+issue? 
+
+CHAIRMAN FRIEDMAN:  I would like to, but can we set a 
+
+schedule? 
+
+MR. ALLEN:  I would say we should have something more 
+
+16 
+
+for the next meeting on October the 17th. 
+
+CHAIRMAN FRIEDMAN:  Assuming we're here in a month. 
+MR. ALLEN:  I don't see any reason for the Committee 
+
+to delay. 
+
+MR. PHELPS:  Will we be getting something from 
+
+Interior soon?  I mean, it could be distributed to us before the 
+next meeting.  I think that would be helpful, you know, so we 
+could have a full discussion of it, either at the next meeting 
+or at the Work Group after the next meeting, if we could get 
+something in time from Interior to see what we're talking about. 
+MR. ALLEN:  We would have to rely on Interior for the 
+
+time table on that. 
+
+MS. PARKHURST:  We could have something to OPM by 
+
+sometime next week regarding the Chairman's question. 
+
+We would also like to present some more information on 
+
+the difference between Ranger III and a dredging ship and the 
+difference between Ranger III and a floating plant, because I 
+think that should be a component in the analysis. 
+
+MR. ALLEN:  Okay. 
+MR. PHELPS:  And then they could get distributed to 
+
+the rest of us when you get it? 
+MS. PARKHURST:  Yeah. 
+
+17 
+
+MR. PHELPS:  Okay. 
+CHAIRMAN FRIEDMAN:  Does that satisfy --
+MR. SHORE:  Yeah.  To me, it seems like of the five 
+
+options, we're really -- I think it makes sense to send all five 
+out, but we are really only looking at three, four, and five. 
+One and two didn't seem to be viable options from what anybody 
+seems to be looking at.  So I think we can narrow it down and 
+get the additional information.  Then we can move forward to try 
+to tackle the issue. 
+
+ 
+
+CHAIRMAN FRIEDMAN:  Okay. 
+Anything else? 
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  All right.  Unless there's some 
+
+objection, we can adjourn. 
+
+[No audible response.] 
+CHAIRMAN FRIEDMAN:  Hearing no objection, we are 
+
+adjourned. 
+
+

@@ -1,0 +1,595 @@
+                                                                 1
+
+              FEDERAL PREVAILING RATE ADVISORY COMMITTEE
+
+                             595th FPRAC
+
+              SHELDON FRIEDMAN, Chairperson, Presiding
+
+                       Thursday, June 19, 2014
+
+                               Room 5526
+                    Office of Personnel Management
+                        Washington, D.C. 20415
+
+
+
+ATTENDANCE:
+
+Members/Alternates:
+
+    Management Members:
+    Mark Allen, OPM
+    David Pedersen, Navy
+    Gary Buck, Army
+
+    Labor Members:
+    Bill Fenaughty, MTD
+    Jacque Simon, AFGE (via phone)
+    Candace Archer, AFGE
+    Adair Gregory, NAGE
+    Steven Landis, ACT
+
+Staff Specialists and Visitors:
+     Jeanne Jacobson, Designated Federal Officer, OPM
+     Madeline Gonzalez, OPM
+     Miranda Rocker, OPM
+     Luis Lynch, AF
+     Tracy Schulberg, Navy
+     Becky Chaves, DoD
+
+Recording Secretaries:
+     Mike Eicher, OPM
+     Terri Wallace, OPM
+
+   [Transcript prepared from digital audio produced by FPRAC.]
+                                                               2
+
+                          C O N T E N T S
+                                                        Page
+I.     Opening/Announcements
+       • Introductions.....................................3
+       • Announcements.....................................4
+
+II.    Review of the Minutes of 594th Meeting..............4
+
+III.   Old Business........................................5
+       a. Review of Lee County, Virginia, 557-MGT-2
+          - 2013 Update to Review of Lee County, Virginia,
+            586-MGT-1
+       b. Definition of South Bend-Mishawaka, IN-MI
+          Metropolitan Statistical Area, 562-MGT-2
+          - 2013 Update to Definition of South Bend-
+            Mishawaka, IN-MI Metropolitan Statistical
+            Area, 586-MGT-2
+       c. Letter from the American Federation of Government
+          Employees, dated June 6, 2011, requesting FPRAC
+          review a proposal to redefine Monroe County, PA
+          from the Scranton-Wilkes-Barre, PA wage area to
+          the New York, NY wage area, 564-AFGE-1
+       d. Definition of Hickory-Lenoir-Morganton, NC
+          Metropolitan Statistical Area, 575-MGT-1
+          - 2013 Update to Definition of
+            Hickory-Lenoir-Morganton, NC Metropolitan
+            Statistical Area, 588-MGT-1
+       e. Review of the Augusta and Portland, ME Federal
+          Wage System Wage Areas, 578-MGT-1
+          - Alternate Analysis of the Portland, ME Federal
+            Wage System Wage Area, 580-MGT-1
+          - 2014 Update to Alternate Analysis of the
+            Portland, ME Federal Wage System Wage
+            Area, 593-MGT-2
+          - Appropriated Fund Wage Areas Abolished
+            1969-1976, 594-OPM-1
+          - Employment Data from Portland, ME Wage Area,
+            594-OPM-2
+          - Hypothetical Payline Estimates for Augusta, ME
+            and Portsmouth, NH Using Raw Data from Outside
+            Counties, 594-DOD-1
+                                                                      3
+
+
+
+
+                           P R O C E E D I N G
+
+           CHAIRMAN FRIEDMAN:     Good morning, everyone, and
+
+welcome to this, our 595th meeting of the Federal Prevailing
+
+Rate Advisory Committee.     My name is Sheldon Friedman, Chair of
+
+the Committee, and as we usually do, let’s start with
+
+introductions.
+
+           Let's start with you today, Mark.
+
+           MR. ALLEN:    Mark Allen with OPM.
+
+           MR. PEDERSEN:     David Pedersen, Navy.
+
+           MR. BUCK:    Gary Buck, Army.
+
+           MR. FENAUGHTY:    Bill Fenaughty, Metal Trades and NFFE.
+
+           MS. ARCHER:    Candace Archer, AFGE.
+
+           MR. GREGORY:     Adair Gregory, NAGE.
+
+           MR. LANDIS:    Steven Landis, ACT.
+
+           MS. SIMON:    Jacque Simon, AFGE (via phone).
+
+           CHAIRMAN FRIEDMAN:    Let's go around the rest of the
+
+room, as well, please.
+
+           MS. JACOBSON: Jeanne Jacobson, OPM, Designated Federal
+
+Officer.
+
+           MR. LYNCH:     Luis Lynch, Air Force.
+
+           MS. SCHULBERG:    Tracy Schulberg, Navy.
+                                                                    4
+
+
+         MS. CHAVES:     Becky Chaves, DoD.
+
+         MR. EICHER:     Mike Eicher, OPM.
+
+         MS. ROCKER:     Miranda Rocker, OPM.
+
+         MS. GONZALEZ:    Madeline Gonzalez, OPM.
+
+         MS. WALLACE:     Terri Wallace, OPM.
+
+         CHAIRMAN FRIEDMAN:     Thank you, everyone, and welcome
+
+again.
+
+         I have no announcements this morning.      Does anyone
+
+else have any announcements?
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:     If not, let's move to review the
+
+minutes of our previous meeting.    Are there any changes that
+
+people want to bring to our attention that you haven't already
+
+told us about?
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:     If not, is there any objection to
+
+adopting the transcript of our last meeting?
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:     Hearing no objection, the
+
+transcript is adopted.
+
+         That brings up Old Business.     Is there any item (a)
+
+through (d) on the agenda that people would like to talk about
+                                                                   5
+
+
+this morning?
+
+         MS. SIMON:   This is Jacque Simon.   I just want to
+
+bring up item (c), the third item on the list of Old Business,
+
+our request for an FPRAC review of our proposal to redefine
+
+Monroe County, Pennsylvania, from the Scranton-Wilkes-Barre wage
+
+area to the New York wage area.   Of course, this is one element
+
+in the proposal that FPRAC passed in October of 2010 that has
+
+languished now for several years, so everyone has been politely
+
+pretending it doesn't exist, but it exists.
+
+         The affected employees, those who are the hourly
+
+employees, are in numerous locations around the country; in this
+
+case at Tobyhanna Army Depot in Pennsylvania, but we all know
+
+that there are other locations, as well.
+
+         This disparate treatment between salaried and hourly
+
+federal employees is really a scandal that shouldn't be allowed
+
+to continue to exist, and President Cox has asked me to bring
+
+this up again to try to bring some kind of reckoning through
+
+FPRAC, so that some attention can be paid to this by the
+
+Director of the Office of Personnel Management.   Certainly,
+
+every question about the impact and implementation of this
+
+proposal has been answered to the nth degree.   Our members are
+
+very frustrated.   President Cox is beyond frustrated, and we
+                                                                      6
+
+
+want some action.   We want some attention, and we want some
+
+movement on this issue.
+
+          CHAIRMAN FRIEDMAN:     Is there something specific you're
+
+asking from FPRAC at this point, Jacque?
+
+          MS. SIMON:   Yes.    I'd like FPRAC to reaffirm its
+
+support for this proposal and ask directly that OPM Director
+
+Katherine Archuleta respond and take action on this
+
+recommendation.
+
+          CHAIRMAN FRIEDMAN:     Is that in the form of a motion?
+
+          MS. SIMON:   It doesn't have to be in the form of a
+
+motion.   This is a request from AFGE, AFGE President J. David
+
+Cox.   He asked me to convey this to you, to the FPRAC Committee.
+
+          CHAIRMAN FRIEDMAN:     Okay.   I'm trying to think how we
+
+take action on this. It seems to me we would need to have
+
+something from AFGE to pass on to the Director.
+
+          MS. SIMON:   Okay.    I'll put something in writing,
+
+specifically asking the Chairman of FPRAC to forward to the
+
+Director of OPM a request for action, because you know, 3-1/2
+
+years is long enough to wait for a decision. The proposal has
+
+just been sitting on the desk of the Director of OPM.     We are
+
+now on our second Director that has this proposal on her desk,
+
+and the time for action has long passed, so certainly, it needs
+                                                                       7
+
+
+to occur now.
+
+            CHAIRMAN FRIEDMAN:   Okay.   Well, I certainly hear you.
+
+All right.    So you're going to give us something in writing on
+
+that then, right?    --
+
+            MS. SIMON:    Yes.
+
+            CHAIRMAN FRIEDMAN:   Okay.   We actually don't have a
+
+quorum on the Management side this morning.        Once we have
+
+something in writing, we can take it from there.
+
+            Steve?
+
+            MR. LANDIS:   I would just like to add on to what
+
+Jacque said, as well.      This has definitely been a point of
+
+frustration for all of us, as well as the fact that Joint Base
+
+McGuire-Dix-Lakehurst has been an issue now for almost 5 years,
+
+as of October of 2009 when they were combined in one military
+
+facility.    GS workers were all given the New York pay scale,
+
+which is what the eastern portion of the base were paid, and the
+
+FWS employees were left out of that.
+
+            It was an oversight.   It has been recommended by the
+
+Congressmen and the Senators from the State of New Jersey to
+
+correct this.    Again, this has been something that has been
+
+going on since October of 2009.
+
+            We have documentation from past meetings that it is
+                                                                          8
+
+
+general OPM policy that when one facility is split between two
+
+wage areas, it is combined within one wage area, but these
+
+things have just been left hanging in the breeze now for years.
+
+         We're having turnover issues.       We have people that are
+
+coming in to work as technicians.       They are employed for a
+
+couple years but then they get frustrated with their pay.          They
+
+get more experience, and then they take jobs elsewhere.       So
+
+we're having turnovers.       We have an issue there with retention,
+
+and it's something that needs to be addressed and fixed, sooner
+
+rather than later.
+
+         CHAIRMAN FRIEDMAN:       Thank you, Steve.
+
+         Well, of course, we even heard from the former Base
+
+Commander about this.
+
+         Is there anything that the Management side would like
+
+to say in response at this point?
+
+         MR. ALLEN:     No.    The Management members' position has
+
+not changed on the overall AFGE proposal and the FPRAC
+
+recommendation by majority vote is still under consideration by
+
+the Director of OPM.    I don't have any further information on
+
+that, that I can share today.
+
+         CHAIRMAN FRIEDMAN:       Any further discussion at this
+
+time?
+                                                                           9
+
+
+            Steve.
+
+            MR. LANDIS:   I also received some contact from
+
+Congressman Jon Runyan's office.      Half of the Joint Base is in
+
+his district.    I believe that next year's National Defense
+
+Authorization Act contains language in it that is directed to
+
+correct this issue, as well.      I'm not exactly sure.   It seems
+
+like that is going to get through the House and the Senate.          But
+
+I don't know.    I have also heard rumors that the President is
+
+threatening to veto it.
+
+            I don't have all the exact details of that bill, but--
+
+            MS. SIMON:    This is Jacque Simon.   Representative
+
+Runyan never offered his amendment.      He withdrew it, presumably
+
+because the Rules Committee had some objection.       So it was never
+
+actually offered, so it is not part of the NDAA this year.
+
+            CHAIRMAN FRIEDMAN:    Anything else on this matter?
+
+            MS. SIMON:    We know the Congressman is very interested
+
+in rectifying this, but it is not going to be part of the
+
+National Defense Authorization Act for 2015.
+
+            CHAIRMAN FRIEDMAN:    Anything else on this matter this
+
+morning?
+
+            MR. ALLEN:    Mr. Chairman, I have a procedural
+
+question.    The agenda item that we are considering under this
+                                                                    10
+
+
+discussion is agenda item (c), which is the letter from AFGE
+
+that just had to do with Monroe County, Pennsylvania.
+
+         Jacque, are we just talking about Monroe County,
+
+Pennsylvania, or are we talking about the overall FPRAC
+
+recommendation from October 2010?
+
+         MS. SIMON:   We are talking about both our request for
+
+the redefinition of Monroe County and the proposal that was
+
+adopted by FPRAC in October of 2010 that would have resolved the
+
+issue, not only for Monroe County, Pennsylvania, but for
+
+numerous other counties throughout the country.
+
+         MR. ALLEN:   Okay.
+
+         MS. SIMON:   The answer is both, not either/or.
+
+         CHAIRMAN FRIEDMAN:   Anything else on this?
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:
+
+         So are there any other (a) through (d) items of Old
+
+Business that people want to talk about this morning?
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:   If not, I suggest we move on to
+
+item (e), on which at this point, we have accumulated quite a
+
+few different exhibits, data, analysis, and so forth.     We have
+
+received the Management proposal.   I think we are still awaiting
+                                                                  11
+
+
+a definite Labor proposal.    The Labor side has indicated that
+
+the Management proposal is not acceptable to the Labor folks.
+
+         We could summarize some of the background again, but I
+
+think we have done that at previous meetings.
+
+         Is there any discussion at this point of this question
+
+of the disposition of the Portland, Maine, wage area?
+
+         MR. ALLEN:   Mr. Chairman, if I may, I can kind of boil
+
+down what I think are the essential issues on this.
+
+         CHAIRMAN FRIEDMAN:    Sure.
+
+         MR. ALLEN:   The Management proposal recommends that
+
+the current Portland wage area be split into two parts, with
+
+some of the counties going to the Augusta, Maine, wage area and
+
+some to the Portsmouth, New Hampshire, wage area.
+
+         It is my understanding that the Labor members would
+
+prefer that the Portland wage area's counties be kept together
+
+and be put into the Portsmouth wage area.
+
+         And the other issue is whether to continue having
+
+surveys conducted in one of the counties in the Portland wage
+
+area where there is a very large private sector employer.
+
+         CHAIRMAN FRIEDMAN:     There are three survey counties in
+
+the current Portland wage area, so there is the question of
+
+their status, do they continue as survey counties or not -- all
+                                                                         12
+
+
+three of them or fewer?       Those answers need to be part of our
+
+eventual recommendation.
+
+            Any discussion on this one?
+
+            MR. FENAUGHTY:    Just a question.     What I remember from
+
+May was that Labor was going to work on getting a proposal
+
+together.
+
+            CHAIRMAN FRIEDMAN:    That was my understanding.     I
+
+don't think we have received it yet, though.
+
+            MR. FENAUGHTY:    Jacque, is that your understanding of
+
+where we're at with this?
+
+            MS. SIMON:   Bill, I could hear that you were talking,
+
+but I couldn't make out what you said.         Did you say that we are
+
+still working on our Labor response to Management's proposal?
+
+            MR. FENAUGHTY:    Yes.     And that's pretty much where
+
+we're at.    We still owe the Committee a proposal regarding this
+
+issue on the Portland wage area.
+
+            MS. SIMON:   Yes, that’s correct.
+
+            MR. FENAUGHTY:     Okay.
+
+            CHAIRMAN FRIEDMAN:    Okay.     Well, I think I am going to
+
+suggest we defer any further discussion of this issue until we
+
+receive that proposal.       Is that agreeable?
+
+            MR. ALLEN:   That sounds like a good idea to me.
+                                                                     13
+
+
+         CHAIRMAN FRIEDMAN:      Okay.
+
+         MR. ALLEN:       I don't think there's anything urgent on
+
+the timeline for the wage survey in Portland that would impede
+
+the start of the wage change survey.
+
+         CHAIRMAN FRIEDMAN:      Well, the thing that concerns me a
+
+little is presumably the survey is being conducted without Labor
+
+participation at this point.      Ms. Chaves, would you happen to
+
+know if that is correct?
+
+         MS. CHAVES:      I'm sorry.    I would not know.
+
+         CHAIRMAN FRIEDMAN:      Okay.    That is a concern to me.
+
+         Anyway, we do need one more piece of data before we
+
+can move ahead on this.
+
+         Well, I have no New Business today.        Does anyone else?
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:       We do have a working group meeting
+
+scheduled shortly after we adjourn here, but if there is no new
+
+business, it would be entirely appropriate for us to adjourn.
+
+Is there any objection to adjourning?
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:      Hearing no objection, we are
+
+adjourned, so see everyone in July.       And have a good first month
+
+of summer.   Stay cool.    Thank you.
+

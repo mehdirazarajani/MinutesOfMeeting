@@ -1,0 +1,689 @@
+1 
+
+FEDERAL PREVAILING RATE ADVISORY COMMITTEE 
+
+603rd FPRAC 
+
+SHELDON FRIEDMAN, Chairperson, Presiding 
+
+Thursday, March 19, 2015 
+
+Room 7H31 
+
+Office of Personnel Management  
+
+Washington, D.C. 20415 
+
+ATTENDANCE: 
+
+Members/Alternates: 
+
+Management Members: 
+Mark Allen, OPM 
+Jim Davey, DoD 
+Scott Stoner, Air Force 
+David Pedersen, Navy 
+Arleen Romba, VA (via phone) 
+
+Labor Members: 
+Bill Fenaughty, MTD/NFFE 
+Jacque Simon, AFGE 
+Candace Archer, AFGE 
+Robert Shore, NAGE 
+Steven Landis, ACT 
+
+Staff Specialists and Visitors: 
+
+Brenda Roberts, Designated Federal Officer, OPM 
+Madeline Gonzalez, OPM 
+Jim Brady, DoD 
+Becky Chaves, DoD 
+Chris Lynch, DoD 
+Gary Buck, Army 
+Lamar Elliot, ACT 
+Emell Monlyn, NAGE 
+
+Recording Secretary: 
+
+Mike Eicher, OPM 
+
+[Transcript prepared from digital audio produced by FPRAC.] 
+
+C O N T E N T S  
+
+2 
+
+Page 
+
+I.  Opening/Announcements 
+
+Introductions..............................................................................................3 
+• 
+•  Announcements.........................................................................................4 
+
+-  FPRAC Membership Roster for FY 2015, 603-OC-1 
+
+II.  Review of the Minutes of the 602nd Meeting..................................................4 
+
+III.  Old Business.....................................................................................................6 
+
+a.  Review of Lee County, Virginia, 557-MGT-2 
+
+b.  Definition of South Bend-Mishawaka, IN-MI Metropolitan Statistical 
+
+-  2013 Update to Review of Lee County, Virginia, 586-MGT-1 
+Area, 562-MGT-2 
+-  2013 Update to Definition of South Bend-Mishawaka, IN-MI 
+
+Metropolitan Statistical Area, 586-MGT-2 
+
+c.  Letter from the American Federation of Government Employees, Dated 
+
+June 6, 2011, Requesting FPRAC Review a Proposal to Redefine 
+Monroe County, PA, from the Scranton-Wilkes-Barre, PA, Wage Area 
+to the New York, NY, Wage Area, 564-AFGE-1 
+
+d.  Definition of Hickory-Lenoir-Morganton, NC Metropolitan Statistical 
+
+Area, 575-MGT-1 
+-  2013 Update to Definition of Hickory-Lenoir-Morganton, NC 
+
+Metropolitan Statistical Area, 588-MGT-1 
+
+e.  Letter from the American Federation of Government Employees, Dated 
+
+November 3, 2014, Requesting FPRAC Review Recent Wage Data 
+Collected in the North Dakota Survey Area, 599-AFGE-1 
+
+f.  Proposal to Move a Portion of Joint Base McGuire-Dix-Lakehurst from 
+
+the Philadelphia, PA, Wage Area to the New York, NY, Wage Area, 
+599-ACT-1 
+
+g.  Review of Burlington and Ocean Counties, New Jersey, 602-OPM-1 
+
+IV.  New Business....................................................................................................6 
+
+a.  Joint Base McGuire-Dix-Lakehurst GS and FWS Employment as of 
+
+October 2014, 603-OC-2 
+
+ 
+
+3 
+
+P R O C E E D I N G  
+
+CHAIRMAN FRIEDMAN: Good morning, everyone, and welcome to this, our 
+
+603rd meeting of the Federal Prevailing Rate Advisory Committee. My name is Sheldon 
+
+Friedman, Chair of the Committee. And as we always do, why don’t we go around the room and 
+
+introduce ourselves.  
+
+MR. ALLEN: Mark Allen with OPM. 
+
+MR. DAVEY: Jim Davey with DoD. 
+
+MR. STONER: Scott Stoner with Air Force. 
+
+MR. PEDERSEN: David Pedersen with Navy. 
+
+MR. FENAUGHTY: Bill Fenaughty with Metal Trades and NFFE. 
+
+MS. ARCHER: Candace Archer, AFGE. 
+
+MS. SIMON: Jacque Simon, AFGE. 
+
+MR. SHORE: Robert Shore, NAGE. 
+
+MR. LANDIS: Steve Landis, ACT. 
+
+CHAIRMAN FRIEDMAN: And, Arlene, could you introduce yourself for the 
+
+recorder, please? 
+
+MS. ROMBA: Arleen Romba for VA. 
+
+CHAIRMAN FRIEDMAN: Thank you. And if the folks around the room could 
+
+also introduce themselves and please speak loudly? 
+
+MS. ROBERTS: Brenda Roberts, Designated Federal Officer. 
+
+MR. LYNCH: Christopher Lynch, DoD. 
+
+MR. BRADY: Jim Brady, DoD. 
+
+MS. CHAVES: Becky Chaves, DoD. 
+
+4 
+
+MR. BUCK: Gary Buck, U.S. Army. 
+
+MR. EICHER: Mike Eicher, OPM. 
+
+MS: GONZALEZ: Madeline Gonzalez with OPM. 
+
+MR. ELLIOT: Lamar Elliot, ACT. 
+
+MR. MONLYN: Emell Monlyn, NAGE 
+
+CHAIRMAN FRIEDMAN: Okay. Well, welcome again, everyone. The only 
+
+announcement I have is I did distribute the latest roster of FPRAC. There were some slight 
+
+changes since the previous roster that was distributed at our meeting in January. 
+
+That brings up the minutes of our last month's meeting. Are there any changes 
+
+that people have, any corrections beyond those we've already heard from you about? 
+
+[No audible response.] 
+
+CHAIRMAN FRIEDMAN: If not, is there any objection to adopting the transcript 
+
+of our last meeting? 
+
+[No audible response.] 
+
+CHAIRMAN FRIEDMAN: Hearing no objection, the transcript is adopted. 
+
+That brings up Old Business. 
+
+MR. ALLEN: Mr. Chairman, I do have one announcement. 
+
+CHAIRMAN FRIEDMAN: Oh, great. 
+
+MR. ALLEN: It's a good one. 
+
+CHAIRMAN FRIEDMAN: Wow! Go for it. 
+
+MR. ALLEN: Last night, OPM approved special wage rates for certain skilled 
+
+trades positions in the Bakken area, primarily Minot Air Force Base. I believe the special rates 
+
+amount to around 30-plus percent increase above current rates of pay to bring the skilled trades 
+
+5 
+
+occupations more in line with what the private sector is paying in that area. 
+
+MR. FENAUGHTY: Where is that, Mark? When did they do it? For who? 
+
+MR. ALLEN: It's for Minot Air Force Base primarily. It's in Western North 
+
+Dakota. 
+
+appreciate it. 
+
+MS. SIMON: Mark, do you have anything in writing that we could use— 
+
+MR. ALLEN: I don't have any hard copy with me right now. 
+
+MS. SIMON: —to inform our members? 
+
+MR. ALLEN: We could e-mail you a copy of it, I think. 
+
+MS. SIMON: That would be great. If you could do that as soon as possible, we'd 
+
+CHAIRMAN FRIEDMAN: We can circulate that to the committee. Any question 
+
+or discussion about that issue? 
+
+[No audible response.] 
+
+CHAIRMAN FRIEDMAN: Back to Old Business. Anything on (a)? 
+
+MS. SIMON: I actually have a question. These special rates, are they for all 
+
+hourly workers there? 
+
+MR. ALLEN: No. The request that OPM received was primarily just for the 
+
+skilled trades positions, which is around 160 positions out of, I think, 240 total under the Federal 
+
+Wage System. 
+
+MS. SIMON: Were there any GS positions? 
+
+MR. ALLEN: No. The GS special rates are being handled separately. 
+
+MS. SIMON: And that was not approved as of yesterday? 
+
+MR. ALLEN: It's not been approved yet. 
+
+6 
+
+MS. SIMON: Okay. Do you have any idea about the timing on that? 
+
+MR. ALLEN: It should be the next couple months. 
+
+MS. SIMON: Months? Is there anything in particular holding that up? 
+
+MR. ALLEN: It takes a while to go through the interagency coordination process. 
+
+There are, I think, 14 or 15 different departments and agencies with employees in that area. 
+
+MS. SIMON: Okay. 
+
+CHAIRMAN FRIEDMAN: Anything else on this issue? 
+
+[No audible response.] 
+
+CHAIRMAN FRIEDMAN: Back to Old Business. Well, let's go through them, 
+
+(a) review of Lee County, Virginia. Anything on that that you want to talk about? 
+
+[No audible response.] 
+
+CHAIRMAN FRIEDMAN: If not, (b), the wage areas that we need to review due 
+
+to changed MSA definitions. Anything on that today? 
+
+[No audible response.] 
+
+CHAIRMAN FRIEDMAN: (c), the AFGE proposal to redefine Monroe County, 
+
+Pennsylvania, from the Scranton-Wilkes-Barre wage area to the New York wage area. Anything 
+
+on that today? 
+
+[No audible response.] 
+
+CHAIRMAN FRIEDMAN: Okay. (d), anything on that one? 
+
+[No audible response.] 
+
+CHAIRMAN FRIEDMAN: (e), we just talked about. We have a group of things, 
+
+(f), (g), all related to the Joint Base in New Jersey. 
+
+And we circulated a table on GS and FWS employment, which is listed as a New 
+
+7 
+
+Business item, also related to the Joint Base in New Jersey. Anything on that today? 
+
+Steve? 
+
+MR. LANDIS: Just a couple things I'm working on. I think it would be really best 
+
+if we could approve this as a consensus where everybody agreed. I think that would be best. So 
+
+to allay some of the concerns that some people may have, I'm working on having some expert 
+
+testimony from the Joint Base. I contacted the TAG of New Jersey who is in charge of the Army 
+
+and Air Guard that's affected by this as well as the 87th Air Base Commander to possibly come 
+
+down, maybe in April, and testify as to the close nature of the Joint Base, and it will help out 
+
+with that. 
+
+CHAIRMAN FRIEDMAN: Okay. Do people feel the need for more of that sort of 
+
+additional information? 
+
+MR. ALLEN: I think that would be very helpful, at least from my perspective. 
+
+We have heard testimony, several years ago now, from the person who was the 
+
+base Commander, but it wasn't directly associated with this proposal. It was more broadly the 
+
+idea of using GS locality pay areas to define wage area boundaries, but I think it would be useful 
+
+to me to hear what difficulties were caused, if any, over the last few years since the Joint Base 
+
+has been established. 
+
+MS. SIMON: That's funny, Mark. My recollection was that the Commander 
+
+was—it was when the whole concept of "jointness" was relatively new, and my recollection of 
+
+her testimony was that if there were to be any substance to the "jointness," the AFGE proposal 
+
+would need to be passed and put into effect. 
+
+MR. ALLEN: Yeah. That is what she said. 
+
+MS. SIMON: Okay. 
+
+8 
+
+CHAIRMAN FRIEDMAN: Do you have more you want to say on this topic? 
+
+MS. SIMON: Yeah. No, I have a question on another issue when we're ready 
+
+for— 
+
+CHAIRMAN FRIEDMAN: So I guess we are going to defer any further 
+
+discussion of the Joint Base until we have some more input that Steve is going to be arranging 
+
+for us. 
+
+Do you have something else you want to bring up? 
+
+MS. SIMON: Yeah. Mark, since your memory is always so good, do you recall 
+
+our raising an issue with Springfield, Missouri, and the possibility of moving Greene County, 
+
+Missouri, to the Kansas City wage area? 
+
+MR. ALLEN: I don't recall us addressing that particular county. 
+
+Madeline, do you remember that one? 
+
+MS. GONZALEZ: I do not. 
+
+MR. ALLEN: I do remember we had a metropolitan area that was split between 
+
+Kansas City and St. Louis, but I don't think that's related to the one you're talking about. 
+
+MS. SIMON: Yeah. I have an inquiry—but this is not the first time—from Bureau 
+
+of Prisons Local. 
+
+MR. ALLEN: Okay. 
+
+MS. SIMON: They're very, very close to the border of the Kansas City wage area, 
+
+and there's a very large pay disparity between the Kansas City wage area and the Springfield, 
+
+Missouri, wage area. 
+
+MR. ALLEN: Okay. 
+
+MS. SIMON: I guess I'll make a formal request to have it considered. 
+
+9 
+
+MR. ALLEN: Yeah. We'll do an analysis of the criteria— 
+
+MS. SIMON: Okay. 
+
+MR. ALLEN: —to see where it stands. So it is Greene County? 
+
+MS. SIMON: Yes. 
+
+MR. ALLEN: In Missouri? 
+
+MS. SIMON: Yes. 
+
+CHAIRMAN FRIEDMAN: Okay. So we will await a staff report on that issue. 
+
+Anything else today? This could be a very short meeting. 
+
+MR. FENAUGHTY: I just have a general question about Old Business. Some of 
+
+these have been under Old Business now for a long time. 
+
+CHAIRMAN FRIEDMAN: Right. 
+
+MR. FENAUGHTY: So do they just kind of stay there? Don't people die off? 
+
+What happens to them? 
+
+CHAIRMAN FRIEDMAN: There are several possibilities. Whoever proposed the 
+
+agenda item could withdraw it. Another possibility is we could reach consensus to implement the 
+
+proposal, and the third is we could bring it to a vote.  
+
+MR. SHORE: Didn't we remove some last year and put them on another list that 
+
+wasn't fully resolved but not on the Old Business List? 
+
+MR. ALLEN: We talked about withdrawing some of the items that had been on 
+
+the list for a number of years now, but there didn't appear to be consensus to withdraw any of the 
+
+items that remain on the list. 
+
+CHAIRMAN FRIEDMAN: I am open to other ideas of how we could address 
+
+them, but it seems to me those are the possibilities.  
+
+10 
+
+Steve? 
+
+MR. LANDIS: Yeah. I just had a couple of quick question. I'm not exactly sure 
+
+what to call it. The bigger proposal was approved 2 years ago for the FWS to mirror the GS. 
+
+CHAIRMAN FRIEDMAN: The proposal to combine FWS wage areas or portions 
+
+of them that are within a GS locality pay area. Yeah. 
+
+MR. LANDIS: My first question is just a ball park about how many instances 
+
+were there in that report. I wasn't here when the report was created. I was here the day you guys 
+
+handed it to me. I had to carry it back to the main office. It was rather bulky. 
+
+But about how many locations were addressed in that to be repaired or fixed or 
+
+changed? 
+
+installations? 
+
+CHAIRMAN FRIEDMAN: Locations meaning the number of counties or federal 
+
+MR. LANDIS: Not specifically federal installations. How many things were 
+
+addressed in that report that said, "Okay. There is a difference between GS and FWS people in 
+
+the same facilities or the same area, and we're going to mirror them now"? How many of those 
+
+were proposed to change? 
+
+CHAIRMAN FRIEDMAN: Well, if you go back and look at the report, there 
+
+were estimates of the number of workers who would be affected. I think it was in the ball park of 
+
+15,000, as I recall, around the country, mostly in the Northeast and California. 
+
+MR. LANDIS: Okay. Now, my second question on that would be, of those, the 
+
+workers, how many instances were the GS locality pay area and the FWS wage area where the 
+
+GS locality pay was in a higher rate than the FWS wage area? 
+
+MR. ALLEN: The majority of wage rates would have been higher in the GS 
+
+11 
+
+locality pay area that FWS employees would sort of be moved to. 
+
+MR. LANDIS: Okay. 
+
+MR. ALLEN: But there were instances where, say, wage schedules sort of cross 
+
+over, where they're higher at some grades. 
+
+MR. LANDIS: Yeah. That's something else that I'm totally confused about, how a 
+
+WG-8 who goes from Philly to New York will get a raise, but a WG-5 from Philly to New York 
+
+gets a pay decrease, and they're still moving into a higher cost-of-living area. I guess that's not 
+
+specifically what that's based on then. It's something I'm still trying to wrap my— 
+
+MR. ALLEN: In the specific example of the Joint Base, I believe the first four 
+
+grades are lower on the New York wage schedule than the current Philadelphia wage schedule, 
+
+so employees in those grade levels, if they moved from the Philadelphia wage schedule to the 
+
+New York wage schedule, would be placed on a lower wage schedule, but almost all of those 
+
+employees would be placed on pay retention. 
+
+MR. LANDIS: Okay. 
+
+CHAIRMAN FRIEDMAN: It's a very good question, though, why this happens. 
+
+Basically, we have slopes of these pay lines that vary from one wage area to another, and 
+
+sometimes the lines actually cross. We have to ask is that actually mirroring what's happening in 
+
+those local labor markets or not? It's a very good question, frankly. It might be something we 
+
+would want to kick around in a working group because it's kind of a technical discussion for 
+
+which probably some background material would need to be prepared. 
+
+I'd be happy to do that if people want it. Is there a proposal to do that, to review 
+
+that question in the working group— 
+
+MS. SIMON: Sure. 
+
+12 
+
+CHAIRMAN FRIEDMAN: —of why pay lines of adjacent wage areas often 
+
+cross. 
+
+MR. LANDIS: Now back to what you said earlier, the majority. When you say 
+
+the majority of wage rates are higher in the GS locality pay area that the employees would be 
+
+moved to, is that like a 60 percent majority or more like a 90 to 95 percent majority?  
+
+MR. ALLEN: I don't remember exactly, but I think it's more like between 80 and 
+
+90 percent, which it makes sense because what we are really talking about is moving lower 
+
+population, more rural counties into—for the most part into major metropolitan area wage areas. 
+
+MR. LANDIS: Okay. That's all I had. 
+
+MS. SIMON: Was the question like how many workers would be placed on pay 
+
+retention if this were—if our old proposal was implemented? 
+
+MR. LANDIS: That's an important question. That isn't exactly what I was getting 
+
+at, but I'm sure that's something that's important— 
+
+CHAIRMAN FRIEDMAN: Because from what I remember, it was around 15 
+
+percent, but it varies greatly from one part of the country to another. 
+
+MR. LANDIS: No, I was just trying to get more into the justification of paying 
+
+the GS scale for higher rates for majority of times as opposed to the FWS employees. 
+
+CHAIRMAN FRIEDMAN: Okay. Well— 
+
+MS. SIMON: The proposal isn't to pay GS scale to— 
+
+MR. LANDIS: No, I understand that. I understand that. 
+
+MS. SIMON: Okay. 
+
+MR. LANDIS: But the fact that, for example, the New York wage area, you 
+
+have—and same thing at Tobyhanna. Tobyhanna is probably the best example that I'm talking 
+
+13 
+
+about where you have GS people in the same facility as FWS personnel, and one is getting a 
+
+higher New York rate, and the other is getting the lower Scranton rate. I just don't understand 
+
+how— 
+
+MR. DAVEY: I don't think that I would characterize it that way. 
+
+MR. LANDIS: —that's justified. 
+
+MR. DAVEY: We've got a GS scale and an FWS scale. 
+
+MR. LANDIS: Exactly. 
+
+MR. DAVEY: Even if you make the FWS scale the New York scale, you are still 
+
+getting different pay for GS and FWS. 
+
+MR. LANDIS: Right. But now you're in the same— 
+
+MS. SIMON: Locality. 
+
+MR. LANDIS: —locality. 
+
+MS. SIMON: Right. 
+
+MR. LANDIS: I'm not saying that the FWS— 
+
+MR. DAVEY: I was just making a technical point. That's all. 
+
+MR. LANDIS: I understand. Your point is exactly right. That's what I'm saying. I 
+
+mean, I had mentioned before that I don't understand why there's 18 different government pay 
+
+plans, anyway. I mean, it just seems like it would be a lot easier if they just had GS across the 
+
+board. 
+
+Now, my point was, yes, obviously, FWS and GS is a different pay scale, but how 
+
+do you validate the fact that you have people in the same facility, one is in a higher pay area than 
+
+the other? 
+
+MR. DAVEY: Well, that didn't happen until the GS system changed to locality. 
+
+14 
+
+For 40 years before that, it was the opposite. 
+
+MR. LANDIS: Yeah. 
+
+MR. DAVEY: And that was the way that was at that time. 
+
+MR. SHORE: Still probably not right. 
+
+MS. SIMON: You know, it's been 25 years since GS has had a locality system. 
+
+CHAIRMAN FRIEDMAN: The early '90s, right? 
+
+MS. SIMON: The law passed in '90, and then it started to get implemented in the 
+
+early '90s. 
+
+MR. ALLEN: First locality rate went into effect in 1994. 
+
+CHAIRMAN FRIEDMAN: So I think what we decided is we're going to carry on 
+
+this conversation in the working group setting. 
+
+MS. SIMON: Yes. 
+
+CHAIRMAN FRIEDMAN: So it's important stuff, but if we want to talk about it, 
+
+we need to have some material prepared. 
+
+All right. Anything else? Any other new business for today’s meeting? 
+
+[No audible response.] 
+
+CHAIRMAN FRIEDMAN: If not, it would be in order to adjourn. Any objection? 
+
+MS. SIMON: I move that we adjourn. 
+
+CHAIRMAN FRIEDMAN: Oh, all right. It's been moved and— 
+
+MR. DAVEY: I second. 
+
+CHAIRMAN FRIEDMAN: Moved and seconded. Any objections? 
+
+[No audible response.] 
+
+CHAIRMAN FRIEDMAN: Hearing none, we're adjourned. See you next month. 
+
+

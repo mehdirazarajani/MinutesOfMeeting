@@ -1,0 +1,529 @@
+                                                                 1
+
+              FEDERAL PREVAILING RATE ADVISORY COMMITTEE
+
+                             582nd FPRAC
+
+               SHELDON FRIEDMAN, Chairperson, Presiding
+
+                      Thursday, February 21, 2013
+
+                               Room 5526
+                    Office of Personnel Management
+                        Washington, D.C. 20415
+
+ATTENDANCE:
+
+Members/Alternates:
+
+    Management Members:
+    Mark Allen, OPM
+    Seth Shulman, DoD
+    Pamela Sokol, Army
+
+     Labor Members:
+     Bill Fenaughty, MTD
+     Jacque Simon, AFGE
+     Sarah Suszczyk, NAGE
+
+Staff Specialists and Visitors:
+     Jerry Mikowicz, Designated Federal Officer, OPM
+     Madeline Gonzalez, OPM
+     Mike Eicher, OPM
+     Terri Wallace, OPM
+     Lindsay O'Keefe OPM
+     Jim Brady, DoD
+     Hank Rovan, DoD
+     Karl Fendt, DoD
+     Darlene Freeman, Navy
+     Bernadette Wiggins, USACE
+     Michael Kidby, USACE
+
+Recording Secretaries:    Mike Eicher and Terri Wallace
+
+
+   [Transcript prepared from digital audio produced by FPRAC.]
+                                                               2
+
+                          C O N T E N T S
+                                                       Page
+
+I.     Opening/Announcements
+       • Introductions.....................................3
+       • Announcements.....................................4
+
+II.    Review of the Minutes of 581st Meeting..............5
+
+III.   Old Business........................................5
+       a. Review of Lee County, Virginia, 557-MGT-2
+          - Total Employment in the Eastern Tennessee
+            Wages Area by County, 566-OPM-1
+          - List of FWS Wage Areas with Fewer than 500
+            Employees, 566-OPM-2
+          - Review of Criteria for Defining Appropriated
+            Fund Wage Areas, 545-OC-1 [REPRINT]
+       b. Discussion of Survey Issues/Concerns
+           - FPRAC's Chairman's Memorandum to Members on
+            Survey Issues Work Group, 561-OC-1
+       c. Special Wage Schedule Pay Practice for Federal
+          Wage System Lock and Dam Employees, 562-MGT-1
+       d. Definition of South Bend-Mishawaka, IN-MI
+          Metropolitan Statistical Area, 562-MGT-2
+       e. Letter from the American Federation of Government
+          Employees, dated June 6, 2011, requesting FPRAC
+          review a proposal to redefine Monroe County, PA
+          from the Scranton-Wilkes-Barre, PA wage area to
+          the New York, NY wage area, 564-AFGE-1
+       f. Definition of Hickory-Lenoir-Morganton, NC
+          Metropolitan Statistical Area, 575-MGT-1
+       g. Proposal for FPRAC review of the Federal Wage
+          System Appropriated Fund and Non-Appropriated
+          Fund Operating Manuals, 575-AFGE-1
+       h. Suggestion for a research paper on the history
+          of the Federal Government's prevailing rate
+          system
+       i. Review of the Augusta and Portland, ME Federal
+          Wage System Wage Areas, 578-MGT-1
+       j. Alternate Analysis of the Portland, ME Federal
+          Wage Area, 580-MGT-1
+       k. Definition of Vanderburgh County, Indiana, to a
+          Non-Appropriated Fund Federal Wage System Wage
+          Area, 580-MGT-2
+                                                             3
+
+IV.   New Business.......................................5
+      a. Alternate Analysis of Vanderburgh County, IN,
+         582-MGT-1
+      b. Draft 2012 FPRAC Advisory Committee Annual
+         Summary, 582-OC-1
+                                                                     4
+
+
+                         P R O C E E D I N G
+
+         CHAIRMAN FRIEDMAN:     Good morning, everyone. Welcome to
+
+this, our 582nd meeting of the Federal Prevailing Rate Advisory
+
+Committee.   My name is Sheldon Friedman, Chair of the Committee,
+
+and as usual, why don't we go around the room and introduce
+
+ourselves?
+
+         Mark, we'll start with you today.
+
+         MR. ALLEN:     Mark Allen with OPM.
+
+         MR. SHULMAN:    Seth Shulman, Department of Defense.
+
+         MS. SOKOL:     Pamela Sokol, Department of the Army.
+
+         MS. SUSZCZYK:    Sarah Suszczyk, National Association of
+
+Government Employees.
+
+         MS. SIMON:     Jacque Simon, AFGE.
+
+         MR. FENAUGHTY:     Bill Fenaughty, MTD and NFFE.
+
+         CHAIRMAN FRIEDMAN:     Thank you.
+
+         And if the folks on the sides could also introduce
+
+themselves, please.
+
+         MS. GONZALEZ:     Madeline Gonzalez with OPM.
+
+         MR. MIKOWICZ:     Jerry Mikowicz, OPM, Designated Federal
+
+Officer for this meeting.
+
+         MS. FREEMAN:     I am Darlene Freeman, Department of
+
+Navy.
+                                                                    5
+
+
+         MS. WIGGINS:     Bernadette Wiggins, Army Corps of
+
+Engineers.
+
+         MR. KIDBY:      Mike Kidby, Army Corps of Engineers.
+
+         MR. BRADY:    Jim Brady, DoD.
+
+         MR. FENDT:    Karl Fendt, DoD.
+
+         MR. ROVAN:     Hank Rovan, DoD.
+
+         MR. EICHER:     Mike Eicher, OPM.
+
+         MS. O'KEEFE:     Lindsay O'Keefe, OPM.
+
+         CHAIRMAN FRIEDMAN:     Okay, thank you.
+
+         Terri, are we waiting for somebody on the phone?
+
+         MS. WALLACE:     Yes, we are waiting for Ms. Crowe, but
+
+she has not yet joined the call to connect to the meeting.
+
+         MS. GONZALEZ:     Dana Crowe is the representative from
+
+the Air Force
+
+         CHAIRMAN FRIEDMAN:      We'll get started then.   If the
+
+Air Force can eventually participate by phone, we will connect
+
+them into the meeting.
+
+         So one quick announcement – as you know, we have a
+
+work group meeting scheduled for today, which will take place 10
+
+minutes after the end of this meeting.
+
+         Have people had a chance to review the minutes of our
+
+December meeting, the 581st meeting?
+                                                                          6
+
+
+           [No audible response.]
+
+           CHAIRMAN FRIEDMAN:    Are there any further corrections?
+
+           [No audible response.]
+
+           CHAIRMAN FRIEDMAN:    Any objection to adopting that
+
+transcript?
+
+           [No audible response.]
+
+           CHAIRMAN FRIEDMAN:    Hearing no objection, it is
+
+adopted.   Thank you.
+
+           That brings up old business, most of which we have
+
+pending in our work group.      Item (c), Special Wage Schedule Pay
+
+Practice for FWS Lock and Dam Employees,
+
+562-MGT-1, is something we are going to be discussing in the
+
+work group today, and as time permits after that, item (g),
+
+Proposal for FPRAC Review of the FWS Appropriated Fund and
+
+Nonappropriated Fund Operating Manuals, 575-AFGE-1.      In regard
+
+to item (k), Definition of Vanderburgh County, Indiana, to a
+
+Nonappropriated Fund FWS Wage Area,
+
+580-MGT-2, we have a new alternate analysis for this item listed
+
+under new business item (a) Alternate Analysis of Vanderburgh
+
+County, Indiana, 582-MGT-1.      So unless someone wants to bring up
+
+other old business, we'll move on to the new business items.         Is
+
+there any other old business item that people want to bring up
+                                                                      7
+
+
+now?
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:   So that brings up the first item
+
+under new business:   the Alternative Analysis of Vanderburgh
+
+County, Indiana, 582-MGT-1.
+
+         Mark, can you give us a summary of that, please?
+
+         MR. ALLEN:   Yes, Mr. Chairman.     After our last meeting
+
+in December, the Management members, under
+
+582-MGT-1, took another look at the duty station for the
+
+employees in Vanderburgh County, Indiana.    There are two non-
+
+appropriated fund Federal Wage System employees there working at
+
+the Evansville VA Outpatient Clinic.   We found out that the
+
+Evansville VA Outpatient Clinic is actually a satellite activity
+
+of the Marion VA Medical Center in Williamson County, Illinois.
+
+Williamson County is an area of application county in the St.
+
+Clair, Illinois, NAF wage area.
+
+         So what we are recommending through this alternative
+
+analysis is that Vanderburgh County become part of the St. Clair
+
+wage area, so that the employees at the Evansville VA Outpatient
+
+Clinic are in the same wage area as the parent activity, the
+
+Marion VA Medical Center.
+
+         CHAIRMAN FRIEDMAN:   Thank you.    Any questions or
+                                                                        8
+
+
+discussion?
+
+           MS. SIMON:   Could you remind us of what the original
+
+analysis suggested?
+
+           MR. ALLEN:   Under the original analysis, we
+
+recommended defining Vanderburgh County based on the standard
+
+regulatory criteria analysis - without looking in detail at
+
+other activities nearby.       Vanderburgh County was recommended to
+
+be defined to the Christian, KY-Montgomery, TN, wage area based
+
+on distance.
+
+           There was some discussion at the last meeting about
+
+whether distance should prevail in this case or some other
+
+organizational relationship.
+
+           MS. SIMON:   And so you are changing your
+
+recommendation from --
+
+           MR. ALLEN:   Yes.    Vanderburgh County is not to be
+
+defined to the Christian-Montgomery, Tennessee, wage area
+
+anymore.   It is to be defined to the St. Clair, Illinois, wage
+
+area.
+
+           CHAIRMAN FRIEDMAN:     Would the Labor members like to
+
+caucus?
+
+           MS. SIMON:   Yes.
+
+           CHAIRMAN FRIEDMAN:     Okay.   The Small Pendleton Room is
+                                                                      9
+
+
+available for caucuses.
+
+         [Labor Members went to caucus off the record.]
+
+         CHAIRMAN FRIEDMAN:    Okay.   We are back in session.
+
+         The Labor folks have returned from their caucus, and
+
+we are looking at 582-MGT-1.   Any discussion or --
+
+         MS. SIMON:   No, we're ready to vote.
+
+         CHAIRMAN FRIEDMAN:    Okay.
+
+         MS. SIMON:   In favor.
+
+         CHAIRMAN FRIEDMAN:    In favor, okay.   Then there is
+
+consensus to adopt 582-MGT-1, and so we have done so.    Okay,
+
+very good.   Thank you.
+
+         That brings up item (b) under New Business, which is
+
+the Draft, FPRAC Annual Summary for 2012, 582-OC-1.     Have people
+
+had a chance to take a look at that?
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:    Anything that people would like to
+
+see changed?
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:    If people are comfortable adopting
+
+it, I would like to ask if there is a motion to do so.
+
+         MS. SIMON:   I'd like to make a motion to adopt.
+
+         CHAIRMAN FRIEDMAN:    Second?
+                                                                        10
+
+
+         MR. ALLEN:    I'll second.
+
+         CHAIRMAN FRIEDMAN:       Okay.   Any opposition to adopting
+
+our report?    Did you want to discuss it, Seth?     You look like
+
+you wanted to say something.
+
+         MR. SHULMAN:    We have to rule by consensus.       We can't
+
+vote because we don't have a quorum.       That's my only
+
+observation.
+
+         CHAIRMAN FRIEDMAN:       Oh.   Well, is there consensus to
+
+adopt this report?
+
+         MS. SIMON:     A sense of the FPRAC.
+
+         CHAIRMAN FRIEDMAN:       A sense of the FPRAC, if that's
+
+not an oxymoron.    Never mind.    Let's not go there.
+
+         [Laughter.]
+
+         CHAIRMAN FRIEDMAN:       Okay.   Well, thank you.
+
+         Is there any other new business that you want to bring
+
+up?
+
+         MS. SIMON:    Just an inquiry that has arisen and I'm
+
+not sure even where it's addressed.       I couldn't find it in the
+
+Appropriated Fund Operating Manual.       One of our locals inquired
+
+about criteria for classification of wage grade jobs, whether
+
+somebody has to spend time actually performing a task that their
+
+classification requires them to be certified in or is having the
+                                                                   11
+
+
+worker possess the certification in a certain skill adequate to
+
+keep the grade classification.
+
+          It has to do with a particular case.    It has to do
+
+with someone who is required in his job to have a certain kind
+
+of license to drive a very large truck, and now they are trying
+
+to downgrade him, saying that he doesn't utilize that skill
+
+frequently enough in the course of his duties, even though they
+
+may call on him from time to time, if it doesn't rise to a level
+
+of 25 percent of his working time, and he no longer should be in
+
+a classification that requires that license, even though
+
+sometimes they will ask him to do work that requires the
+
+license, but it is not 25 percent, and they came to me to ask
+
+whether that was legitimate.     Do you know the answer?
+
+          MR. ALLEN:   I don't know the definite answer to that
+
+myself.   It is an inquiry best directed to our classification
+
+folks at OPM.
+
+          There may be written guidance on that available
+
+currently.   So we will take a look into that.   I don't know if
+
+this is really an FPRAC agenda item or whether I could just get
+
+back to you in person on that.
+
+          MS. SIMON:   Yes.    Well, I think some classification
+
+issues are going to be arising for FPRAC.     The Department of
+                                                                    12
+
+
+Veterans Affairs has been working with OPM to downgrade about
+
+15,000 VA employees, several thousand of whom are wage grade,
+
+and we are going to want some clarification on those positions
+
+as well.
+
+           CHAIRMAN FRIEDMAN:   15,000?
+
+           MS. SIMON:   They are not solely 15,000 wage grade
+
+employees.   Out of the 15,000 employees, some of them are
+
+General Schedule, some of them are Wage Grade.
+
+           CHAIRMAN FRIEDMAN:   Is there anything in the Operating
+
+Manual on the issue that Jacque is raising?
+
+           MR. ALLEN:   No.   This committee deals primarily with
+
+pay.   We have documented in the Operating Manual the key ranking
+
+jobs and survey job descriptions, but that's about as far as we
+
+go towards getting involved with how jobs are classified or
+
+positions are classified under the Federal Wage System.     We have
+
+a separate office in OPM that deals with the classification of
+
+positions, and another office in OPM deals with job rating
+
+appeals, if an employee feels his position is inappropriately
+
+graded.
+
+           CHAIRMAN FRIEDMAN:   Okay.   Well, anything else on this
+
+topic for the moment?
+
+           MS. SIMON:   No.
+                                                               13
+
+
+           CHAIRMAN FRIEDMAN:   Any other new business?
+
+           [No audible response.]
+
+           CHAIRMAN FRIEDMAN:   Any objection to adjourning?
+
+           [No audible response.]
+
+           CHAIRMAN FRIEDMAN:   Hearing no objection, we are
+
+adjourned, and we will have our work group meeting in 10
+
+minutes.   Thank you very much, everyone.
+
