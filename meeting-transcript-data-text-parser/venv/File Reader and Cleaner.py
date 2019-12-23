@@ -2,8 +2,8 @@ import json
 import re
 from jellyfish import jaro_distance
 
-folder_path = 'D:\\Meeting Transcript Data\\updated'
-file_name = 'meetingtranscript566.txt'
+folder_path = 'D:\\MinutesOfMeeting\\meeting-transcript-data\\meetingTranscripts.txt(good)'
+file_name = 'meetingtranscript575.txt'
 file_hierarchy = [{'starting_indicator': '', 'type': 'metadata_texts', 'is_extendable': False},
                   {'starting_indicator': 'ATTENDANCE:', 'type': 'attendees', 'is_extendable': False},
                   {'starting_indicator': 'C O N T E N T', 'type': 'agenda_texts', 'is_extendable': False},

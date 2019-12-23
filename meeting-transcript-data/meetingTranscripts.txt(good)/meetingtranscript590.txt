@@ -1,0 +1,400 @@
+                                                                1
+
+              FEDERAL PREVAILING RATE ADVISORY COMMITTEE
+
+                             590th FPRAC
+
+               SHELDON FRIEDMAN, Chairperson, Presiding
+
+                      Thursday, January 16, 2014
+
+                               Room 5526
+                    Office of Personnel Management
+                        Washington, D.C. 20415
+
+
+ATTENDANCE:
+
+Members/Alternates:
+
+    Management Members:
+    Mark Allen, OPM
+    Pamela Sokol, Army
+
+    Labor Members:
+    Bill Fenaughty, MTD
+    Robert Shore, NAGE
+    Steven Landis, ACT (via phone)
+
+Staff Specialists and Visitors:
+     Brenda Roberts, Designated Federal Officer, OPM
+     Madeline Gonzalez, OPM
+     Brittney Manchester, OPM
+     Brenda Stovall, OPM
+     Luis Lynch, AF
+     Jim Brady, DoD
+     Karl Fendt, DoD
+     Gary Kistner, DoD
+     Adair Gregory, NAGE
+
+Recording Secretaries:
+     Mike Eicher, OPM
+     Terri Wallace, OPM
+
+  [Transcript prepared from digital audio produced by FPRAC.]
+                                                               2
+
+                          C O N T E N T S
+
+                                                        Page
+I.     Opening/Announcements
+       • Introductions.....................................3
+       • Announcements.....................................4
+         - Captain William Hanrahan's Comments on FPRAC's
+           December 2013 Recommendation for the RANGER III,
+           590-OC-1
+
+II.    Review of the Minutes of the 589th Meeting..........7
+
+III.   Old Business........................................7
+       a. Review of Lee County, Virginia, 557-MGT-2
+          - 2013 Update to Review Lee County, Virginia,
+            586-MGT-1
+       b. Special Wage Schedule Pay Practice for Federal
+          Wage System Lock and Dam Employees, 562-MGT-1
+       c. Definition of South Bend-Mishawaka, IN-MI
+          Metropolitan Statistical Area, 562-MGT-2
+          - 2013 Update to Definition of South Bend-
+            Mishawaka, IN-MI Metropolitan Statistical
+            Area, 586-MGT-2
+       d. Letter from the American Federation of Government
+          Employees, dated June 6, 2011, requesting FPRAC
+          review a proposal to redefine Monroe County, PA
+          from the Scranton-Wilkes-Barre, PA wage area to
+          the New York, NY wage area, 564-AFGE-1
+       e. Definition of Hickory-Lenoir-Morganton, NC
+          Metropolitan Statistical Area, 575-MGT-1
+          - 2013 Update to Definition of Hickory-Lenoir-
+            Morganton, NC, Metropolitan Statistical Area,
+            588-MGT-1
+       f. Review of the Augusta and Portland, ME Federal
+          Wage System Wage Areas, 578-MGT-1
+          - Alternate Analysis of the Portland, ME Federal
+            Wage System Wage Area, 580-MGT-1
+                                                              3
+
+
+                      P R O C E E D I N G
+
+         CHAIRMAN FRIEDMAN:     Good morning everyone, and
+
+welcome to this, our 590th meeting of the Federal
+
+Prevailing Rate Advisory Committee.    My name is Sheldon
+
+Friedman, Chair of the Committee.
+
+         As usual, why don't we go around and introduce
+
+ourselves.   We'll start with you today, Bill.
+
+         MR. FENAUGHTY:     Bill Fenaughty from NFFE,
+
+representing Metal Trades.
+
+         MR. SHORE:     Rob Shore from NAGE.
+
+         CHAIRMAN FRIEDMAN:     Steve, you're on the phone,
+
+right?
+
+         MR. LANDIS:    Yes.   Steve Landis, Association of
+
+Civilian Technicians.
+
+         MR. ALLEN:     Mark Allen with OPM.
+
+         MS. SOKOL:     Pamela Sokol, Department of Army.
+
+         CHAIRMAN FRIEDMAN:     Thank you.
+
+         And if the people around the edge of the room
+
+could also introduce themselves?
+
+         MS. GONZALEZ:     Madeline Gonzalez with OPM.
+
+         MS. ROBERTS:     Brenda Roberts, OPM, Designated
+
+Federal Officer.
+                                                               4
+
+
+          MR. LYNCH:    Luis Lynch, Air Force.
+
+          MR. KISTNER:    Gary Kistner, DCPAS, Wage and
+
+Salary.
+
+          MR. FENDT:    Karl Fendt, DoD.
+
+          MR. BRADY:    Jim Brady, DoD.
+
+          MR. EICHER:    Mike Eicher, OPM.
+
+          MS. STOVALL:    Brenda Stovall, OPM.
+
+          MS. MANCHESTER:    Brittney Manchester, OPM.
+
+          MS. WALLACE:    Terri Wallace, OPM.
+
+          MR. GREGORY:    Adair Gregory, NAGE.
+
+          CHAIRMAN FRIEDMAN:    Thank you, everyone.
+
+          The only announcement I have is that we received
+
+a communication from Captain Hanrahan concerning our
+
+deliberations at the last meeting, and I have circulated
+
+that to everyone.   We are preparing a response, which I
+
+will also share once we have that ready.
+
+          I should also mention that the Work Group meeting
+
+that's going to be held after the FPRAC meeting is not in
+
+the usual place.    It's going to be on the seventh floor in
+
+7H31, so we can accommodate the mapping software
+
+demonstration.
+
+          Any questions or discussion about the
+                                                                 5
+
+
+communication from Captain Hanrahan?
+
+           [No audible response.]
+
+           CHAIRMAN FRIEDMAN:   If not, can we move on to the
+
+review of the transcript of our last meeting?
+
+           MR. ALLEN:   Mr. Chairman, I have one announcement
+
+that's not on our agenda.
+
+           CHAIRMAN FRIEDMAN:   Sure.
+
+           MR. ALLEN:   It has to do with the Prevailing Rate
+
+Adjustments for FY 2014, which has been of keen interest.
+
+           The House of Representatives passed legislation,
+
+I believe yesterday, that would provide for a 1 percent
+
+uniform pay adjustment for prevailing rate employees in FY
+
+2014, retroactive back to the wage area’s normal effective
+
+date.
+
+           I believe the Senate is supposed to pass it this
+
+weekend.   Once that happens and the President signs the
+
+legislation, OPM will issue implementing guidance to the
+
+heads of agencies and the Department of Defense will begin
+
+issuing wage schedules.
+
+           CHAIRMAN FRIEDMAN:   Thank you, Mark.   I know that
+
+is of interest to everyone.
+
+           Any questions about that?
+                                                                  6
+
+
+         MR. SHORE:    Is there a time table, roughly, as to
+
+when the increases will kick in, assuming it passes?
+
+         MR. ALLEN:    OPM will most likely get the guidance
+
+out next week, and then the Department of Defense will
+
+begin issuing wage schedules.
+
+         As I mentioned, some of the wage schedules would
+
+be retroactive.   For instance, The Washington, DC, wage
+
+area has a wage schedule that is normally effective in
+
+October of the new fiscal year.     So the FY 2014 wage
+
+schedule would be retroactive to its calendar year October
+
+2013 effective date.
+
+         MR. FENAUGHTY:      Mark, are the effective dates
+
+different for all the wage areas?
+
+         MR. ALLEN:    Yes.    There are some FY 2014 wage
+
+schedules that are normally adjusted, say, in February or
+
+March or April, and therefore those schedules won't be
+
+adjusted until their normal effective dates.
+
+         MR. FENAUGHTY:      So there won't be any
+
+retroactivity for those?
+
+         MR. ALLEN:    No.    There will be no need for a
+
+retroactive pay adjustment for those schedules.
+
+         CHAIRMAN FRIEDMAN:      Okay.   Anything else on that?
+                                                               7
+
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:    Regarding the transcript of
+
+our last meeting, are there any other corrections that
+
+people would like to bring to our attention?
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:    If not, is there agreement to
+
+adopt the transcript of our last meeting?    Anyone who
+
+disagrees with that idea?
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:    Hearing no disagreement, the
+
+transcript of our last meeting is adopted.
+
+         Any Old Business items that people want to bring
+
+up this morning?   A couple of them are pending work that's
+
+under way in the Work Group.
+
+         MR. LANDIS:   Sheldon, may I ask a question?
+
+         CHAIRMAN FRIEDMAN:    Sure thing, Steve.
+
+         MR. LANDIS:   Okay.   I’m just bringing up some
+
+other old stuff.   When Congress, when both the House and
+
+Senate have passed the bill and the wage freeze is
+
+officially over for the FWS employees, will that have an
+
+impact on getting FPRAC’s report and recommendation
+
+approved by the Director of OPM?   It was sent to the
+                                                                8
+
+
+Director almost 2 years ago.
+
+         CHAIRMAN FRIEDMAN:     I don't personally have
+
+anything new to report on that, but perhaps others do.
+
+         Mark, do you have any information on that?
+
+         MR. ALLEN:    The FPRAC recommendation to use GS
+
+locality pay areas when defining Federal Wage System wage
+
+area boundaries is still under review by OPM.
+
+         MR. LANDIS:   Okay.    That's the same information
+
+we've been getting for a while now.      Any idea on how long
+
+it's going to be under review before they make a decision?
+
+         MR. ALLEN:    No.   I can't say that.
+
+         MR. LANDIS:   Okay.
+
+         CHAIRMAN FRIEDMAN:     Is there any other Old
+
+Business item people would like to bring up this morning?
+
+         [No audible response.]
+
+         CHAIRMAN FRIEDMAN:     If not, I'm not aware of any
+
+New Business items, but if people have any new business,
+
+this would be the time to say so.       Any new business?
+
+         MR. SHORE:    I have a question.
+
+         CHAIRMAN FRIEDMAN:     Sure.
+
+         MR. SHORE:    And if I missed it, then I apologize.
+
+Did we end up putting something in writing after our
+                                                                  9
+
+
+discussion last week regarding the recommendation for Motor
+
+Vessel Ranger III employees?      I know we orally made a
+
+decision.    I don’t remember if anything was officially
+
+written down in terms of the recommendation.
+
+            CHAIRMAN FRIEDMAN:    There is a draft letter in
+
+progress communicating OPM's decision in this matter.        It
+
+has to be approved by the Director of OPM before the letter
+
+is sent to the Department of the Interior.
+
+            Do you want to add to that, Mark?
+
+            MR. ALLEN:   No.   That pretty much covers it.
+
+            CHAIRMAN FRIEDMAN:    It will be public information
+
+that we can share.
+
+            So if there's no new business, we can move on to
+
+our Work Group meeting.     It would be in order for us to
+
+adjourn if there's no objection.
+
+            [No audible response.]
+
+            CHAIRMAN FRIEDMAN:    Hearing no objection, we're
+
+adjourned, and we'll reconvene in about 10 minutes upstairs
+
+in 7H31.
+

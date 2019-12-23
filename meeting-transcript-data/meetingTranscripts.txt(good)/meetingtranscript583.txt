@@ -1,0 +1,968 @@
+                                                                 1
+
+              FEDERAL PREVAILING RATE ADVISORY COMMITTEE
+
+                             583rd FPRAC
+
+               SHELDON FRIEDMAN, Chairperson, Presiding
+
+                       Thursday, March 21, 2013
+
+                               Room 5526
+                    Office of Personnel Management
+                        Washington, D.C. 20415
+
+ATTENDANCE:
+
+Members/Alternates:
+
+     Management Members:
+     Mark Allen, OPM
+     Steve Rumble, DoD
+     Pamela Sokol, Army
+
+     Labor Members:
+     Dennis Phelps, MTD
+     Jacque Simon, AFGE
+     Sarah Suszczyk, NAGE
+     Steven Landis, ACT
+
+Staff Specialists and Visitors:
+     Jerry Mikowicz, Designated Federal Officer, OPM
+     Madeline Gonzalez, OPM
+     Brenda Roberts, OPM
+     Jeanne Jacobson, OPM
+     Mike Eicher, OPM
+     Terri Wallace, OPM
+     Lindsay O'Keefe OPM
+     Jim Brady, DoD
+     Karl Fendt, DoD
+     Bill Becht, DoD
+
+Recording Secretaries:    Mike Eicher and Terri Wallace
+
+   [Transcript prepared from digital audio produced by FPRAC.]
+                                                               2
+
+                          C O N T E N T S
+                                                        Page
+I.     Opening/Announcements
+       • Introductions.....................................3
+       • Announcements.....................................4
+         - FPRAC Annual Summary 2012, 583-OC-1
+
+II.    Review of the Minutes of 582nd Meeting..............9
+
+III.   Old Business........................................9
+       a. Review of Lee County, Virginia, 557-MGT-2
+          - Total Employment in Eastern Tennessee Wage
+            Area by County, 566-OPM-1
+          - List of FWS Wage Areas with Fewer Than 500
+            Employees, 566-OPM-2
+          - Review of Criteria for Defining Appropriated
+            Fund Wage Areas, 545-OC-1
+       b. Discussion of Survey Issues/Concerns
+          - FPRAC's Chairman's Memorandum to Members on
+            Survey Issues Work Group, 560-OC-1
+       c. Special Wage Schedule Pay Practice for Federal
+          Wage System Lock and Dam Employees, 562-MGT-1
+       d. Definition of South Bend-Mishawaka, IN-MI
+          Metropolitan Statistical Area, 562-MGT-2
+       e. Letter from the American Federation of Government
+          Employees, dated June 6, 2011, requesting FPRAC
+          review a proposal to redefine Monroe County, PA
+          from the Scranton-Wilkes-Barre, PA wage area to
+          the New York, NY wage area, 564-AFGE-1
+       f. Definition of Hickory-Lenoir-Morganton, NC
+          Metropolitan Statistical Area, 575-MGT-1
+       g. Proposal for FPRAC review of the Federal Wage
+          System Appropriated Fund and Non-Appropriated
+          Fund Operating Manuals, 575-AFGE-1
+       h. Suggestion for a research paper on the history
+          of the Federal Government's prevailing rate
+          system
+       i. Review of the Augusta and Portland, ME Federal
+          Wage System Wage Areas, 578-MGT-1
+          - Alternate Analysis of the Portland, ME Federal
+            Wage System Wage Area, 580-MGT-1
+
+IV.    New Business......................................10
+       a. Definition of Broward County, Florida, to a
+          NAF Federal Wage System Wage Area, 583-MGT-1
+       b. Redefinition of the Clayton-Fulton-Cobb, Georgia,
+          NAF Federal Wage System Wage Area, 583-MGT-2
+                                                                3
+
+
+                       P R O C E E D I N G
+
+          CHAIRMAN FRIEDMAN:    Good morning, everyone, and
+
+welcome to this, our 583rd meeting of the Federal
+
+Prevailing Rate Advisory Committee.    My name is Sheldon
+
+Friedman, Chair of the Committee, and as usual, why don't
+
+we go around and introduce ourselves, starting on the Labor
+
+side today?
+
+          MR. PHELPS:    Dennis Phelps for Metal Trades
+
+Department.
+
+          MS. SIMON:    Jacque Simon, AFGE.
+
+          MS. SUSZCZYK:    Sarah Suszczyk, NAGE.
+
+          MR. LANDIS:    Steve Landis, ACT.
+
+          MR. ALLEN:    Mark Allen with OPM.
+
+          MR. RUMBLE:    Steve Rumble, Department of Defense.
+
+          MS. SOKOL:    Pamela Sokol, Department of Army.
+
+          CHAIRMAN FRIEDMAN:    And we are hoping for at
+
+least one more Management member, so we get four folks on
+
+the Management side, but let's continue meanwhile.
+
+          MS. GONZALEZ:    Madeline Gonzalez with OPM.
+
+          MR. MIKOWICZ:    Jerry Mikowicz, OPM, the
+
+Designated Federal Officer for this meeting.
+
+          MS. JACOBSON:    Jeanne Jacobson, OPM.
+                                                                  4
+
+
+          MS. ROBERTS:    Brenda Roberts, OPM.
+
+          MR. FENDT:   Karl Fendt, DoD.
+
+          MR. BRADY:   Jim Brady, DoD.
+
+          MR. BECHT:   Bill Becht, DoD.
+
+          MS. WALLACE:    Terri Wallace, OPM.
+
+          MS. O'KEEFE:    Lindsay O'Keefe, OPM.
+
+          MR. EICHER: Mike Eicher, OPM.
+
+          CHAIRMAN FRIEDMAN:       Okay.   Thank you, everyone.
+
+          A couple of announcements.       Well, the first one
+
+is we are sad to say we are going to be losing our
+
+Designated Federal Officer in a short period of time.       He
+
+is retiring, Jerry Mikowicz.       It's been a great pleasure
+
+for me to work with him, and I know I'll miss him.       I feel
+
+our whole Committee will.
+
+          If you want to say anything, Jerry, maybe
+
+enlighten us on who your successor might be, if that's
+
+known?
+
+          MR. MIKOWICZ:     Yes.    So, today, I guess I would
+
+mark my age as -- in PRAC years, I'm 583 years old, because
+
+I started in OPM in 1974 when PRAC was just starting, and I
+
+used to attend some of the meetings early on.       Of course,
+
+it was the building years.    It was really interesting,
+                                                                 5
+
+
+because we were all working to make a consistent Federal
+
+prevailing rate system out of all the separate systems in
+
+existence at the time.      It was an exciting time.
+
+            At that time, there were 24 people at OPM working
+
+on the Federal Wage System.     Today, we have Mark who does
+
+it part-time, because he is managing other programs, the
+
+white collar program, et cetera, and we have Madeline and
+
+Terri, who are working primarily on the Federal Wage
+
+System, and now Mike Eicher jumped in, and he works the
+
+recorder.
+
+            I was at one point the Recording Secretary for
+
+PRAC.   We used to have -- actually, I was sitting at the
+
+front of the table taking the notes, and, boy, you ought to
+
+see the comments we had about notes during those days.
+
+            [Laughter.]
+
+            MR. MIKOWICZ:    And maybe that's why they went to
+
+recordings.   I don't know.     No, I think there were other
+
+reasons.
+
+            I left OPM for a while and came back when the
+
+Federal Employees Pay Comparability Act was enacted.     It
+
+was passed in 1990, and PRAC was still in swing, and here I
+
+am today.
+                                                                 6
+
+
+             I think this is an organization that has had
+
+remarkable success.    I know that both sides have not always
+
+gotten everything they wanted, but what has impressed me is
+
+the willingness to work together.    We see that in the
+
+working groups.    We see it in phone calls, e-mails, and
+
+meetings that we have, and I think that is a tribute to all
+
+the people in Management and Labor sitting at the table.
+
+             Chairman Sheldon Friedman, I have to thank you
+
+for really digging into the issues and for your leadership.
+
+             Jacque, I appreciate you standing up to the TV
+
+monitors defending federal employees when many times we on
+
+the federal side can't do that.
+
+             So a special thanks to the OPM team, and speaking
+
+about the future, we are in the process of getting all the
+
+papers and clearance.    Brenda Roberts here at OPM, who did
+
+work at DoD years ago, will take over my place as the
+
+Designated Federal Officer, and Jeanne Jacobson will be her
+
+alternate.    And the reason I mention that is because the
+
+next meeting, I will be unable to attend, I will be
+
+deployed for a national COOP exercise.    I won't be here,
+
+and Brenda also is going to COOP, so Jeanne will be here,
+
+so thank you.
+                                                                7
+
+
+            [Applause.]
+
+            CHAIRMAN FRIEDMAN:     Thank you, again, Jerry.
+
+It's been a pleasure to work with you.
+
+            People may not know it, but Jerry is an avid
+
+hiker.   I guess he's going to get to do a bit more of that
+
+now.
+
+            MR. MIKOWICZ:   Yes.
+
+            CHAIRMAN FRIEDMAN:     And I guess we should also
+
+say that Terri Wallace, who has been working with our
+
+Committee for a long time, is going to be away for a while
+
+on leave.   People can take one look at her and guess what
+
+the nature of the leave is.
+
+            MS. WALLACE:    You better not guess wrong.
+
+            [Laughter.]
+
+            CHAIRMAN FRIEDMAN:     Okay.   So one other quick
+
+announcement.   Last meeting, we approved our annual report
+
+for 2012, and you have a copy of the final in your packets.
+
+            Any other announcements?
+
+            MR. RUMBLE:    Mr. Chairman?
+
+            CHAIRMAN FRIEDMAN:     Yes, sir.
+
+            MR. RUMBLE:    In the scheme of things of people
+
+not being here anymore, Hank Rovan, our chief of the NAF
+                                                                8
+
+
+side of Wage, is retiring, and it is my understanding that
+
+he's been involved in this about as long as Mr. Mikowicz,
+
+since the late '70s.
+
+          He did not opt to come today to say anything, but
+
+he's leaving the early part of next month.
+
+          MR. ALLEN:    Does this mean we can talk about him,
+
+since he's not here?
+
+          MR. RUMBLE:    Certainly.
+
+          [Laughter.]
+
+          MR. RUMBLE:    Who's taking notes?
+
+          CHAIRMAN FRIEDMAN:    Has his successor been
+
+designated?
+
+          MR. RUMBLE:    We are not quite as fast within DoD
+
+on doing that, so I don't believe that anybody --
+
+          MS. SIMON:    Blind sequestration.   There is a
+
+hiring freeze at DoD.
+
+          MR. RUMBLE:    I know.   It's amazing, Jacque, that
+
+people keep moving.    It's kind of like cannibalization.
+
+You move from one department to another department doing
+
+the same job, people moving around.
+
+          Jim, has anybody --
+
+          MR. BRADY:    I have nothing to share on that at
+                                                                  9
+
+
+this time.    Thank you.
+
+             MR. RUMBLE:   I didn't think so.
+
+             CHAIRMAN FRIEDMAN:   Okay.   Well, it's been a
+
+pleasure to work with Hank, as well.
+
+             Any other announcements?
+
+             [No audible response.]
+
+             CHAIRMAN FRIEDMAN:   If not, let's move on to
+
+reviewing the transcript from our last meeting.      Are there
+
+any other changes to the transcript, beyond those people
+
+have already sent in?
+
+             [No audible response.]
+
+             CHAIRMAN FRIEDMAN:   If not, is there agreement to
+
+adopt the transcript of our last meeting?
+
+             [No audible response.]
+
+             CHAIRMAN FRIEDMAN:   Hearing no objection, the
+
+transcript is adopted.
+
+             That brings up old business.   Is there any old
+
+business item that people wish to discuss today?
+
+             Mark has brought to my attention that OMB has
+
+just released the new updates for MSA definitions based on
+
+the latest Census, which also would give us new commuting
+
+data, and so, therefore, some of the pending items in old
+                                                               10
+
+
+business that relate to definitions of wage areas might
+
+actually be out of date, so we may want to hold on to those
+
+until we get the latest word.
+
+          Apart from that, is there any -- so I suggest we
+
+let those sit until we hear back on that, but apart from
+
+that, is there any other old business item that people want
+
+to bring up this morning?
+
+          [No audible response.]
+
+          CHAIRMAN FRIEDMAN:    I guess that's a no.
+
+          Which brings us to new business with two items.
+
+The first one, 583-MANAGEMENT-1, Definition of Broward
+
+County, Florida, to a Nonappropriated Fund Wage Area.
+
+          Mark, would you summarize that for us, please?
+
+          MR. ALLEN:    Sure.   We actually have two
+
+Nonappropriated Fund wage area redefinitions at this
+
+meeting, two new business items.    So I would deem these to
+
+be the Hank Rovan memorial redefinitions.
+
+          [Laughter.]
+
+          MR. ALLEN:    First one is 583-MANAGEMENT-1, the
+
+definition of Broward County, Florida.
+
+          It's fairly simple.    The maps at Attachment 1
+
+show that Broward County is to the north of Miami-Dade
+                                                                11
+
+
+County, and just to the south is Palm Beach County.      Miami-
+
+Dade is a survey county.     Palm Beach is an area of
+
+application, and Broward County is wedged right in between
+
+those.   There are three employees with the Department of
+
+Veterans Affairs who should be assigned to an appropriate
+
+wage schedule, and when we look at the regulatory criteria
+
+analysis on page 2 of the document, you see that they all
+
+understandably point to Miami-Dade as being the appropriate
+
+wage area definition.     This would be the definition of
+
+Broward County to the area of application of the Miami-Dade
+
+wage area.
+
+             CHAIRMAN FRIEDMAN:   Thank you, Mark.
+
+             Are there any questions or discussion?
+
+             [No audible response.]
+
+             CHAIRMAN FRIEDMAN:   Is there consensus to adopt
+
+this?
+
+             MS. SIMON:   Yeah.
+
+             CHAIRMAN FRIEDMAN:   So there being a consensus,
+
+we have adopted 583-MANAGEMENT-1.     Thank you.
+
+             That brings up 583-MANAGEMENT-2.   Please
+
+summarize that one for us, Mark.
+
+             MR. ALLEN:   This is a little bit different than
+                                                               12
+
+
+other Nonappropriated Fund wage area redefinitions that
+
+we've seen recently.   This is actually one where we're not
+
+redefining a county to another wage area.    We are removing
+
+counties where there are currently no NAF employees or
+
+there will soon be none left because of base closures and
+
+realignments.
+
+           As you can see on the maps in your packet,
+
+Enclosure 1, the current Clayton-Cobb-Fulton, Georgia,
+
+Nonappropriated Fund Area consists of three survey
+
+counties, Fulton, Cobb, and Clayton, and three area of
+
+application counties, Bartow, DeKalb, and Clarke.
+
+           What we are recommending is on the next map, that
+
+that wage area be shrunk down to have a survey area of Cobb
+
+County only, and that the only two areas of application
+
+counties be Bartow and DeKalb Counties.
+
+           So, in a way, this is kind of like abolishing a
+
+wage area and then starting it over again.   When this wage
+
+area would be redefined, the next wage schedule for Cobb
+
+would be an unrestricted wage schedule, not subject to a
+
+pay cap.
+
+           CHAIRMAN FRIEDMAN:   Any questions or discussion?
+
+           [No audible response.]
+                                                                13
+
+
+           CHAIRMAN FRIEDMAN:     Is there consensus to do
+
+this, or does Labor need to talk about it?
+
+           MR. LANDIS:    I think from what I'm reading here
+
+is that the facilities or whatever that had employees in
+
+Clayton and Fulton, they are no longer there?
+
+           MR. ALLEN:    That's correct.
+
+           MR. LANDIS:    Okay.   What's the -- I guess there's
+
+savings then for not having to deal with those counties,
+
+since there's no longer any facilities there as opposed to
+
+just dealing with Cobb on its own?
+
+           MR. ALLEN:    The wage survey itself would be less
+
+expensive to conduct since there would be fewer data
+
+collectors.   The same type of establishments would be
+
+covered.   The covered survey area is covering most of the
+
+City of Atlanta, and I believe it would be shrunk down to
+
+just the northwestern suburbs around Atlanta.     It's
+
+impossible to predict what the wage schedule would actually
+
+look like at this time.    The next survey done there will be
+
+done in only one county.
+
+           I should say that Nonappropriated Fund wage areas
+
+are a little different than -- actually, they are quite a
+
+bit different than Appropriated Fund wage areas in that the
+                                                               14
+
+
+law provides that they can only be established where there
+
+are NAF employees; whereas, with the Appropriated Fund wage
+
+area we define every county as part of a wage area.
+
+           CHAIRMAN FRIEDMAN:   Just for my own education,
+
+does the regulation on that, that the wage area shall not
+
+extend beyond the immediate locality, actually state that
+
+the immediate locality must be a county? Is that what you
+
+are referring to, Mark?
+
+           MR. ALLEN:   Yes.
+
+           CHAIRMAN FRIEDMAN:   Where is immediate locality
+
+defined?
+
+           MR. ALLEN:   That is -- it's actually citing the
+
+law, 85 USC 5343, and the locality is defined by OPM
+
+regulation on a county basis.
+
+           CHAIRMAN FRIEDMAN:   Okay.   I may need a sidebar
+
+education on that, because I'm not quite -- it sounds
+
+circular to me.   Locality is defined somewhere else as a
+
+county?
+
+           MR. ALLEN:   Well, OPM has to implement laws, and
+
+OPM does that through regulation, and there's a listing in
+
+one of the appendices to Title 5, Code of Federal
+
+Regulations, that identifies each wage area for
+                                                                   15
+
+
+Nonappropriated Fund employees by county.
+
+            CHAIRMAN FRIEDMAN:      It seems to me this is a
+
+metropolitan area, the Atlanta area.       You are taking one
+
+county out of the metropolitan area and saying that's going
+
+to be the locality.
+
+            MR. LANDIS:   Which county is Atlanta in?     I'm not
+
+familiar.
+
+            CHAIRMAN FRIEDMAN:      I think Fulton.
+
+            MR. LANDIS:   We know that Atlanta is in Fulton?
+
+            MR. ALLEN:    Yeah.   Fulton is downtown Atlanta.
+
+Counties in Georgia tend to be relatively small
+
+geographically --
+
+            MR. LANDIS:   Okay.     So instead of a county --
+
+            MR. PHELPS:   I think actually Atlanta is
+
+partially in Fulton and partially in DeKalb.
+
+            MS. SIMON:    DeKalb.    I'm sure that you are still
+
+in Atlanta proper in DeKalb.
+
+            MR. PHELPS:   Yeah.
+
+            MR. LANDIS:   Okay.     So this isn't like what I'm
+
+used to where a county contains a town.
+
+            MR. PHELPS:   No.
+
+            MR. LANDIS:   This town could stretch through
+                                                                16
+
+
+other counties.   I'm just curious if the land was fully
+
+within Fulton if that would -- removing Fulton County from
+
+this would then later on drive the surveys to come up with
+
+lower wage scales because of that.     I'm not sure.
+
+            CHAIRMAN FRIEDMAN:   Do we have an answer to that
+
+question?
+
+            MR. ALLEN:    The wage schedule would reflect the
+
+prevailing wage levels around Marietta and Cobb County.
+
+            CHAIRMAN FRIEDMAN:   So is there any light that
+
+can be shed on Steve's question?
+
+            MR. ALLEN:    What was the question?
+
+            CHAIRMAN FRIEDMAN:   He's asking what's the impact
+
+on the -- well, you ask it again.
+
+            MR. LANDIS:   I was just wondering.    I'm not
+
+familiar with the area that well, but I know Atlanta is a
+
+high-priced living area.     So I ask if losing those two
+
+counties and then doing a future wage survey in only Cobb
+
+County would cause the overall wages to decrease.      People
+
+are already there in Cobb, in the current wage schedule,
+
+and if the proposal just maintains Cobb, if the employees
+
+in that wage area would then be put on a lower wage pay
+
+scale.
+                                                                  17
+
+
+             CHAIRMAN FRIEDMAN:   Can you shed some light on
+
+that, Jim?
+
+             MR. BRADY:   No.   We are unable to shed light,
+
+because we've never surveyed this Cobb County from a
+
+universe point of view.     We've always had data from the
+
+other two counties, as well.      So determining what a survey
+
+in the one county would actually look like is fairly
+
+difficult.
+
+             CHAIRMAN FRIEDMAN:   So what's your pleasure?
+
+             MS. SIMON:   Well, we do have data from that one
+
+county.
+
+             MR. BRADY:   We have it as a mix of the three
+
+counties, but we don't really have data that was based on
+
+one county as an entire survey.
+
+             CHAIRMAN FRIEDMAN:   You haven't done the
+
+calculation, I think is what you’re saying, right?       You've
+
+never pulled out the data from that county?
+
+             MR. BRADY:   There's not really a good way of
+
+doing it because it's been part of a large sample survey,
+
+in which Atlanta, you know, has some domination.      So
+
+actually surveying the county by itself would be a much
+
+different survey than the survey that includes the
+                                                               18
+
+
+metropolitan area of Atlanta.
+
+          MR. PHELPS:   I wouldn't imagine as far as the
+
+cost Steve was talking about or Mark was talking about that
+
+it would be that much, since you have the three counties
+
+right there together, that your cost would be that
+
+prohibitive to continue with the three -- or any difference
+
+really from the one to the three.   Those activities right
+
+there, you're only talking probably 20, 25 miles to the
+
+furthest point in the third county.   I would imagine that
+
+you probably have people who commute regularly from the
+
+other two counties into there to work if that's where your
+
+most activity is at this point.
+
+          MR. ALLEN:    The thing driving this is not really
+
+a concern about the survey resources.   It's that OPM
+
+regulations and the law require -- together they require
+
+defining the wage area by county for NAF purposes, and
+
+since there would be no NAF employees in two of the current
+
+survey area counties, it would not be an accurate
+
+reflection to those employees just in Cobb County to have
+
+their pay level set based on two other counties where there
+
+aren't any NAF employees.
+
+          CHAIRMAN FRIEDMAN:    Is this something we can get
+                                                                 19
+
+
+consensus on today or does it need further study?        Are
+
+there questions that the Labor side feels it needs answers
+
+to, or where are we on this one?
+
+           MS. SUSZCZYK:    Are you able to point us today to
+
+where we can find the definition of localities?
+
+           MR. ALLEN:    It would be in Part 532.      It's
+
+Appendix A to subpart B or something like that.
+
+           MR. LANDIS:   Is that what you have written in the
+
+report here, 5 USC 5343?
+
+           MR. ALLEN:    No, that's a cite from the law.
+
+           MR. LANDIS:   That's different?     Okay.
+
+           MR. ALLEN:    Here it is.   Regulatory, 5 CFR
+
+Appendix C, subpart D.     That's where it lists the
+
+Nonappropriated Fund Areas by county.
+
+           CHAIRMAN FRIEDMAN:    Right.   That's what is being
+
+proposed to change, right?
+
+           MR. ALLEN:    Yes.   Using counties is a system-wide
+
+feature.   It’s OPM's implementation of the statute.
+
+           MS. SIMON:    We're okay with it.
+
+           CHAIRMAN FRIEDMAN:    Okay.    All right.    Then
+
+there's consensus to adopt 583-MANAGEMENT-2.
+
+           Is there any other new business not on the
+                                                               20
+
+
+agenda?
+
+           [No audible response.]
+
+           CHAIRMAN FRIEDMAN:    If not, is there any
+
+objection to adjourning?
+
+           MR. LANDIS:   I probably should have brought this
+
+up when we were discussing old business, but I was looking
+
+at something else.
+
+           The report we prepared last year, I know I have
+
+brought this up many times before.     I just wondered if
+
+there was any news on that.     I know that as far as I
+
+understand, the pay freeze is set to expire at the end of
+
+this month.   Has that been changed?
+
+           CHAIRMAN FRIEDMAN:    There's stuff going on in
+
+Congress that would extend it perhaps.    We don't know for
+
+sure.
+
+           Jerry, can you elaborate?
+
+           MR. MIKOWICZ:   From all we know, the Senate and
+
+the House both have proposals to have legislation passed in
+
+the houses that would extend the pay freeze to the end of
+
+2013.   I believe there was also a presidential statement
+
+that he would not veto that because that is part of a
+
+larger package, and so I think that people mostly think the
+                                                                 21
+
+
+probability is that there will be a pay freeze for the rest
+
+of the year, but as we all know, until it happens, it
+
+doesn't happen.    So we'll have to wait to see events over
+
+the next few days.
+
+             MR. LANDIS:   Is that part of the H.R. 933 that
+
+they've been discussing, or is this something -- a few
+
+other --
+
+             MR. MIKOWICZ:   I don't know how it's packaged, so
+
+I can't answer that.
+
+             MR. LANDIS:   All right.   So as far as we know,
+
+then it is still in limbo until that's --
+
+             CHAIRMAN FRIEDMAN:   I don't have any information
+
+other than that.    "Limbo" would be as good a word as any,
+
+I'd say.   Would you say?
+
+             MR. MIKOWICZ:   Agree.
+
+             CHAIRMAN FRIEDMAN:   Okay.   Anything else?
+
+             [No audible response.]
+
+             CHAIRMAN FRIEDMAN:   So any objection to
+
+adjourning?
+
+             [No audible response.]
+
+             CHAIRMAN FRIEDMAN:   Hearing no objection, we're
+
+adjourned.    See you all next month.     Thank you very much.
+
