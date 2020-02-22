@@ -1,0 +1,204 @@
+from nltk.corpus import words
+import datefinder
+import csv
+import json
+import re
+
+import datefinder
+from keras.models import model_from_json
+from nltk.corpus import words
+from nltk.tokenize import TweetTokenizer, word_tokenize, sent_tokenize
+from pycorenlp import StanfordCoreNLP
+from nltk.corpus import stopwords
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.svm import SVC
+import pickle
+
+
+from sentence_classifier import get_classification_results
+
+folder_path = 'D:\MinutesOfMeeting\meeting-transcript-data-text-parser\\venv'
+file_name = 'data_meeting_text_amazon.txt'
+
+
+def find_the_features(inp_sentences):
+    _sentences_with_not = set()
+    _sentences_with_date = set()
+    _sentences_with_figure = set()
+    _sentiment_with_score = list()
+    tokenizer = TweetTokenizer()
+    words_list = words.words()
+    stopwords_list = set(stopwords.words('english'))
+
+    for i, _sentence in enumerate(inp_sentences):
+        tokens = tokenizer.tokenize(_sentence.lower())
+        if is_not_word_included(words_list, tokens, stopwords_list):
+            _sentences_with_not.add(i)
+        if is_date_included(_sentence):
+            _sentences_with_date.add(i)
+        if is_figure_included(_sentence):
+            _sentences_with_figure.add(i)
+        _sentiment_with_score.append(get_sentiment(_sentence))
+
+    return _sentences_with_not, _sentences_with_date, _sentences_with_figure, _sentiment_with_score
+
+
+def is_not_word_included(words_list, tokens, stopwords):
+    no_syns = {'no', 'not', 'nay', 'nix', 'never'}
+    no_syns_rgx = r'^(no|not|nay|nix|never)$'
+    # no_prefixes = {'in', 'un', 'non', 'de', 'dis', 'a', 'anti', 'im', 'il', 'ir', 'mis'}
+    prefix_rgx = r'^(in|un|non|de|dis|anti|a|im|il|ir)\w+$'
+
+    occs_of_not_synms = 0
+
+    for i, token in enumerate(tokens):
+        if re.search(no_syns_rgx, token):
+            occs_of_not_synms += 1
+        prefix = re.findall(prefix_rgx, token)
+        if len(prefix) > 0:
+            left_over = token[len(prefix[0]):]
+            left_over_sentiment = get_sentiment(left_over)[0]
+            original_sentiment = get_sentiment(token)[0]
+            if left_over in words_list and original_sentiment == 'Negative' and left_over_sentiment == 'Positive' and i > 0:
+                if _check_for_double_negation(tokens[:i], stopwords, no_syns):
+                    occs_of_not_synms -= 1
+                else:
+                    return True
+    return occs_of_not_synms > 0
+
+
+def _check_for_double_negation(prev_tokens, stopwords, no_syns):
+    for i in range(len(prev_tokens)-1,-1,-1):
+        if prev_tokens[i] in stopwords:
+            continue
+        return prev_tokens[i] in no_syns
+    return False
+
+
+def is_date_included(inp_sentence):
+    extracted_dates = datefinder.find_dates(inp_sentence)
+    for extracted_date in extracted_dates:
+        return True
+    return False
+
+
+def is_figure_included(tokens):
+    number_words_rgx = r'^(zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand|million|billion|trillion)$'
+    number_digit_rgx = r'[+-]?[0-9][0-9]*'
+    for token in tokens:
+        if re.search(number_words_rgx, token):
+            return True
+        if re.search(number_digit_rgx, token):
+            return True
+    return False
+
+
+def get_sentiment(text):
+    res = nlp.annotate(text,
+                       properties={'annotators': 'sentiment',
+                                   'outputFormat': 'json',
+                                   'timeout': 900000,
+                                   })
+    if res == 'CoreNLP request timed out. Your document may be too long.':
+        return 'Error', -1
+    return res['sentences'][0]['sentiment'], res['sentences'][0]['sentimentValue']
+
+
+def get_interrogative_sentence(_sentences, nlp, question_type_clf:SVC, vocab, classes):
+    interrogative_sentences = set()
+    interrogative_sentences_type = list()
+
+    vectorizer = CountVectorizer(vocabulary=vocab, lowercase=True)
+
+    for i, _sentence in enumerate(_sentences):
+        is_question = False
+        if '?' in _sentence:
+            interrogative_sentences.add(i)
+            is_question = True
+        else:
+            output = nlp.annotate(_sentence, properties={
+                'annotators': 'parse',
+                'outputFormat': 'json',
+                'timeout': 1000,
+            })
+            if output == 'CoreNLP request timed out. Your document may be too long.':
+                interrogative_sentences_type.append('-')
+                continue
+            if ('SQ' or'SBARQ') in output['sentences'][0]["parse"]:
+                interrogative_sentences.add(i)
+                is_question = True
+        if is_question:
+            _sentence = _sentence.strip().lower()
+            _sentence = re.sub('[^a-zA-z0-9\s\']','',_sentence)
+            sentence_vector = vectorizer.transform([_sentence])
+            interrogative_sentences_type.append(classes[question_type_clf.predict(sentence_vector)[0]])
+        else:
+            interrogative_sentences_type.append('-')
+
+    return interrogative_sentences, interrogative_sentences_type
+
+
+if __name__ == '__main__':
+
+    # import nltk
+    # nltk.download('averaged_perceptron_tagger')
+
+    # goto stanfordcofenlp folder
+    # run java -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -annotators "tokenize,ssplit,pos,lemma,parse,sentiment" -port 9000 -timeout 30000
+
+    nlp = StanfordCoreNLP('http://localhost:9000')
+
+    # tokenizer = TweetTokenizer()
+    # words_list = words.words()
+    # stopwords_list = set(stopwords.words('english'))
+    # tokens = tokenizer.tokenize('shall we start with an update from everyone?')
+    # s = is_not_word_included(words_list, tokens, stopwords_list)
+
+    json_file = open('model.json', 'r')
+    loaded_model_json = json_file.read()
+    json_file.close()
+    loaded_model = model_from_json(loaded_model_json)
+    # load weights into new model
+    loaded_model.load_weights("model.h5")
+    print("Loaded model from disk")
+
+    # evaluate loaded model on test data
+    loaded_model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+
+    with open('question-type-classifier.bin','rb') as clf_file:
+        question_type_clf = pickle.load(clf_file)
+
+    with open('vocab.bin','rb') as clf_file:
+        vocab = pickle.load(clf_file)
+
+    with open('question-type-classes.bin', 'rb') as classes_file:
+        questions_type_classes = pickle.load(classes_file)
+
+    with open(folder_path + '\\' + file_name) as data_file:
+        _data = json.load(data_file)
+        sentences = [d['sentence'].lower() for d in _data]
+        speakers = [d['speaker'] for d in _data]
+        dialogue_ids = [d['dialogue_id'] for d in _data]
+        classifications = get_classification_results(sentences, loaded_model)
+        interrogative_sentences, interrogative_sentences_type = get_interrogative_sentence(sentences, nlp, question_type_clf, vocab, questions_type_classes)
+        for i in interrogative_sentences:
+            classifications[i] = 'Interrogative'
+        sentences_with_not, sentences_with_date, sentences_with_figure, sentiment_with_score = find_the_features(sentences)
+
+        with open("features-extracted.csv", 'w') as output_file:
+            writer = csv.writer(output_file)
+            writer.writerow(['dialogue_id', 'speaker', 'sentence', 'sentence-type',
+                             'not-word-found', 'date-found', 'figure (number) found', 'sentiment-type', 'sentiment-score','question-type'])
+            for ind, sentence in enumerate(sentences):
+                temp = list()
+                temp.append(dialogue_ids[ind])
+                temp.append(speakers[ind])
+                temp.append(sentence)
+                temp.append(classifications[ind])
+                temp.append(ind in sentences_with_not)
+                temp.append(ind in sentences_with_date)
+                temp.append(ind in sentences_with_figure)
+                temp.append(sentiment_with_score[ind][0])
+                temp.append(sentiment_with_score[ind][1])
+                temp.append(interrogative_sentences_type[ind])
+                writer.writerow(temp)

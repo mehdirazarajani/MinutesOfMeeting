@@ -1,0 +1,104 @@
+dialogue_id,speaker,sentence,sentence-type,not-word-found,date-found,figure (number) found,sentiment-type,sentiment-score,question-type
+0,spk_0,court's power group is an energy company.,Normal,False,False,False,Positive,3,-
+1,spk_0,it supplies power to homes across the uk human resources.,Normal,False,False,False,Positive,3,-
+2,spk_0,"departmental managers have just started their weekly team meeting, led by paul, the head of hr.",Normal,False,False,False,Negative,1,-
+3,spk_2,yes.,Normal,False,False,False,Neutral,2,-
+4,spk_2,sorry.,Normal,False,False,False,Neutral,2,-
+5,spk_2,i,Normal,False,False,False,Neutral,2,-
+6,spk_3,t need me to do something to my computers in my office wasn't,Normal,False,False,False,Neutral,2,-
+7,spk_2,free.,Normal,False,False,False,Neutral,2,-
+8,spk_2,"okay, well, this is fine.",Normal,False,False,False,Positive,3,-
+9,spk_1,anyway.,Normal,False,False,False,Neutral,2,-
+10,spk_1,shall we start with an update from everyone?,Interrogative,False,False,False,Neutral,2,unknown
+11,spk_1,"can we try and keep this to 20 minutes, though?",Interrogative,False,False,True,Negative,1,affirmation
+12,spk_1,so we have time for the main,Normal,False,False,False,Neutral,2,-
+13,spk_5,item afterwards.,Normal,False,False,False,Neutral,2,-
+14,spk_5,"uh, so how",Normal,False,False,False,Neutral,2,-
+15,spk_1,"are things going, maria?",Interrogative,False,True,False,Neutral,2,affirmation
+16,spk_1,what's happening in the training department this week?,Interrogative,False,False,False,Neutral,2,what
+17,spk_3,"so far, so good.",Normal,False,False,False,Positive,3,-
+18,spk_3,we have to external trainers in this week.,Normal,False,False,False,Neutral,2,-
+19,spk_3,one of them is working with cold center staff at the other side.,Normal,False,False,False,Neutral,2,-
+20,spk_3,so i hope they all turn up.,Normal,False,False,False,Positive,3,-
+21,spk_1,what do you mean?,Interrogative,False,False,False,Neutral,2,what
+22,spk_3,"well, there were lots of absences for the last training we had at the call center.",Normal,False,False,False,Negative,1,-
+23,spk_3,"i'm surprised, really.",Task Assigned,False,False,False,Positive,3,-
+24,spk_3,it's unpaid time.,Normal,False,False,False,Negative,1,-
+25,spk_3,"and you'd think people would enjoy having some training,",Normal,False,False,False,Neutral,2,-
+26,spk_1,but they have to go.,Normal,False,False,False,Neutral,2,-
+27,spk_1,it's not really their decision to go or not.,Suggestion,True,False,False,Negative,1,-
+28,spk_1,did you speak to customer service?,Interrogative,False,False,False,Neutral,2,unknown
+29,spk_1,is,Normal,False,False,False,Neutral,2,-
+30,spk_3,no.,Normal,True,False,False,Neutral,2,-
+31,spk_3,i was going to do that today.,Task Assigned,False,False,False,Neutral,2,-
+32,spk_3,should i speak to anna?,Interrogative,False,False,False,Neutral,2,unknown
+33,spk_5,"yes, in fact, i'm meeting anna today, so i'll",Normal,False,False,False,Neutral,2,-
+34,spk_3,mention it.,Normal,False,False,False,Neutral,2,-
+35,spk_3,can you let me know how that goes?,Interrogative,False,False,False,Neutral,2,unknown
+36,spk_3,just so i know what i could do next.,Normal,False,False,False,Negative,1,-
+37,spk_5,yes.,Normal,False,False,False,Neutral,2,-
+38,spk_5,"oh, on dhe.",Suggestion,False,False,False,Neutral,2,-
+39,spk_5,"uh,",Normal,False,False,False,Neutral,2,-
+40,spk_1,what about the internet training?,Interrogative,False,False,False,Neutral,2,what
+41,spk_1,how are things going with that?,Interrogative,False,False,False,Neutral,2,unknown
+42,spk_3,we are waiting for t to say they're ready.,Normal,False,False,False,Neutral,2,-
+43,spk_3,"i think there have been some delays, but now they're telling me it'll be ready next month.",Normal,False,False,False,Negative,1,-
+44,spk_3,"i have an update meeting this week with matter, lucy",Normal,False,False,False,Neutral,2,-
+45,spk_1,really all behind on that song.,Task Assigned,False,False,False,Neutral,2,-
+46,spk_1,so,Normal,False,False,False,Neutral,2,-
+47,spk_0,is that everything for the training departments?,Interrogative,False,False,False,Neutral,2,unknown
+48,spk_3,i am preparing something for david in marketing on my idea for schools day.,Normal,False,False,False,Neutral,2,-
+49,spk_3,what?,Interrogative,False,False,False,Neutral,2,what
+50,spk_3,something.,Normal,False,False,False,Neutral,2,-
+51,spk_3,"we might be sponsoring a one day event for schools to inform students about energy where it comes from, how we use it, that type of thing.",Normal,False,False,False,Neutral,2,-
+52,spk_3,"oh,",Normal,False,False,False,Neutral,2,-
+53,spk_1,"be careful with that one, maria.",Task Assigned,False,True,False,Positive,3,-
+54,spk_1,how do,Interrogative,False,False,False,Neutral,2,unknown
+55,spk_3,you mean?,Interrogative,False,False,False,Neutral,2,affirmation
+56,spk_0,"well, really, it should all come under",Task Assigned,False,False,False,Positive,3,-
+57,spk_1,"marketing, unhappy that you were involved, but i don't want it to come out of the training budget.",Normal,False,False,False,Negative,1,-
+58,spk_3,but what about my time on it?,Interrogative,False,False,False,Neutral,2,when
+59,spk_1,"just saying, watch how much time it takes.",Normal,False,False,False,Negative,1,-
+60,spk_1,"i know, david, i love you organizing the whole event.",Suggestion,False,False,False,Positive,3,-
+61,spk_3,"okay,",Normal,False,False,False,Positive,3,-
+62,spk_5,so that's,Normal,False,False,False,Neutral,2,-
+63,spk_0,quite a lot.,Normal,False,False,False,Neutral,2,-
+64,spk_0,"damn, maria, let's just recap.",Normal,False,True,False,Negative,1,-
+65,spk_0,"um, i'm going to get back to you when i've spoken to honor about the call centre training.",Task Assigned,False,False,False,Negative,1,-
+66,spk_0,"you're going to speak to matter, lucy, about the internet, training on dhe.",Task Assigned,False,False,False,Negative,1,-
+67,spk_0,you're,Normal,False,False,False,Neutral,2,-
+68,spk_1,going to proceed with caution with david on the school's events.,Normal,False,False,False,Negative,1,-
+69,spk_1,please keep me informed on that one.,Normal,False,False,False,Positive,3,-
+70,spk_6,d'oh.,Normal,False,False,False,Neutral,2,-
+71,spk_5,"okay, so who's next?",Interrogative,False,False,False,Neutral,2,who
+72,spk_5,"recruitment, carina.",Task Assigned,False,False,False,Positive,3,-
+73,spk_2,"well, we have three applicants for the post of finance assistant.",Normal,False,False,False,Positive,3,-
+74,spk_0,are all the interviews this week?,Interrogative,False,False,False,Neutral,2,affirmation
+75,spk_2,"yes, they are.",Normal,False,False,False,Neutral,2,-
+76,spk_2,"but i'm away tomorrow, so somebody needs to interview.",Task Assigned,False,False,False,Negative,1,-
+77,spk_1,i can't.,Normal,False,False,False,Neutral,2,-
+78,spk_1,"maya, do it.",Normal,False,False,False,Positive,3,-
+79,spk_1,the applicants are applying to be in her team.,Normal,False,False,False,Neutral,2,-
+80,spk_2,"yes, but i think one of us should be there.",Normal,False,False,False,Negative,1,-
+81,spk_1,"ok, leave it with me",Task Assigned,False,False,False,Negative,1,-
+82,spk_2,anyway.,Normal,False,False,False,Neutral,2,-
+83,spk_2,the applicant is monica,Normal,False,False,False,Neutral,2,-
+84,spk_1,monica.,Normal,False,False,False,Neutral,2,-
+85,spk_1,moniker on reception.,Task Assigned,False,False,False,Neutral,2,-
+86,spk_1,major said she's off sick.,Normal,False,False,False,Negative,1,-
+87,spk_2,"i know, but her interviews tomorrow, so we have to assume that she'll be there.",Normal,False,False,False,Negative,1,-
+88,spk_5,sorry.,Normal,False,False,False,Neutral,2,-
+89,spk_5,"so, just to recap,",Task Assigned,False,False,False,Neutral,2,-
+90,spk_0,i'm interviewing monica with maya tomorrow.,Normal,False,False,False,Negative,1,-
+91,spk_0,"uh, what time?",Interrogative,False,False,False,Neutral,2,when
+92,spk_2,1 30,Normal,False,True,True,Neutral,2,-
+93,spk_5,"on dde, who",Normal,False,False,False,Neutral,2,-
+94,spk_0,will be looking after reception while she's having her interview?,Interrogative,False,False,False,Neutral,2,affirmation
+95,spk_2,"well, the same tempest today, i hope.",Task Assigned,False,False,False,Positive,3,-
+96,spk_1,what?,Interrogative,False,False,False,Neutral,2,what
+97,spk_1,you won't be there to make sure,Normal,False,False,False,Neutral,2,-
+98,spk_2,you said i could have tomorrow off.,Suggestion,False,False,False,Neutral,2,-
+99,spk_5,"no, no, it's fine.",Normal,True,False,False,Negative,1,-
+100,spk_5,"um, so who's next?",Interrogative,False,False,False,Neutral,2,who
+101,spk_5,"um,",Normal,False,False,False,Neutral,2,-
+102,spk_1,"ingrid, how are things going with you?",Interrogative,False,False,False,Neutral,2,unknown
