@@ -18,7 +18,8 @@ import pickle
 from sentence_classifier import get_classification_results
 
 folder_path = 'D:\MinutesOfMeeting\meeting-transcript-data-text-parser\\venv'
-file_name = 'data_meeting_text_amazon.txt'
+# file_name = 'data_meeting_text_amazon.txt'
+file_name = 'data_meeting_text_pronoun.txt'
 
 
 def find_the_features(inp_sentences):
@@ -144,7 +145,7 @@ if __name__ == '__main__':
     # nltk.download('averaged_perceptron_tagger')
 
     # goto stanfordcofenlp folder
-    # run java -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -annotators "tokenize,ssplit,pos,lemma,parse,sentiment" -port 9000 -timeout 30000
+    # run java -mx6g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -annotators "tokenize,ssplit,pos,lemma,parse,sentiment" -port 9000 -timeout 30000
 
     nlp = StanfordCoreNLP('http://localhost:9000')
 
@@ -202,3 +203,20 @@ if __name__ == '__main__':
                 temp.append(sentiment_with_score[ind][1])
                 temp.append(interrogative_sentences_type[ind])
                 writer.writerow(temp)
+
+        with open("features-extracted.txt", 'w') as output_file:
+            resultants = []
+            for ind, sentence in enumerate(sentences):
+                resultant = {}
+                resultant["dialogue_id"] = dialogue_ids[ind]
+                resultant["speaker"] = speakers[ind]
+                resultant["sentence"] = sentence
+                resultant["sentence-type"] = classifications[ind]
+                resultant["not-word-found"] = ind in sentences_with_not
+                resultant["date-found"] = ind in sentences_with_date
+                resultant["figure (number) found"] = ind in sentences_with_figure
+                resultant["sentiment-type"] = sentiment_with_score[ind][0]
+                resultant["sentiment-score"] = sentiment_with_score[ind][1]
+                resultant["question-type"] = interrogative_sentences_type[ind]
+                resultants.append(resultant)
+            json.dump(resultants, output_file)

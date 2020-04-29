@@ -11,6 +11,10 @@ import networkx as nx
 import hashlib
 import csv
 
+folder_path = 'D:\MinutesOfMeeting\meeting-transcript-data-text-parser\\venv'
+# file_name = 'data_meeting_text_amazon.txt'
+file_name = 'data_meeting_text_pdf.txt'
+
 
 def _remove_stopwords(sen):
     sen_new = " ".join([i for i in sen if i not in stop_words])
@@ -94,7 +98,7 @@ def sorted_weighted_frequency_sentences(sentences):
 
 if __name__ == '__main__':
 
-    with open('data_meeting_text_amazon.txt') as data_file:
+    with open(folder_path + '\\' + file_name) as data_file:
         _data = json.load(data_file)
         sentences = [d['sentence'].lower() for d in _data]
         speakers = [d['speaker'] for d in _data]

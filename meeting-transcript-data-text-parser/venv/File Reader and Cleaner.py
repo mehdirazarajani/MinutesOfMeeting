@@ -419,3 +419,6 @@ if __name__ == '__main__':
             json.dump(agenda_text, outfile1)
         with open('data_agenda1.txt', 'w') as outfile1:
             json.dump(improved_agenda_text, outfile1)
+
+        with open('data_meeting_text_pdf.txt', 'w') as outfile1:
+            json.dump(data['structured_meeting_texts_without_introduction'], outfile1)
