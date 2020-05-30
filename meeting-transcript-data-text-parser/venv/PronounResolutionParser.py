@@ -3,7 +3,7 @@ import re
 
 folder_path = 'D:\\MinutesOfMeeting\\meeting-transcript-data-text-parser\\venv'
 file_name = 'pronoun resolution output data.txt'
-sentence_regex = re.compile(r'''^([\w\s\.]+) said "(.*)"$''')
+sentence_regex = re.compile(r'''^([\w\s\._]+) said "(.*)$''')
 
 
 def parse_pronoun_resolution_transcribe_file(data):
