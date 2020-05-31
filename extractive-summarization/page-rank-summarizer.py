@@ -13,7 +13,7 @@ import csv
 
 folder_path = 'D:\MinutesOfMeeting\meeting-transcript-data-text-parser\\venv'
 # file_name = 'data_meeting_text_amazon.txt'
-file_name = 'data_meeting_text_pdf.txt'
+file_name = 'features-extracted.txt'
 
 
 def _remove_stopwords(sen):
@@ -61,7 +61,7 @@ def _get_network_graph_scores(sim_mat):
 
 
 def _get_sentence_ranking(sentences, ng_scores):
-    ranked_sentences = sorted(((ng_scores[i], s) for i, s in enumerate(sentences)), reverse=True)
+    ranked_sentences = [(ng_scores[i], s) for i, s in enumerate(sentences)]
     return ranked_sentences
 
 
@@ -74,21 +74,44 @@ def page_rank_algorithm(model_file, dim):
     return sentence_ranking
 
 
+def isImportant(data):
+    return not(data['not-word-found']) and (data['date-found'] or data['figure (number) found'])
+
+
+def get_the_min_important_score(sentence_ranking, percent=0.5):
+    count = len(sentence_ranking) * percent
+    scores = [score for score, sentence in sentence_ranking]
+    sorted(scores)
+    return scores[int(count)]
+
+
 if __name__ == '__main__':
 
     # nltk.download('stopwords')# one time execution
     # nltk.download('punkt') # one time execution
 
-    with open(folder_path + '\\' + file_name) as data_file:
+    with open(file_name) as data_file:
         _data = json.load(data_file)
         sentences = [d['sentence'].lower() for d in _data]
         speakers = [d['speaker'] for d in _data]
+        importance = [isImportant(d) for d in _data]
 
     stop_words = stopwords.words('english')
     clean_sentences = [_remove_stopwords(r.split()) for r in sentences]
     sentence_ranking = page_rank_algorithm('glove.6B.100d.txt', 100)
 
-    with open('ranked_sentences_100d.csv', 'w') as output_file:
-        writer = csv.writer(output_file)
-        for sen in sentence_ranking:
-            writer.writerow(list(sen))
+    threshold = get_the_min_important_score(sentence_ranking)
+    resultants = []
+    for i, sen in enumerate(sentence_ranking):
+        if sentences[i] != sen[1]:
+            print('mismatch')
+        resultant = {'sentence': sentences[i],
+                     'speaker': speakers[i],
+                     'score': sen[0],
+                     'is_important': importance[i]}
+        if sen[0] >= threshold:
+            resultant['is_important'] = True
+        resultants.append(resultant)
+
+    with open("important-sentence.txt", 'w') as output_file:
+        json.dump(resultants, output_file)
