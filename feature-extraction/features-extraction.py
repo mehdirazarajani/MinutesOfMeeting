@@ -14,7 +14,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 folder_path = 'D:\MinutesOfMeeting\meeting-transcript-data-text-parser\\venv'
 # file_name = 'data_meeting_text_amazon.txt'
-file_name = 'data_meeting_text_pronoun.txt'
+file_name = ''
 
 
 def find_the_features(inp_sentences):

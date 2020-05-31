@@ -11,6 +11,7 @@ from nltk import pos_tag
 from keras.preprocessing import text, sequence
 import json
 import numpy as np
+import re
 
 
 def get_mapping(data):
@@ -55,7 +56,7 @@ def get_classification_results(sentence, loaded_model):
     maxlen = 600
     max_features = 11760
 
-    test_corpus = pd.DataFrame(sentence)
+    test_corpus = pd.DataFrame([sentence])
 
     pos_tags_test = test_corpus[0].apply(lambda x: " ".join(item[1] for item in pos_tag(word_tokenize(x)))).values
     test_corpus = test_corpus[0].values + " " + pos_tags_test
@@ -95,7 +96,7 @@ if __name__ == '__main__':
 
     sentences = ['Hi']
 
-    with open('data_meeting_text_pronoun.txt') as input_file:
+    with open('data_meeting_text_pdf_meetingtranscript566.txt') as input_file:
         _data = json.load(input_file)
         sentences = [x['sentence'] for x in _data]
 
@@ -106,7 +107,7 @@ if __name__ == '__main__':
                                                                      questions_type_classes)
 
         if not is_question:
-            classification_type = get_classification_results(sentences, loaded_model)
+            classification_type = get_classification_results(sentence, loaded_model)
 
         resultant = _data[i]
         resultant['classification_type'] = classification_type
