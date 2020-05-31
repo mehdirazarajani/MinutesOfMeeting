@@ -5,17 +5,12 @@ import json
 import re
 
 import datefinder
-from keras.models import model_from_json
 from nltk.corpus import words
 from nltk.tokenize import TweetTokenizer, word_tokenize, sent_tokenize
 from pycorenlp import StanfordCoreNLP
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.svm import SVC
-import pickle
 
-
-from sentence_classifier import get_classification_results
 
 folder_path = 'D:\MinutesOfMeeting\meeting-transcript-data-text-parser\\venv'
 # file_name = 'data_meeting_text_amazon.txt'
@@ -105,40 +100,6 @@ def get_sentiment(text):
     return res['sentences'][0]['sentiment'], res['sentences'][0]['sentimentValue']
 
 
-def get_interrogative_sentence(_sentences, nlp, question_type_clf:SVC, vocab, classes):
-    interrogative_sentences = set()
-    interrogative_sentences_type = list()
-
-    vectorizer = CountVectorizer(vocabulary=vocab, lowercase=True)
-
-    for i, _sentence in enumerate(_sentences):
-        is_question = False
-        if '?' in _sentence:
-            interrogative_sentences.add(i)
-            is_question = True
-        else:
-            output = nlp.annotate(_sentence, properties={
-                'annotators': 'parse',
-                'outputFormat': 'json',
-                'timeout': 1000,
-            })
-            if output == 'CoreNLP request timed out. Your document may be too long.':
-                interrogative_sentences_type.append('-')
-                continue
-            if ('SQ' or'SBARQ') in output['sentences'][0]["parse"]:
-                interrogative_sentences.add(i)
-                is_question = True
-        if is_question:
-            _sentence = _sentence.strip().lower()
-            _sentence = re.sub('[^a-zA-z0-9\s\']','',_sentence)
-            sentence_vector = vectorizer.transform([_sentence])
-            interrogative_sentences_type.append(classes[question_type_clf.predict(sentence_vector)[0]])
-        else:
-            interrogative_sentences_type.append('-')
-
-    return interrogative_sentences, interrogative_sentences_type
-
-
 if __name__ == '__main__':
 
     # import nltk
@@ -149,59 +110,27 @@ if __name__ == '__main__':
 
     nlp = StanfordCoreNLP('http://localhost:9000')
 
-    # tokenizer = TweetTokenizer()
-    # words_list = words.words()
-    # stopwords_list = set(stopwords.words('english'))
-    # tokens = tokenizer.tokenize('shall we start with an update from everyone?')
-    # s = is_not_word_included(words_list, tokens, stopwords_list)
-
-    json_file = open('model.json', 'r')
-    loaded_model_json = json_file.read()
-    json_file.close()
-    loaded_model = model_from_json(loaded_model_json)
-    # load weights into new model
-    loaded_model.load_weights("model.h5")
-    print("Loaded model from disk")
-
-    # evaluate loaded model on test data
-    loaded_model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-
-    with open('question-type-classifier.bin','rb') as clf_file:
-        question_type_clf = pickle.load(clf_file)
-
-    with open('vocab.bin','rb') as clf_file:
-        vocab = pickle.load(clf_file)
-
-    with open('question-type-classes.bin', 'rb') as classes_file:
-        questions_type_classes = pickle.load(classes_file)
-
     with open(folder_path + '\\' + file_name) as data_file:
         _data = json.load(data_file)
         sentences = [d['sentence'].lower() for d in _data]
         speakers = [d['speaker'] for d in _data]
         dialogue_ids = [d['dialogue_id'] for d in _data]
-        classifications = get_classification_results(sentences, loaded_model)
-        interrogative_sentences, interrogative_sentences_type = get_interrogative_sentence(sentences, nlp, question_type_clf, vocab, questions_type_classes)
-        for i in interrogative_sentences:
-            classifications[i] = 'Interrogative'
         sentences_with_not, sentences_with_date, sentences_with_figure, sentiment_with_score = find_the_features(sentences)
 
         with open("features-extracted.csv", 'w') as output_file:
             writer = csv.writer(output_file)
-            writer.writerow(['dialogue_id', 'speaker', 'sentence', 'sentence-type',
-                             'not-word-found', 'date-found', 'figure (number) found', 'sentiment-type', 'sentiment-score','question-type'])
+            writer.writerow(['dialogue_id', 'speaker', 'sentence',
+                             'not-word-found', 'date-found', 'figure (number) found', 'sentiment-type', 'sentiment-score'])
             for ind, sentence in enumerate(sentences):
                 temp = list()
                 temp.append(dialogue_ids[ind])
                 temp.append(speakers[ind])
                 temp.append(sentence)
-                temp.append(classifications[ind])
                 temp.append(ind in sentences_with_not)
                 temp.append(ind in sentences_with_date)
                 temp.append(ind in sentences_with_figure)
                 temp.append(sentiment_with_score[ind][0])
                 temp.append(sentiment_with_score[ind][1])
-                temp.append(interrogative_sentences_type[ind])
                 writer.writerow(temp)
 
         with open("features-extracted.txt", 'w') as output_file:
@@ -211,12 +140,10 @@ if __name__ == '__main__':
                 resultant["dialogue_id"] = dialogue_ids[ind]
                 resultant["speaker"] = speakers[ind]
                 resultant["sentence"] = sentence
-                resultant["sentence-type"] = classifications[ind]
                 resultant["not-word-found"] = ind in sentences_with_not
                 resultant["date-found"] = ind in sentences_with_date
                 resultant["figure (number) found"] = ind in sentences_with_figure
                 resultant["sentiment-type"] = sentiment_with_score[ind][0]
                 resultant["sentiment-score"] = sentiment_with_score[ind][1]
-                resultant["question-type"] = interrogative_sentences_type[ind]
                 resultants.append(resultant)
             json.dump(resultants, output_file)

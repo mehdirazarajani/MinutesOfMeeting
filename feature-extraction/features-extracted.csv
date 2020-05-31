@@ -1,143 +1,16 @@
-dialogue_id,speaker,sentence,sentence-type,not-word-found,date-found,figure (number) found,sentiment-type,sentiment-score,question-type
-0,CHAIRMAN FRIEDMAN,okay.,Normal,False,False,False,Positive,3,-
-0,CHAIRMAN FRIEDMAN,thank you.,Normal,False,False,False,Positive,3,-
-0,CHAIRMAN FRIEDMAN,chairman friedman just want to recognize febbie.,Task Assigned,False,False,False,Negative,1,-
-0,CHAIRMAN FRIEDMAN,this is febbie's last meeting with us.,Task Assigned,False,False,False,Positive,3,-
-0,CHAIRMAN FRIEDMAN,us will miss febbie.,Normal,False,False,False,Neutral,2,-
-0,CHAIRMAN FRIEDMAN,"but chairman friedman understand, febbie, that us'll be taken care of in you's absence, right?.",Interrogative,False,True,False,Negative,1,unknown
-1,MS. GRAY,yes.,Normal,False,False,False,Neutral,2,-
-2,CHAIRMAN FRIEDMAN,good luck to you in you's new endeavor.,Normal,False,False,False,Positive,3,-
-3,MS. GRAY,thank you.,Normal,False,False,False,Positive,3,-
-4,CHAIRMAN FRIEDMAN,"somewhere else in our's building, chairman friedman think.",Normal,False,False,False,Negative,1,-
-5,MS. GRAY,yes.,Normal,False,False,False,Neutral,2,-
-6,CHAIRMAN FRIEDMAN,"chairman friedman know we have a rather lightly attended meeting today, but chairman friedman guess let's just forge ahead.",Normal,False,False,False,Negative,1,-
-6,CHAIRMAN FRIEDMAN,"there are a bunch of announcements on the agenda, and you have the documents pertaining to the announcements in you's folder and should have received 's electronically ahead of time.",Normal,False,False,False,Negative,1,-
-6,CHAIRMAN FRIEDMAN,"the first one is director berry's responses to several letters, one from representative runyan, one from afge president gage, and the letter from the fprac labor members.",Suggestion,False,False,False,Negative,1,-
-6,CHAIRMAN FRIEDMAN,all of these letters pertain to the proposal to combine fws wage areas that lie inside of gs locality pay areas.,Normal,False,False,False,Negative,1,-
-6,CHAIRMAN FRIEDMAN,"the incoming letters, chairman friedman think you have from previous meetings.",Normal,False,False,False,Negative,1,-
-6,CHAIRMAN FRIEDMAN,"the next item is the final annual summary for 2011 that we approved at we's april meeting, and so you have the final version in you's folder.",Normal,False,True,True,Negative,1,-
-6,CHAIRMAN FRIEDMAN,chairman friedman received a memorandum from a colonel james ross regarding fws workers at the new boston air force station in new hampshire.,Normal,False,False,False,Negative,1,-
-6,CHAIRMAN FRIEDMAN,a colonel james ross is concerned about the pay disparity issue between wage grade and general schedule employees who work at the same location but are paid as if fws workers are in two different locations.,Suggestion,False,False,False,Neutral,2,-
-6,CHAIRMAN FRIEDMAN,"a response to a colonel james ross's letter is winding a response to his letter's way through we's system, and we'll share we once a response to his letter's finally cleared.",Normal,False,False,False,Positive,3,-
-6,CHAIRMAN FRIEDMAN,chairman friedman also received a letter from a mr.,Task Assigned,False,False,False,Positive,3,-
-6,CHAIRMAN FRIEDMAN,"william hanrahan, who is master of the usnps ranger iii vessel.",Task Assigned,False,False,False,Negative,1,-
-6,CHAIRMAN FRIEDMAN,chairman friedman think that the rank of master is sort of like a captain but chairman friedman'm not sure.,Normal,True,False,False,Negative,1,-
-7,MR. ALLEN,it is.,Normal,False,False,False,Neutral,2,-
-7,MR. ALLEN,the ranks of master and captain are similar.,Normal,False,False,False,Positive,3,-
-8,CHAIRMAN FRIEDMAN,"the vessel transports both passengers and cargo to and from the isle royale national park in lake superior, and mr.",Normal,False,False,False,Negative,1,-
-8,CHAIRMAN FRIEDMAN,hanrahan raises an issue concerning the members of mr.,Normal,False,False,False,Neutral,2,-
-8,CHAIRMAN FRIEDMAN,"hanrahan's crew, who are   fws employees.",Interrogative,False,False,False,Neutral,2,who
-8,CHAIRMAN FRIEDMAN,madeline is researching that issue.,Normal,False,False,False,Negative,1,-
-8,CHAIRMAN FRIEDMAN,"presumably, an issue concerning the members of his crew , who are fws employees will wind an issue concerning the members of his crew , who are fws employees's way to us at some point.",Normal,False,False,False,Positive,3,-
-9,MR. ALLEN,mr.,Normal,False,False,False,Neutral,2,-
-9,MR. ALLEN,"chairman, it's possible that this may not actually be an issue for the committee's attention.",Normal,True,True,False,Negative,1,-
-9,MR. ALLEN,the department of the interior headquarters staff is currently working with the national park service staff to figure out what the best pay approach is for the crew of the vessel.,Normal,False,False,False,Positive,3,-
-9,MR. ALLEN,the current pay system approach for the vessel is that the current pay system approach for the vessel's a set-aside wage schedule.,Normal,False,False,False,Negative,1,-
-9,MR. ALLEN,"the current pay system approach for the vessel's not been part of the federal wage system since the federal wage system was created, but the set-aside wage schedule was allowed to continue, and the rates on the wage schedule are making the current pay system approach for the vessel difficult to recruit and retain sufficient personnel to staff the vessel in a manner that master hanrahan believes is safe.",Normal,True,True,False,Negative,1,-
-9,MR. ALLEN,"so sufficient personnel will keep the committee informed about what's going on with this, but the committee informed about what 's going on with this's possible that the committee informed about what 's going on with this might be resolved without opm's or the committees need for further involvement.",Normal,False,False,False,Negative,1,-
-10,CHAIRMAN FRIEDMAN,okay.,Normal,False,False,False,Positive,3,-
-10,CHAIRMAN FRIEDMAN,"please let chairman friedman know the end result of this issue, since master hanrahan contacted chairman friedman for help.",Suggestion,False,False,False,Positive,3,-
-10,CHAIRMAN FRIEDMAN,"next item, under 575-oc-5, we got a large batch of letters from fws workers at tobyhanna, chairman friedman think in the vicinity of 400 letters.",Suggestion,False,True,True,Negative,1,-
-10,CHAIRMAN FRIEDMAN,we are working out the logistics of how to share those with the members of the committee.,Normal,False,False,False,Neutral,2,-
-10,CHAIRMAN FRIEDMAN,it appears that the easiest and best way to do we is to scan those and put those on a cd.,Suggestion,False,False,False,Positive,3,-
-10,CHAIRMAN FRIEDMAN,"we thought we'd have those by today, but a cd looks like it will be we's next meeting, perhaps, before we will be able to share those.",Task Assigned,False,False,False,Positive,3,-
-10,CHAIRMAN FRIEDMAN,"continuing on to the next item, under 575-act-1, the folks at act have beaten amazon.",Normal,False,True,True,Negative,1,-
-10,CHAIRMAN FRIEDMAN,"com to the punch and put we's working group report on the folks at act's web page, so we have that to report.",Suggestion,False,False,False,Negative,1,-
-10,CHAIRMAN FRIEDMAN,"terry garnett sent we a letter with the link, which chairman friedman have shared with you, if anybody is interested in an electronic copy of that working group report.",Task Assigned,False,False,False,Negative,1,-
-10,CHAIRMAN FRIEDMAN,"now, chairman friedman would like to call on jerry to see if there is any update on the draft proposed regulation to consolidate fws wage areas.",Normal,False,False,False,Negative,1,-
-11,MR. MIKOWICZ,mr.,Normal,False,False,False,Neutral,2,-
-11,MR. MIKOWICZ,"mikowicz would like to report that the proposed regulations have cleared through the opm program offices that ordinarily clear regulations, and they now reside with the director of opm.",Normal,False,False,False,Negative,1,-
-11,MR. MIKOWICZ,mr.,Normal,False,False,False,Neutral,2,-
-11,MR. MIKOWICZ,"mikowicz had an occasion to speak with the director tuesday afternoon along with the director of opm's deputy chief of staff, justin johnson, and they acknowledged and confirmed that the proposed regulations are in fact with the office of the director and had no further comment.",Suggestion,True,True,False,Negative,1,-
-12,CHAIRMAN FRIEDMAN,thank you.,Normal,False,False,False,Positive,3,-
-12,CHAIRMAN FRIEDMAN,"chairman friedman guess just two other quick announcements, while chairman friedman've got this captive audience.",Normal,False,False,False,Negative,1,-
-12,CHAIRMAN FRIEDMAN,"the government accountability office is working on a report on federal pay comparability, which chairman friedman believe will be released to the public very soon, if the government accountability office hasn't already.",Normal,False,False,False,Negative,1,-
-12,CHAIRMAN FRIEDMAN,the government accountability office may be of some interest to this audience.,Normal,False,True,False,Neutral,2,-
-13,MR. MIKOWICZ,"it has not yet been released, but --.",Normal,True,False,False,Negative,1,-
-14,CHAIRMAN FRIEDMAN,it is anticipated soon.,Normal,False,False,False,Positive,3,-
-14,CHAIRMAN FRIEDMAN,"and so people will probably hear about it when it comes out, but chairman friedman just want to give folks a heads-up.",Normal,False,False,False,Negative,1,-
-14,CHAIRMAN FRIEDMAN,"it is something that was requested by representative issa, chairman friedman believe, last march or thereabouts.",Normal,False,False,False,Negative,1,-
-14,CHAIRMAN FRIEDMAN,"and chairman friedman just want to report briefly that chairman friedman attended, just in the audience, an event that was sponsored by the partnership for public service on june 13th, a federal pay debate, which featured several of the folks who have done pay comparability studies, federal, non-federal, this fellow andrew biggs from american enterprise institute, somebody representing the cbo, and also rex facer, a member of the federal salary council.",Normal,False,True,True,Negative,1,-
-14,CHAIRMAN FRIEDMAN,and chairman friedman felt badly for rex.,Normal,False,False,False,Negative,1,-
-14,CHAIRMAN FRIEDMAN,"chairman friedman thought several of the folks who have done pay comparability studies , federal , non-federal , this fellow andrew biggs from american enterprise institute , somebody representing the cbo , and also rex facer , a member of the federal salary council did a pretty good job in actual fact, but chairman friedman think several of the folks who have done pay comparability studies , federal , non-federal , this fellow andrew biggs from american enterprise institute , somebody representing the cbo , and also rex facer , a member of the federal salary council's remarks were rather badly distorted in the federal times.",Normal,False,False,False,Verynegative,0,-
-14,CHAIRMAN FRIEDMAN,"a pretty good job in actual fact was an interesting session, and people who want to learn more about this whole sort of debate and controversy might be interested in taking a look at the web link or chairman friedman believe people videotaped the event.",Suggestion,False,False,False,Positive,3,-
-14,CHAIRMAN FRIEDMAN,"there was not much of an opportunity to rebut the positions of the aei fellow or even respond adequately to the cbo, but an opportunity to rebut the positions of the aei fellow was an interesting event.",Normal,True,False,False,Positive,3,-
-14,CHAIRMAN FRIEDMAN,people might find an opportunity to rebut the positions of the aei fellow of some use to take a look at an opportunity to rebut the positions of the aei fellow.,Normal,False,False,False,Negative,1,-
-14,CHAIRMAN FRIEDMAN,"so, anyway, enough of that.",Task Assigned,False,False,False,Negative,1,-
-14,CHAIRMAN FRIEDMAN,people brings us up to the minutes of us's april meeting.,Normal,False,True,False,Positive,3,-
-14,CHAIRMAN FRIEDMAN,"have people had a chance to review people, and are there any further corrections or changes? okay.",Interrogative,False,False,False,Neutral,2,affirmation
-14,CHAIRMAN FRIEDMAN,"unless there's some objection, us will adopt those minutes.",Normal,False,False,False,Negative,1,-
-14,CHAIRMAN FRIEDMAN,"hearing none, the minutes are adopted.",Task Assigned,False,False,False,Negative,1,-
-14,CHAIRMAN FRIEDMAN,"hearing none brings up old business items, of which us have five.",Normal,False,False,False,Negative,1,-
-14,CHAIRMAN FRIEDMAN,"chairman friedman believe us had decided that all these items would be discussed in the working group, unless there's some comments here that people want to make about any of people.",Normal,False,False,False,Negative,1,-
-14,CHAIRMAN FRIEDMAN,"it might also be useful to have guidance about priority, the order in which us address people in the working group, if anyone has thoughts about the working group, and if not, us will just move on to new business.",Normal,True,False,False,Negative,1,-
-14,CHAIRMAN FRIEDMAN,okay.,Normal,False,False,False,Positive,3,-
-14,CHAIRMAN FRIEDMAN,"under new business, us have two issues, both of which involve the regulation that msas should not be split between federal wage system wage areas except   in very unusual circumstances.",Suggestion,True,False,False,Negative,1,-
-14,CHAIRMAN FRIEDMAN,"if us can address msas by consensus in here, here is great.",Normal,False,False,False,Positive,3,-
-14,CHAIRMAN FRIEDMAN,"if not, chairman friedman's suggestion would be to refer msas to the working group, because there's a similar issue already there, and the general question of what to do about this long-standing regulation is something that is on the table in the working group.",Normal,True,False,False,Negative,1,-
-14,CHAIRMAN FRIEDMAN,so if chairman friedman could ask mark to first summarize for us item a.,Normal,False,False,False,Neutral,2,-
-14,CHAIRMAN FRIEDMAN,"under new business, definition of hickory-lenoir-morganton, north carolina, msa 575-mgt-1.",Suggestion,False,True,True,Negative,1,-
-15,MR. ALLEN,okay.,Normal,False,False,False,Positive,3,-
-15,MR. ALLEN,mr.,Normal,False,False,False,Neutral,2,-
-15,MR. ALLEN,"allen would agree that it might not be necessary or advisable to move forward on these two new agenda items at the committee meeting today, since we already are going to be considering the usefulness of the regulatory criterion for msas as msas apply to areas of application, but if everybody wants to move forward with these today at this committee, areas of application's fine.",Suggestion,True,False,False,Negative,1,-
-15,MR. ALLEN,but mr.,Normal,False,False,False,Neutral,2,-
-15,MR. ALLEN,allen would also note we don't have a quorum.,Normal,False,False,False,Negative,1,-
-16,CHAIRMAN FRIEDMAN,so we couldnt actually adopt these?.,Interrogative,False,False,False,Neutral,2,affirmation
-17,MR. ALLEN,no.,Task Assigned,True,False,False,Neutral,2,-
-18,CHAIRMAN FRIEDMAN,is that under our's rules?.,Interrogative,False,False,False,Neutral,2,unknown
-19,MR. FISHER,"we don't have enough labor here, mr.",Normal,False,False,False,Neutral,2,-
-19,MR. FISHER,fisher think.,Normal,False,False,False,Neutral,2,-
-20,CHAIRMAN FRIEDMAN,so in view of that --.,Task Assigned,False,False,False,Neutral,2,-
-21,MR. ALLEN,mr.,Normal,False,False,False,Neutral,2,-
-21,MR. ALLEN,"allen can introduce them, anyways, just quickly.",Normal,False,False,False,Negative,1,-
-22,CHAIRMAN FRIEDMAN,"well, okay.",Normal,False,False,False,Positive,3,-
-23,MR. ALLEN,it's just a matter of reading.,Normal,False,False,False,Neutral,2,-
-23,MR. ALLEN,mr.,Normal,False,False,False,Neutral,2,-
-23,MR. ALLEN,allen try not to be pedantic.,Normal,True,False,False,Negative,1,-
-23,MR. ALLEN,"under 575-mgt-1, the management members recommend that alexander and catawba counties be redefined to the asheville wage areas area of application.",Normal,False,True,True,Negative,1,-
-23,MR. ALLEN,"alexander, burke, caldwell, and catawba counties, north carolina, comprise the hickory-lenoir-morganton, north carolina, msa, and that msa is currently split between asheville, north carolina, and charlotte, north carolina, wage areas.",Normal,False,False,False,Verynegative,0,-
-23,MR. ALLEN,"under opm's regulatory criterion, unless there's some exceptional reason for having the msa split, all the counties should be combined under one wage area.",Task Assigned,False,False,False,Negative,1,-
-23,MR. ALLEN,"under 575-mgt-2, we have a management recommendation to move mercer county to the cleveland wage areas area of application.",Normal,False,True,True,Negative,1,-
-23,MR. ALLEN,"trumbull and mahoning counties, ohio, and mercer county, pennsylvania, comprise the youngstown-warren-boardman, ohio-pennsylvania msa.",Suggestion,False,False,False,Verynegative,0,-
-23,MR. ALLEN,"the youngstown-warren-boardman, ohio- pennsylvania msa is split between the cleveland, oh, and pittsburgh, pa, wage areas.",Task Assigned,False,False,False,Negative,1,-
-23,MR. ALLEN,"and again, as with the previous case, that entire msa under opm's regulatory criterion currently should be combined under just one wage area.",Task Assigned,False,False,False,Negative,1,-
-24,CHAIRMAN FRIEDMAN,okay.,Normal,False,False,False,Positive,3,-
-24,CHAIRMAN FRIEDMAN,"well, chairman friedman guess we will just defer any further action on those, since we don't really have a quorum.",Normal,False,False,False,Negative,1,-
-24,CHAIRMAN FRIEDMAN,"the other new business item is something that afge has proposed, which is to review the federal wage system appropriated and nonappropriated fund operating manuals, which chairman friedman think is an interesting and in many ways good idea, but since the afge members are not here, we probably ought to just kick we can down the road too.",Normal,True,False,False,Negative,1,-
-25,MR. ALLEN,mr.,Normal,False,False,False,Neutral,2,-
-25,MR. ALLEN,"allen had a brief conversation with jacque a couple of weeks ago about some questions that a couple of weeks received some questions were not covered in the appropriated fund operating manual or were insufficiently covered, but mr.",Suggestion,True,False,False,Negative,1,-
-25,MR. ALLEN,allen haven't heard what the exact proposals would be for adding something to the operating manuals or whether it might be more appropriate to add something to regulation.,Normal,False,False,False,Neutral,2,-
-25,MR. ALLEN,"regulation tends to be more permanent, because of the administrative procedures act public comment period.",Normal,False,False,False,Negative,1,-
-25,MR. ALLEN,"so once we do have something before we, you can take a look at a look and see what the appropriate way of handling would be, with the committee's advice.",Normal,False,False,False,Positive,3,-
-26,CHAIRMAN FRIEDMAN,okay.,Normal,False,False,False,Positive,3,-
-26,CHAIRMAN FRIEDMAN,so we will address that next time.,Normal,False,False,False,Positive,3,-
-26,CHAIRMAN FRIEDMAN,"unless there is any further -- yes, sir?.",Interrogative,False,False,False,Negative,1,affirmation
-27,MR. SHULMAN,mr.,Normal,False,False,False,Neutral,2,-
-27,MR. SHULMAN,"shulman just wanted to make note of a new member of the wage staff, appropriated fund side.",Normal,False,False,False,Neutral,2,-
-27,MR. SHULMAN,mr.,Normal,False,False,False,Neutral,2,-
-27,MR. SHULMAN,"gary kistner, who introduced gary kistner up front, has taken over for karl fendt in gary kistner's analyst role.",Normal,False,False,False,Negative,1,-
-27,MR. SHULMAN,gary kistner was on the naf side of the house until a couple weeks ago.,Task Assigned,False,False,False,Negative,1,-
-28,MR. ALLEN,another turncoat.,Task Assigned,False,False,False,Neutral,2,-
-29,MR. KISTNER,"good morning, everyone.",Normal,False,False,False,Positive,3,-
-30,MR. SHULMAN,"this is his's first and certainly not his's last fprac meeting, so mr.",Normal,True,False,False,Negative,1,-
-30,MR. SHULMAN,shulman want everyone to know who his is.,Normal,False,False,False,Neutral,2,-
-31,CHAIRMAN FRIEDMAN,welcome.,Task Assigned,False,False,False,Positive,3,-
-31,CHAIRMAN FRIEDMAN,thank you for joining us.,Normal,False,False,False,Positive,3,-
-32,MR. KISTNER,thank you.,Normal,False,False,False,Positive,3,-
-33,MR. CHASE,this is mr.,Task Assigned,False,False,False,Neutral,2,-
-33,MR. CHASE,chase's first meeting as well.,Task Assigned,False,False,False,Positive,3,-
-33,MR. CHASE,ann marie hannon was the va representative.,Suggestion,False,False,False,Negative,1,-
-33,MR. CHASE,"ann marie hannon had an advancement opportunity at the department of homeland security, which ann marie hannon took advantage of, and ann marie hannon started there this week.",Suggestion,False,False,False,Negative,1,-
-33,MR. CHASE,so mr.,Normal,False,False,False,Neutral,2,-
-33,MR. CHASE,chase'll be representing va from here.,Normal,False,False,False,Neutral,2,-
-33,MR. CHASE,mr.,Normal,False,False,False,Neutral,2,-
-33,MR. CHASE,chase am the human resources management policy and planning person for veterans affairs.,Normal,False,False,False,Neutral,2,-
-34,CHAIRMAN FRIEDMAN,and welcome to you as well.,Normal,False,False,False,Positive,3,-
-34,CHAIRMAN FRIEDMAN,thank you for joining us.,Normal,False,False,False,Positive,3,-
-34,CHAIRMAN FRIEDMAN,us appreciate that.,Task Assigned,False,False,False,Neutral,2,-
-34,CHAIRMAN FRIEDMAN,"well, unless there's some objection -- well, is there any other new business? are there any other items people want to bring up? if not, us can begin us's working group meeting in 10 minutes in the small pendleton room.",Interrogative,True,True,True,Negative,1,affirmation
-34,CHAIRMAN FRIEDMAN,is there a motion to adjourn?.,Interrogative,False,False,False,Negative,1,affirmation
-35,MR. PHELPS,motion to adjourn.,Normal,False,False,False,Neutral,2,-
-36,MR. SHULMAN,motion seconded.,Normal,False,False,False,Neutral,2,-
-37,CHAIRMAN FRIEDMAN,"hearing no objection, we are adjourned.",Normal,True,False,False,Negative,1,-
-37,CHAIRMAN FRIEDMAN,--.,Normal,False,False,False,Neutral,2,-
+dialogue_id,speaker,sentence,not-word-found,date-found,figure (number) found,sentiment-type,sentiment-score
+0,spk_0,only minutes to carter during the proceedings so that an accurate mooting record exists.,False,False,False,Negative,1
+1,spk_0,ofour transpire.,False,False,False,Neutral,2
+2,spk_0,doing minutes are life written record off the meeting.,False,False,False,Negative,1
+3,spk_0,they include the list off the attendees issues raised really responses and the final decision taken toe ag reservations.,False,False,False,Negative,1
+4,spk_0,"the purpose is to record what actions have bean assigned toe room , along with the signals and the red light.",False,False,False,Negative,1
+5,spk_0,also known as the protocol or minutes of a meeting normally include the following elements.,False,False,False,Negative,1
+6,spk_0,name of the company to the top left of the beach did to the top right off the page.,False,False,False,Positive,3
+7,spk_0,"topic after tour "" topic after tour and keys central identities , name and the designation absentees names rolls.",False,False,False,Positive,3
+8,spk_0,reason off.,False,False,False,Neutral,2
+9,spk_0,absent.,False,False,False,Neutral,2
+10,spk_0,i didn't know topic to be discussed.,False,False,False,Negative,1
+11,spk_0,issue raised along with the name off the speaker.,False,False,False,Negative,1
+12,spk_0,suggestions made along with the name of the speaker decision.,False,False,False,Neutral,2
+13,spk_0,the outcome of the movie dust list does a located and respective allergy future.,False,False,False,Negative,1
+14,spk_0,"reading the date and the topic off the next movie great , but how 0 is don't give you noted thanks well , the only decent says the only decent's like recorded street off the meeting.",False,False,True,Negative,1
