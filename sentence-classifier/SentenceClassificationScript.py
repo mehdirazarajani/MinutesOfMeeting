@@ -96,7 +96,7 @@ if __name__ == '__main__':
 
     sentences = ['Hi']
 
-    with open('data_meeting_text_pdf_meetingtranscript566.txt') as input_file:
+    with open('data_meeting_text_pronoun.txt') as input_file:
         _data = json.load(input_file)
         sentences = [x['sentence'] for x in _data]
 
@@ -112,8 +112,6 @@ if __name__ == '__main__':
         resultant = _data[i]
         resultant['classification_type'] = classification_type
         resultants.append(resultant)
-
-    print(resultants)
 
     with open('classification.json', 'w') as output_file:
         json.dump(resultants, output_file)

@@ -70,7 +70,7 @@ def spacy_tokenizer(sentence):
 if __name__ == '__main__':
     k = 4
     NUM_TOPICS_PER_CLUSTER = 20
-    file = "data_meeting_text_pdf_meetingtranscript566.txt"
+    file = "data_meeting_text_pronoun.txt"
 
     punctuations = string.punctuation
     stopwords = list(STOP_WORDS)
@@ -98,8 +98,17 @@ if __name__ == '__main__':
     y_pred_agglomerativeClustering = agglomerativeClustering.fit_predict(A_reduced)
     df['cluster'] = y_pred_agglomerativeClustering
 
+    resultants = []
+    for i in range(0, df.shape[0]):
+        data = df.iloc[i]
+        resultant = {'dialogue_id': int(data['dialogue_id']),
+                     'sentence': data['sentence'],
+                     'speaker': data['speaker'],
+                     'cluster': str(data['cluster'])}
+        resultants.append(resultant)
+
     with open('clusters.txt', 'w') as file:
-        json.dump(df.to_json(), file)
+        json.dump(resultants, file)
 
     vectorizers = []
 
@@ -114,7 +123,6 @@ if __name__ == '__main__':
             vectorized_data.append(cvec.fit_transform(df.loc[df['cluster'] == current_cluster, 'processed_text']))
         except Exception as e:
             vectorized_data.append(None)
-
 
     lda_models = []
     for ii in range(0, k):

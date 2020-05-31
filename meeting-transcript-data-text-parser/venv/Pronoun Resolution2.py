@@ -134,7 +134,7 @@ if __name__ == '__main__':
     # text = "Tom and Jane are good friends. They are cool. He knows a lot of things and so does she. His car is red, but " \
     #        "hers is blue. It is older than hers. The big cat ate its dinner."
 
-    with open('data_meeting_text_amazon_2.txt') as input_file:
+    with open('data_meeting_text_pdf_meetingtranscript566.txt') as input_file:
         input_data = json.load(input_file)
         text_arr = [cur_data['speaker'].replace(':', '') + ''' said "''' + cur_data['sentence'].replace('''"''', '') for cur_data in input_data]
         outputs = []

@@ -1,16 +1,374 @@
 dialogue_id,speaker,sentence,not-word-found,date-found,figure (number) found,sentiment-type,sentiment-score
-0,spk_0,only minutes to carter during the proceedings so that an accurate mooting record exists.,False,False,False,Negative,1
-1,spk_0,ofour transpire.,False,False,False,Neutral,2
-2,spk_0,doing minutes are life written record off the meeting.,False,False,False,Negative,1
-3,spk_0,they include the list off the attendees issues raised really responses and the final decision taken toe ag reservations.,False,False,False,Negative,1
-4,spk_0,"the purpose is to record what actions have bean assigned toe room , along with the signals and the red light.",False,False,False,Negative,1
-5,spk_0,also known as the protocol or minutes of a meeting normally include the following elements.,False,False,False,Negative,1
-6,spk_0,name of the company to the top left of the beach did to the top right off the page.,False,False,False,Positive,3
-7,spk_0,"topic after tour "" topic after tour and keys central identities , name and the designation absentees names rolls.",False,False,False,Positive,3
-8,spk_0,reason off.,False,False,False,Neutral,2
-9,spk_0,absent.,False,False,False,Neutral,2
-10,spk_0,i didn't know topic to be discussed.,False,False,False,Negative,1
-11,spk_0,issue raised along with the name off the speaker.,False,False,False,Negative,1
-12,spk_0,suggestions made along with the name of the speaker decision.,False,False,False,Neutral,2
-13,spk_0,the outcome of the movie dust list does a located and respective allergy future.,False,False,False,Negative,1
-14,spk_0,"reading the date and the topic off the next movie great , but how 0 is don't give you noted thanks well , the only decent says the only decent's like recorded street off the meeting.",False,False,True,Negative,1
+0,CHAIRMAN FRIEDMAN,"thank you, everyone, and good morning again.",False,False,False,Positive,3
+1,CHAIRMAN FRIEDMAN,we have a couple of announcements.,False,False,False,Neutral,2
+2,CHAIRMAN FRIEDMAN,"you have received those, and those're in you's kits: a review of labor membership on fprac, and director berry's response to the letter director berry 's received from the new jersey congressional delegation.",False,False,False,Negative,1
+3,CHAIRMAN FRIEDMAN,"unless there are any questions or discussion about either of those items, we'll move on.",False,False,False,Negative,1
+4,CHAIRMAN FRIEDMAN,is there anything on either of those?.,False,False,False,Neutral,2
+5,CHAIRMAN FRIEDMAN,okay.,False,False,False,Positive,3
+6,CHAIRMAN FRIEDMAN,"the minutes of the last meeting, chairman friedman know we got those out rather late to people this time.",False,False,False,Negative,1
+7,CHAIRMAN FRIEDMAN,"if it is your's preference, we can defer approval of the transcript until the next meeting.",False,False,False,Negative,1
+8,MR. SHULMAN,please.,False,False,False,Positive,3
+9,CHAIRMAN FRIEDMAN,okay.,False,False,False,Positive,3
+10,CHAIRMAN FRIEDMAN,why don't we just do we since we were so late.,False,False,False,Negative,1
+11,CHAIRMAN FRIEDMAN,it was vacations.,False,False,False,Neutral,2
+12,CHAIRMAN FRIEDMAN,chairman friedman won't bore you with the details.,False,False,False,Negative,1
+13,CHAIRMAN FRIEDMAN,"we'll make sure it doesn't happen again, anyway.",False,False,False,Negative,1
+14,CHAIRMAN FRIEDMAN,"bringing up then old business, first item is review of lee county, virginia, and there's a couple of new business items that bear on virginia, so why don't we hold off, chairman friedman suggest, until we get to the new business section.",False,False,False,Verynegative,0
+15,CHAIRMAN FRIEDMAN,"the work group, chairman friedman wonder if we can get the work group off the agenda for now.",False,False,False,Negative,1
+16,CHAIRMAN FRIEDMAN,that's the in-abeyance work group that we're going to revisit.,False,False,False,Neutral,2
+17,CHAIRMAN FRIEDMAN,there's really nothing new on that.,False,False,False,Negative,1
+18,CHAIRMAN FRIEDMAN,"on the -lrb-c-rrb- item, special wage schedule pay practice for army corps of engineers lock and dam fws employees, barbara, do you have anything new to report on dam fws employees?.",False,False,False,Negative,1
+19,CHAIRMAN FRIEDMAN,"you mentioned the last time, you might have some information that bears on the last time, not to put you on the spot.",True,False,False,Negative,1
+20,MS. WALKER,"well, we did provide the study to the corps of engineers, and they've given ms.",False,False,False,Positive,3
+20,MS. WALKER,"walker a heads-up on what they would like to see happen, just they would like to remain status quo.",False,False,False,Negative,1
+21,MS. WALKER,there is no real justification for why we would change it at this point.,True,False,False,Negative,1
+22,MS. WALKER,there's not enough information to really tell which employees it is that they're talking about.,True,False,False,Negative,1
+23,MS. WALKER,"there's a lot of different lock and dam employees, and a lot of a lot of different lock and dam employees would be based on what position descriptions different lock and dam employees are in.",False,False,False,Negative,1
+24,MS. WALKER,do they typically travel?.,False,False,False,Neutral,2
+25,MS. WALKER,is that a part of their's regular reoccurring duties to travel to different sites and locations to do repair work and operations work?.,False,False,False,Positive,3
+26,MS. WALKER,are they on a tdy when they do that?.,False,False,False,Neutral,2
+27,MS. WALKER,"it is not a permanent duty assignment, ms.",True,False,False,Negative,1
+27,MS. WALKER,"walker would think, but we need a little more information about which specific positions they're talking about.",False,False,False,Neutral,2
+28,CHAIRMAN FRIEDMAN,"well, the request came in originally pertaining to northwest arkansas, chairman friedman believe, but chairman friedman guess the request does have broader implications.",False,False,False,Negative,1
+29,CHAIRMAN FRIEDMAN,is there any other discussion on this one at this point?.,False,False,False,Neutral,2
+30,CHAIRMAN FRIEDMAN,"chairman friedman think at some point, we're going to have to focus on some point, but chairman friedman guess some point will not be this morning, unless people have more on this right now.",True,False,False,Negative,1
+31,CHAIRMAN FRIEDMAN,that brings up item -lrb-d-rrb-.,False,False,False,Neutral,2
+32,CHAIRMAN FRIEDMAN,"we have also agreed to have a conversation in the work group about that one, the south bend-mishawaka msa as part of a broader conversation about how wage areas are defined.",False,False,False,Neutral,2
+33,CHAIRMAN FRIEDMAN,"then we now come to -lrb-e-rrb-, the management proposal to abolish montgomery, pennsylvania, a nonappropriated fund wage area, to which there was a labor counter-proposal last time, and management folks said management folks needed more time to consider last time.",False,False,False,Verynegative,0
+34,CHAIRMAN FRIEDMAN,"should we review the specifics, or is there any response at this point from management?.",False,False,False,Negative,1
+35,MR. ALLEN,mr.,False,False,False,Neutral,2
+35,MR. ALLEN,"chairman, mr.",False,False,False,Neutral,2
+35,MR. ALLEN,"allen think we need to decide on this, this one at this meeting today, because there is a wage survey that's scheduled for august, which is not such a big deal, as long as we have a recommendation from the committee on what to do with the employees, because there is currently no capability of conducting a local wage survey in that wage area.",True,True,False,Negative,1
+36,MR. ALLEN,mr.,False,False,False,Neutral,2
+36,MR. ALLEN,"allen believe what the suggestion was from a member from nage at the last meeting was to move chester county, pennsylvania, into the burlington wage area.",False,False,False,Negative,1
+37,MR. ALLEN,"we went back and looked at the regulatory criteria analysis that the department of defense had done through the dod wage committee, and we really don't see any way that we could at opm justify issuing a regulation to define chester county to the burlington wage area.",False,False,False,Verynegative,0
+38,MR. ALLEN,"when we look at the regulatory criteria, the first criterion is distance, and chester county is almost twice as far away at least from the point we do the measurement from, from burlington county as the measurement is from harford county.",False,False,False,Negative,1
+39,MR. ALLEN,mr.,False,False,False,Neutral,2
+39,MR. ALLEN,"allen also took a closer look at other wage areas surrounding, and the york wage area would actually be closer than the burlington wage area.",False,False,False,Negative,1
+40,MR. ALLEN,"when i looked at the commuting patterns, commuting out of chester county is actually less than a quarter of a percent to any of the surrounding naf survey areas, so that to i is really a nonfactor.",False,False,False,Negative,1
+41,MR. ALLEN,so mr.,False,False,False,Neutral,2
+41,MR. ALLEN,"allen think what we're really looking at is proximity, and mr.",False,False,False,Negative,1
+41,MR. ALLEN,allen think we really do need to stick with the concept that proximity is really what drives the need to define areas of application for nonappropriated fund wage areas.,False,False,False,Negative,1
+42,MR. ALLEN,"they're a little bit different than how we define the appropriated fund areas, because we have to define every county to the appropriated fund system, and the law was written a little differently for how nonappropriated fund wage areas are to be defined.",False,False,False,Negative,1
+43,MR. ALLEN,that's about all that have on that one.,False,False,False,Neutral,2
+44,CHAIRMAN FRIEDMAN,"just so chairman friedman understand, you're basically sticking with you's original proposal and not agreeing to the suggested change proposed by labor?.",True,False,False,Negative,1
+45,MR. ALLEN,we've taken a careful look at a careful look.,False,False,False,Neutral,2
+46,MR. ALLEN,we really don't see how we could justify.,False,False,False,Negative,1
+47,CHAIRMAN FRIEDMAN,any discussion?.,False,False,False,Neutral,2
+48,CHAIRMAN FRIEDMAN,are there any questions?.,False,False,False,Neutral,2
+49,MR. ELDER,mr.,False,False,False,Neutral,2
+49,MR. ELDER,elder do have a question.,False,False,False,Neutral,2
+50,MR. ELDER,at what point do you use to measure the proximity?.,False,False,False,Neutral,2
+51,MR. ELDER,how do you measure that from burlington county to chester county?.,False,False,False,Neutral,2
+52,MR. ALLEN,"it's measured from the location where the main employment location is, so it's measured from coatesville, pennsylvania, which is in chester county.",False,False,False,Negative,1
+53,MR. ALLEN,that's the location of the va medical center that's there.,False,False,False,Neutral,2
+54,MR. ALLEN,"if you look at a map, what you actually see is philadelphia, the city and the suburbs of philadelphia, east of coatesville, and then there's a lot of rural area west of coatesville.",False,False,False,Negative,1
+55,MR. ELDER,"so, mr.",False,False,False,Neutral,2
+55,MR. ELDER,"elder mean, it would seem, given what was proposed, the proposal was to move philadelphia and montgomery county into burlington and retain new castle in the burlington area.",False,False,False,Negative,1
+56,MR. ELDER,"it would seem, just from looking at the map, chester county is at least as close to burlington as new castle.",False,False,False,Negative,1
+57,MR. ELDER,"so it doesn't make sense to define chester into a county to the west, to the southwest, with a smaller population than defining a county to the west into the larger population and larger area containing philadelphia and burlington.",False,False,False,Negative,1
+58,MR. ELDER,it would seem to mr.,False,False,False,Neutral,2
+58,MR. ELDER,elder this particular area should be defined into burlington.,False,False,False,Negative,1
+59,MR. ELDER,mr.,False,False,False,Neutral,2
+59,MR. ELDER,"elder mean, if you're putting philadelphia into this wage area, philadelphia would seem to shift the center of the burlington wage area, the center of their's employment, west toward chester county, whereas before the center of the burlington wage area , the center of their employment might have been further east in burlington county.",False,False,False,Negative,1
+60,CHAIRMAN FRIEDMAN,what page is the map that you're referring to?.,False,False,False,Neutral,2
+61,MR. ELDER,it's a part of 564-mgt-3.,False,True,True,Neutral,2
+62,MR. ELDER,it's one of the last pages.,False,False,False,Neutral,2
+63,MR. ELDER,the one mr.,False,False,False,Neutral,2
+63,MR. ELDER,"elder'm looking at says current regulations, but there's another map in there as well closer to the front.",False,False,False,Neutral,2
+64,MR. ELDER,mr.,False,False,False,Neutral,2
+64,MR. ELDER,"elder think it's enclosure 1, the proposed regulation, it shows the proposed distribution of the counties.",False,True,True,Negative,1
+65,MR. ALLEN,okay.,False,False,False,Positive,3
+66,MR. ALLEN,"what the management proposal does is the management proposal looks at each county in the current montgomery wage area, and the management proposal looks at the opm regulatory criteria generally.",False,False,False,Negative,1
+67,MR. ALLEN,"the first criterion looked at is proximity, and mr.",False,False,False,Positive,3
+67,MR. ALLEN,allen think the committee has agreed the committee's the primary criterion to look at.,False,False,False,Neutral,2
+68,MR. ALLEN,"the other criteria are actually kind of indeterminate, and the primary reason that the management proposal recommends moving chester county to the harford wage area is proximity from the location where the employees work at the va medical center in chester county to the host installation for the harford wage area, which is aberdeen proving ground.",False,False,False,Negative,1
+69,MR. ELDER,right.,False,False,False,Positive,3
+70,MR. ELDER,mr.,False,False,False,Neutral,2
+70,MR. ELDER,"elder mean, that still doesn't address the point that mr.",False,False,False,Negative,1
+70,MR. ELDER,"elder made just a moment ago that philadelphia should really be considered more of the center now, given the new boundaries of this wage area.",False,False,False,Positive,3
+71,MR. ELDER,"it should really be considered the center for the definition of the burlington area, and burlington would move burlington closer to chester county and move a larger number of employees, mr.",False,False,False,Positive,3
+71,MR. ELDER,"elder'm sure, than are in the harford area.",False,False,False,Neutral,2
+72,MR. ELDER,so that would further weight the distribution toward moving chester into the burlington wage area.,False,False,False,Negative,1
+73,MR. ALLEN,"actually, what would happen is the city of philadelphia would not be surveyed any longer, because there would be too few nonappropriated fund employees there to support a separate wage survey.",True,False,False,Negative,1
+74,MR. ALLEN,"the center of that wage area actually shifts over to burlington county, which is why the distances are measured from what would be each area of application county to the closest survey area, which is the reason why we're recommending that chester county be part of the harford wage area.",False,False,False,Negative,1
+75,MR. ALLEN,"when we look at distance, mr.",False,False,False,Neutral,2
+75,MR. ALLEN,"allen think it's something like 48 miles to harford county and 78 miles to burlington, so it's sort of skipping over philadelphia because the labor market in philadelphia for nonappropriated fund employment and the way that the wage schedule is determined, is actually no longer relevant to how pay is set in that wage area.",True,True,True,Negative,1
+76,MR. ELDER,"philadelphia seems like an awfully strange place to just skip over, but for these purposes -- but what about new castle county?.",False,False,False,Negative,1
+77,MR. ELDER,that is also in the burlington area.,False,False,False,Neutral,2
+78,MR. ELDER,how do you justify leaving chester out while leaving new castle in the burlington area?.,False,False,False,Neutral,2
+79,MR. ALLEN,there was a review of new castle county some years ago.,False,False,False,Neutral,2
+80,MR. ALLEN,mr.,False,False,False,Neutral,2
+80,MR. ALLEN,"allen'm not sure exactly when, but there was a recommendation from the committee to have it as part of the burlington wage area, probably again based on distance primarily.",True,False,False,Negative,1
+81,MR. ELDER,parts of new castle seem to be further from the center of burlington than chester.,False,False,False,Negative,1
+82,MR. ELDER,that's mr.,False,False,False,Neutral,2
+82,MR. ELDER,elder's main concern there.,False,False,False,Neutral,2
+83,MR. ALLEN,"what we have been seeing with nonappropriated fund wage areas is that there have been multiple abolishments of wage areas over the years as bases have closed, so i can't really claim that every county that's currently defined, if you look at it on the map, that it makes absolute sense if you're looking at patterns with these things, but there was a rationale at some point for fprac to recommend that opm define the counties in a certain way.",False,False,False,Verynegative,0
+84,MR. ELDER,mr.,False,False,False,Neutral,2
+84,MR. ELDER,elder'm sure there was a rationale.,False,False,False,Negative,1
+85,MR. ELDER,it just depends on whether or not we think it makes sense.,True,False,False,Negative,1
+86,MR. ELDER,mr.,False,False,False,Neutral,2
+86,MR. ELDER,elder appreciate that.,False,False,False,Neutral,2
+87,MR. ELDER,thank you.,False,False,False,Positive,3
+88,MR. ELDER,"thank you, mark.",False,True,False,Positive,3
+89,MR. ELDER,mr.,False,False,False,Neutral,2
+89,MR. ELDER,elder can see that you're not going to change you's opinion.,True,False,False,Negative,1
+90,MR. ELDER,"our's recommendation to keep chester county in the burlington area, to put chester county in the burlington area does stand, though.",False,False,False,Negative,1
+91,CHAIRMAN FRIEDMAN,"since there is obviously not consensus on this one, do you want to make a motion, have a vote?.",True,False,False,Negative,1
+92,MR. ALLEN,we would like to caucus.,False,False,False,Neutral,2
+93,CHAIRMAN FRIEDMAN,okay.,False,False,False,Positive,3
+94,CHAIRMAN FRIEDMAN,chairman friedman believe we have the small pendleton room available for caucuses.,False,False,False,Negative,1
+95,CHAIRMAN FRIEDMAN,we are back in session.,False,False,False,Neutral,2
+96,CHAIRMAN FRIEDMAN,"mark, is there anything you want to report from you's caucus?.",False,False,False,Negative,1
+97,MR. ALLEN,"yes, mr.",False,False,False,Neutral,2
+97,MR. ALLEN,chairman.,False,False,False,Neutral,2
+98,MR. ALLEN,we discussed this pretty much in depth.,False,False,False,Positive,3
+99,MR. ALLEN,we're of the same opinion as stated in the management proposal.,False,False,False,Neutral,2
+100,MR. ALLEN,just taking a look at the regulation here for 532.,False,True,True,Neutral,2
+100,MR. ALLEN,"219 -lrb-c-rrb--lrb-1-rrb-, which is what drives how opm defines nonappropriated fund wage areas, a look at the regulation here for 532.",False,True,True,Verynegative,0
+100,MR. ALLEN,"219 -lrb- c -rrb- -lrb- 1 -rrb- , which is what drives how opm defines nonappropriated fund wage areas says, two or more counties may be combined to constitute a single wage area through consideration of.",False,True,True,Negative,1
+101,MR. ALLEN,mr.,False,False,False,Neutral,2
+101,MR. ALLEN,allen think we need some additional justification why we should change that practice at this point.,False,False,False,Negative,1
+102,MR. ELDER,"well, mr.",False,False,False,Positive,3
+102,MR. ELDER,"elder wouldn't say you need additional justification; however, mr.",False,False,False,Negative,1
+102,MR. ELDER,"elder have been told there is a precedent, if you're looking for additional justification, mr.",False,False,False,Neutral,2
+102,MR. ELDER,elder guess.,False,False,False,Neutral,2
+103,MR. ELDER,"that would be a precedent for moving entire nonappropriated fund areas from one when dissolving things, as in we're dissolving one here, for moving the entire wage area from one area into another, into a new area, which would justify moving bucks, montgomery, philadelphia, chester, and luzerne over into the burlington area.",False,True,False,Negative,1
+104,MS. SIMON,"mark, isn't that true?.",False,False,False,Negative,1
+105,MS. SIMON,isn't there also precedent for retaining the cluster of counties within a single wage area?.,False,False,False,Negative,1
+106,MR. ALLEN,mr.,False,False,False,Neutral,2
+106,MR. ALLEN,allen think that's true.,False,False,False,Neutral,2
+107,MR. ALLEN,mr.,False,False,False,Neutral,2
+107,MR. ALLEN,"allen would have to go back and look to see what precedent-setting cases there might have been in the past, but the past would take us time to do the past.",False,False,False,Negative,1
+108,MS. SIMON,"well, ms.",False,False,False,Positive,3
+108,MS. SIMON,"simon think it's important, because a lot of that time when we have these questions that could go one way or another, we cite precedent on what we've done in the past, and there are operational reasons for wanting to retain the cluster as-is and not break another up and send another off in different directions.",True,False,False,Negative,1
+109,MS. SIMON,"and we think it makes the most sense, certainly, in this situation.",False,False,False,Neutral,2
+110,MS. SIMON,you look at a map.,False,False,False,Neutral,2
+111,MS. SIMON,"there may be, depending again on the points of departure you use for you's measurement, a few miles here or there, but the fact of the matter is this isn't a cohesive metropolitan area, and we think that both the precedent of retaining the cluster and the other factors that are listed below distance favor keeping them all together.",False,True,False,Negative,1
+112,CHAIRMAN FRIEDMAN,do you have a response?.,False,False,False,Neutral,2
+113,CHAIRMAN FRIEDMAN,how would you like to proceed here?.,False,False,False,Neutral,2
+114,MR. ALLEN,"if the committee does want to defer this to the next meeting, the next meeting's what the committee would take for us to do some background research and see if entire nonappropriated fund wage areas have been moved and what kind of shape and form might have taken place.",False,False,False,Negative,1
+115,CHAIRMAN FRIEDMAN,"well, given that wages are actually frozen right now, chairman friedman know you have a schedule to keep in terms of surveys, but given that wages are actually frozen right now, might chairman friedman suggest we defer?.",False,False,False,Negative,1
+116,CHAIRMAN FRIEDMAN,is there any strong reason not to?.,True,False,False,Neutral,2
+117,MR. ALLEN,no.,True,False,False,Neutral,2
+118,CHAIRMAN FRIEDMAN,so chairman friedman guess we will all do some more research and hopefully next month actually reach a resolution on this one.,False,False,False,Negative,1
+119,MR. ELDER,thank you.,False,False,False,Positive,3
+120,CHAIRMAN FRIEDMAN,"which brings up -lrb-f-rrb-, the proposal from afge to move monroe county from the scranton-wilkes-barre wage area to the new york wage area.",False,False,False,Negative,1
+121,CHAIRMAN FRIEDMAN,anything new on that right now?.,False,False,False,Neutral,2
+122,MS. SIMON,no.,True,False,False,Neutral,2
+123,CHAIRMAN FRIEDMAN,is that one we wish to defer for now?.,False,False,False,Negative,1
+124,MR. ALLEN,"as a matter of old business, yes, mr.",False,False,False,Neutral,2
+124,MR. ALLEN,chairman.,False,False,False,Neutral,2
+125,CHAIRMAN FRIEDMAN,okay.,False,False,False,Positive,3
+126,CHAIRMAN FRIEDMAN,"that brings that to new business, and the first three items relate to the discussion that were having about lee county and whether some of the work that the fprac work group in 2008, before chairman friedman's time, was doing might bear on situations like lee county.",False,True,True,Neutral,2
+127,CHAIRMAN FRIEDMAN,so we have the employment breakdown by county for the east tennessee wage area.,False,False,False,Neutral,2
+128,CHAIRMAN FRIEDMAN,"we have the list of small, low-populated wage areas.",False,False,False,Negative,1
+129,CHAIRMAN FRIEDMAN,"we have the various options that were under consideration in the work group in 2008 and then brought back to fprac in that year but, as chairman friedman understand consideration in the work group in 2008, not actually -- well, let chairman friedman get this right.",True,True,True,Negative,1
+130,CHAIRMAN FRIEDMAN,chairman friedman guess there were votes on those.,False,False,False,Negative,1
+131,CHAIRMAN FRIEDMAN,chairman friedman'm a little bit fuzzy on the outcome.,False,False,False,Negative,1
+132,CHAIRMAN FRIEDMAN,"chairman friedman know we've had this conversation, mark.",False,True,False,Negative,1
+133,CHAIRMAN FRIEDMAN,"no recommendations went forward -- no, wait.",True,False,False,Negative,1
+134,CHAIRMAN FRIEDMAN,"recommendations went forward to the director, but they weren't implemented at that time; is that correct?.",False,False,False,Negative,1
+135,CHAIRMAN FRIEDMAN,chairman friedman'm talking now about 545-oc-1.,False,True,True,Negative,1
+136,MR. ALLEN,"545-oc-1, yes.",False,True,True,Neutral,2
+137,MR. ALLEN,"what happened after the conclusion of the working group -- this would have been in 2008 -- fprac had deferred most of the conclusion of the working group -- this would have been in 2008 -- fprac's business while the working group was taking place, and the working group could not come to consensus on one of five options that were mapped out on how to adjust the rules under which the committee would operate.",True,True,True,Negative,1
+138,MR. ALLEN,"the main point of disagreement was on whether to use gs locality pay areas or not, and there was eventually a majority vote to use, mr.",True,False,False,Negative,1
+138,MR. ALLEN,"allen believe the main point of disagreement was, option 3.",False,True,True,Negative,1
+139,MR. ALLEN,"there were several recommendations in option 3, most of them having to do with things that fprac wanted to consider, such as if you have a wage area with fewer than 300 employees, then you should consider option 3 for abolishment.",False,True,True,Negative,1
+140,MR. ALLEN,"if there was a county with more than 300 employees, then a county with more than 300 employees should be included in a survey area and that type of thing.",False,True,True,Negative,1
+141,MR. ALLEN,"there were no changes made in opm's operating regulations as a result of these recommendations, and mr.",True,False,False,Negative,1
+141,MR. ALLEN,"allen believe we are currently considering these again as part of the new working group, not the survey issues working group dealing with the fprac recommendation from back in october but from a new wage area definition study working group that was established prior to the new working group under we's new chairman.",True,True,False,Negative,1
+142,MR. ALLEN,and mr.,False,False,False,Neutral,2
+142,MR. ALLEN,allen think we're actually looking at a lot more than we had been in the previous working group.,False,False,False,Neutral,2
+143,CHAIRMAN FRIEDMAN,okay.,False,False,False,Positive,3
+144,CHAIRMAN FRIEDMAN,"in view of these options -- and you say option 3 was voted on, chairman friedman think?.",False,True,True,Negative,1
+145,MR. ALLEN,"by the majority vote, yes.",False,False,False,Neutral,2
+146,CHAIRMAN FRIEDMAN,"is there any further discussion now of any of these three pieces of paper, or in relation to lee county?.",False,False,False,Negative,1
+147,MS. SIMON,"well, mark, what would it take to adopt one of these ideas, consider abolishing a wage area with fewer than 300 fws employees?.",False,True,True,Negative,1
+148,MS. SIMON,"when you say consider it, let's say we considered 's and then somebody said, well, nowhere is nowhere written that a wage area with fewer than 300 fws employees must be abolished; therefore, we shouldn't do it.",False,True,True,Verynegative,0
+148,MS. SIMON,do we have to actually change the regulation?.,False,False,False,Neutral,2
+149,MS. SIMON,does opm actually have to change the regulation in order to -- ms.,False,False,False,Negative,1
+149,MS. SIMON,"simon don't want to say compel, but even realistically allow for fprac to take an action like the regulation?.",False,False,False,Neutral,2
+150,MR. ALLEN,"what happened with the last working group was that we basically wanted to establish some ground rules within the committee in order to provide to opm recommendations, and mr.",False,False,False,Neutral,2
+150,MR. ALLEN,"allen believe that 300 figure was something that all the members agreed to, but the last working group was not a hard-and-fast rule.",True,True,True,Negative,1
+151,MR. ALLEN,"in fact, what we did with, mr.",False,False,False,Neutral,2
+151,MR. ALLEN,"allen believe it was, the new london wage area, after the working group meetings had ended, we took a look at the new london wage area, and it was slightly below 300 employees, but there were some indications that the employment level was stable and had actually been increasing by a few employees in the previous few years.",False,True,True,Verynegative,0
+152,MR. ALLEN,"in that case, it was a consensus recommendation to leave the new london wage area as a separate wage area.",False,False,False,Negative,1
+153,MS. SIMON,what you just said was you's response to that's what consider your response means?.,False,False,False,Neutral,2
+154,MR. ALLEN,yes.,False,False,False,Neutral,2
+155,MR. ALLEN,"it was not a proposal to change opm's regulations to say that if a federal wage system wage area falls below 300 employees, then a proposal to change opm 's regulations to say that if a federal wage system wage area falls below 300 employees must be combined with another area.",True,True,True,Negative,1
+156,CHAIRMAN FRIEDMAN,"where did 300 come from instead of 500, or 200?.",False,True,True,Neutral,2
+157,CHAIRMAN FRIEDMAN,chairman friedman'm just curious about that.,False,False,False,Negative,1
+158,MR. ALLEN,"in the working group, we went through a detailed study of what would happen if the figure was 300, 400, or 500, and maps were provided to everybody that showed what would happen at each level if a wage area was abolished, if each level fell below a certain threshold.",False,True,True,Negative,1
+159,MR. ALLEN,mr.,False,False,False,Neutral,2
+159,MR. ALLEN,"allen should say that the main reason for proposing something like that was the capability of the host installation within a wage area to continue supporting a local wage survey, so that have some wage areas that are on the 566-opm-2 list that are below 100 employees now.",False,True,True,Negative,1
+160,MR. PHELPS,did mr.,False,False,False,Neutral,2
+160,MR. PHELPS,"phelps read something somewhere where the number was 100 and wanted to raise the number to 300, that if the number dropped below 300, or is that something else?.",False,True,True,Neutral,2
+161,MR. ALLEN,"actually, there is no criterion on opm's regulation that sets the minimum level for employment within an existing wage area.",True,False,False,Negative,1
+162,MR. ALLEN,there is a criterion that says 100 employees to establish a wage area.,False,True,True,Negative,1
+163,MR. ALLEN,"actually, mr.",False,False,False,Neutral,2
+163,MR. ALLEN,allen think it's 100 employees of an agency to establish an area.,False,True,True,Negative,1
+164,MR. PHELPS,"yeah, mr.",False,False,False,Positive,3
+164,MR. PHELPS,phelps think that's what mr.,False,False,False,Neutral,2
+164,MR. PHELPS,phelps saw.,False,False,False,Neutral,2
+165,MR. ALLEN,there is nothing about disestablishing a wage area.,False,False,False,Negative,1
+166,CHAIRMAN FRIEDMAN,any thoughts about whether we continue discussing this right now?.,False,False,False,Neutral,2
+167,MR. PHELPS,mr.,False,False,False,Neutral,2
+167,MR. PHELPS,phelps would think that since we're looking at a lot of things that would tie in with this in the work group that it might be better to defer until we see what happens in the current work group.,False,False,False,Negative,1
+168,CHAIRMAN FRIEDMAN,seem reasonable?.,False,False,False,Neutral,2
+169,MR. ALLEN,mr.,False,False,False,Neutral,2
+169,MR. ALLEN,allen think that's a good idea.,False,False,False,Neutral,2
+170,CHAIRMAN FRIEDMAN,okay.,False,False,False,Positive,3
+171,CHAIRMAN FRIEDMAN,"in that case, that brings up the last new business item, a letter from the department of the army concerning the proposal to consolidate wage areas that lie within gs locality pay areas, 566-mgt-1, which chairman friedman take that case, is just to be input to our's committee and everybody has a copy.",False,True,True,Negative,1
+172,CHAIRMAN FRIEDMAN,is there any discussion of that?.,False,False,False,Neutral,2
+173,CHAIRMAN FRIEDMAN,does everybody in fact have a copy?.,False,False,False,Negative,1
+174,CHAIRMAN FRIEDMAN,"it was e-mailed out, and it should be in your's packets as well.",False,False,False,Negative,1
+175,CHAIRMAN FRIEDMAN,it is.,False,False,False,Neutral,2
+176,MR. ALLEN,mr.,False,False,False,Neutral,2
+176,MR. ALLEN,"allen believe, mr.",False,False,False,Neutral,2
+176,MR. ALLEN,"chairman, our's member from the department of the army would like to read this letter into the record.",False,False,False,Negative,1
+177,CHAIRMAN FRIEDMAN,"well, you are free to do you, although we could just instruct the transcriptionist to include it.",False,False,False,Positive,3
+178,CHAIRMAN FRIEDMAN,chairman friedman will leave it up to you.,False,False,False,Positive,3
+179,MS. WALKER,"well, the organization asked ms.",False,False,False,Positive,3
+179,MS. WALKER,walker to please be their's representative and to read this into the record since their could not be here personally.,True,False,False,Neutral,2
+180,CHAIRMAN FRIEDMAN,"you're a speed reader, right?.",False,False,False,Neutral,2
+181,MS. WALKER,ms.,False,False,False,Neutral,2
+181,MS. WALKER,walker hope so.,False,False,False,Neutral,2
+182,MS. WALKER,ms.,False,False,False,Neutral,2
+182,MS. WALKER,walker'll try not to get too --.,True,False,False,Neutral,2
+183,CHAIRMAN FRIEDMAN,okay.,False,False,False,Positive,3
+184,MS. WALKER,"anyway, this was a letter that came from u.",False,False,False,Negative,1
+184,MS. WALKER,s.,False,False,False,Neutral,2
+184,MS. WALKER,"headquarters, army materiel command.",False,False,False,Negative,1
+185,MS. WALKER,it is the higher headquarters for tobyhanna army depot.,False,False,False,Negative,1
+186,MS. WALKER,it is a memorandum through dr.,False,False,False,Negative,1
+186,MS. WALKER,"susan duncan, who is the ag-1 for civilian personnel, army, to chairman friedman.",False,True,True,Negative,1
+187,MS. WALKER,the subject is the impact of the application of locality pay to federal wage system employees.,False,False,False,Negative,1
+188,MS. WALKER,the federal prevailing rate advisory committee has been discussing the application of locality pay to federal wage system -lrb-fws-rrb- employees at locations where locality pay is given to general schedule -lrb-gs-rrb- employees.,False,False,False,Negative,1
+189,MS. WALKER,this letter -- this is to express the concerns of the u.,False,False,False,Neutral,2
+189,MS. WALKER,s.,False,False,False,Neutral,2
+189,MS. WALKER,army materiel command -lrb-amc-rrb- as to the significant impact this change would have on amc.,False,False,False,Negative,1
+190,MS. WALKER,"one amc installation, tobyhanna army depot, specifically exemplifies the financial impacts of the fprac decision.",False,False,False,Negative,1
+191,MS. WALKER,"in 2005, monroe county, pennsylvania, was placed in the new york locality pay area.",False,True,True,Negative,1
+192,MS. WALKER,a consequence of this decision was that gs employees at tobyhanna army depot were added to the new york locality pay area.,False,False,False,Negative,1
+193,MS. WALKER,"since that time, the american federation of government employees local 1647 has been advocating for new york locality pay for fws employees.",False,True,True,Negative,1
+194,MS. WALKER,"in light of the union's request before the fprac, we write to place on the record we's concerns about the impact of an fprac decision on the cost to operate tobyhanna army depot.",False,False,False,Neutral,2
+195,MS. WALKER,"tobyhanna army depot is located in the northwest border of monroe county, 22 miles from scranton, pennsylvania, and 101 miles form new york city, new york.",False,True,True,Negative,1
+196,MS. WALKER,"while approximately 18 percent of residents in the eastern portion of monroe county commute out of monroe county to work, particularly in high-paying jobs in the new york-new jersey metropolitan areas, the vast majority of tobyhanna army depot's 4,250 employees reside outside of monroe county.",False,True,True,Negative,1
+197,MS. WALKER,"lackawanna county hosts 1,510 tobyhanna army depot employees, and luzerne county has 1,070 tobyhanna army depot employees.",False,False,True,Negative,1
+198,MS. WALKER,both lackawanna and luzerne counties lie in the rest of the u.,False,False,False,Neutral,2
+198,MS. WALKER,s.,False,False,False,Neutral,2
+198,MS. WALKER,-lrb-rus-rrb- for locality pay purposes.,False,False,False,Neutral,2
+199,MS. WALKER,fewer than 600 tobyhanna army depot employees reside in monroe county.,False,False,True,Negative,1
+200,MS. WALKER,"only 15 percent of the depot workforce resides in monroe county and adjacent pike county, which is also in the new york locality pay area.",False,True,True,Negative,1
+201,MS. WALKER,"no tobyhanna army depot employees commute from new york city to tobyhanna,pa, and only seven tobyhanna army depot employees live in new york state or new jersey.",True,False,False,Negative,1
+202,MS. WALKER,commuting to tobyhanna army depot does not appear to be a concern because tobyhanna army depots location on the western border of monroe county facilitates travel for the majority of the employees.,True,True,False,Negative,1
+203,MS. WALKER,most employees -lrb-60 percent-rrb- travel by interstate highway from luzerne and lackawanna counties to monroe county.,False,True,True,Negative,1
+204,MS. WALKER,public transportation is readily available to tobyhanna army depot via van pool and bus.,False,False,False,Negative,1
+205,MS. WALKER,tobyhanna army depot has the largest mass transportation benefit program outside of the national capital region.,False,False,False,Negative,1
+206,MS. WALKER,"the average value of a mass transportation benefit program voucher per tobyhanna army depot employee is $158 per quarter, or $632 annually.",False,True,True,Negative,1
+207,MS. WALKER,"given that few -lrb-seven-rrb- employees commute from new york state or new jersey to tobyhanna army depot, the assumption that new york and new jersey commuters living in monroe county impact tobyhanna army depot is false.",False,False,False,Negative,1
+208,MS. WALKER,the mission of tobyhanna army depot is to provide depot maintenance on weapons systems for the department of defense -lrb-dod-rrb-.,False,False,False,Negative,1
+209,MS. WALKER,"tobyhanna army depot is one of five maintenance depots under amc command, all of which are army working capital fund activities.",False,False,False,Negative,1
+210,MS. WALKER,"accordingly, the depot is not an appropriated activity but competes for the depot's funding from other dod customers that choose to have their's weapons systems repaired at tobyhanna army depot.",True,False,False,Negative,1
+211,MS. WALKER,cost is a primary consideration in the decision to utilize tobyhanna army depot as opposed to another maintenance provider in the dod depot system or the private sector.,False,False,False,Neutral,2
+212,MS. WALKER,"consequently, tobyhanna army depot strives to be the most efficient and cost-effective depot in the dod.",False,False,False,Negative,1
+213,MS. WALKER,"like tobyhanna army depot, this command is also concerned with costs.",False,False,False,Negative,1
+214,MS. WALKER,"the transfer of gs employees to the new york locality pay area in 2005 has already impacted tobyhanna army depot's cost of operations and, consequently, the rate charged to dod customers.",False,True,True,Negative,1
+215,MS. WALKER,"in fiscal year '10, for example, the new york locality pay was 28.",False,True,True,Negative,1
+215,MS. WALKER,72 percent greater than the rest of the united states -lrb-rus-rrb-.,False,True,True,Positive,3
+216,MS. WALKER,"in this time of budget constraints, diminishing federal resources, high unemployment, and the general condition of our's nation's economy, costs should be a factor in the committee's analysis.",False,False,False,Negative,1
+217,MS. WALKER,secretary of defense resource management directive 7032a eliminated approximately $834 million from the army operations and maintenance account -lrb-oma-rrb-.,False,True,True,Negative,1
+218,MS. WALKER,"accordingly, by memorandum dated 11 july 2011, the army has directed the elimination of 8,741 full-time equivalents -lrb-ftes or positions-rrb-.",False,True,True,Negative,1
+219,MS. WALKER,"the specific impact of the oma reduction on weapon system support and maintenance has yet to be determined, but it is reasonable to conclude that depot maintenance programs will be cut or eliminated.",False,False,False,Negative,1
+220,MS. WALKER,"unnecessary increases, such as those resulting from the afge proposal, will further impact amc's ability to cost effectively maintain critical weapon systems.",False,False,False,Negative,1
+221,MS. WALKER,"with respect to the need for new york locality pay at tobyhanna army depot, the current average salary of a tobyhanna army depot employee is $55,472.",False,False,True,Negative,1
+222,MS. WALKER,"the average salary for an fws employee is $49,035 and $64,009 for a gs employee.",False,False,True,Negative,1
+223,MS. WALKER,"in 2010, the average salary of a private sector employee was $38,522 in monroe county, $35,672 in lackawanna county, and $36,137 in luzerne county.",False,True,True,Negative,1
+224,MS. WALKER,according to the u.,False,False,False,Neutral,2
+224,MS. WALKER,s.,False,False,False,Neutral,2
+224,MS. WALKER,"bureau of labor statistics annual report for the new york-northern new jersey-long island-eastern pennsylvania metropolitan statistical area, the average salary of a private sector employee in the new york locality pay area is $54,250.",False,False,True,Negative,1
+225,MS. WALKER,the cost of living index score for monroe county is 95 in comparison to a score of 167 in new york city.,False,True,True,Negative,1
+226,MS. WALKER,"thus, the overwhelming majority of employees at tobyhanna army depot earn more than a private sector employee in either monroe county or the new york locality pay area, while enjoying a substantially lower cost of living than a new york city resident.",False,False,False,Negative,1
+227,MS. WALKER,the absence of fws locality pay does not appear to have discouraged applicants for employment at tobyhanna army depot.,True,False,False,Negative,1
+228,MS. WALKER,"historically, tobyhanna army depots attrition rate is low, 6 percent in 2011, and there is a well-qualified labor pool to fill vacancies.",False,True,True,Negative,1
+229,MS. WALKER,"in fiscal year 2010, for example, tobyhanna received over 40,000 applications for employment.",False,True,True,Negative,1
+230,MS. WALKER,"fws salaries will increase by approximately 25 percent, the new york locality pay differential rate if this proposal is approved.",False,True,True,Negative,1
+231,MS. WALKER,"for example, a wage grade-10, step 3 employee was paid $21.",False,True,True,Negative,1
+231,MS. WALKER,96 per hour in 2010 under the rus locality pay adjustment.,False,True,True,Negative,1
+232,MS. WALKER,"if tobyhanna army depot was included in the new york locality pay, that wage grade-10 employee would receive $27.",False,True,True,Negative,1
+232,MS. WALKER,53 per hour.,False,True,True,Neutral,2
+233,MS. WALKER,the fy11 cumulative impact would be almost $27 million in increased salary costs to tobyhanna army depot.,False,True,True,Negative,1
+234,MS. WALKER,this proposal would increase the cost to tobyhanna army depot and this proposal's customers by approximately $130 million over a five-year period and would have a negative impact on the depot's competitiveness and could actually force the depot to release personnel.,False,True,True,Negative,1
+235,MS. WALKER,"in conclusion, the current methodology of defining locality pay boundaries is troublesome and inconsistent, and further study is needed of this issue.",True,False,False,Negative,1
+236,MS. WALKER,"although it may generally seem logical to apply locality pay on a county-wide basis, the tobyhanna army depot situation shows that this has resulted in a large salary disparity between public and private sector salaries.",False,True,False,Negative,1
+237,MS. WALKER,"in this era of fiscal austerity and dramatic budget cuts, the fprac should review current rules for applying locality pay, particularly where this era of fiscal austerity and dramatic budget cuts leads to the increase rates at tobyhanna army depot and the potential for additional reductions in force.",False,False,False,Negative,1
+238,MS. WALKER,"there needs to be a comprehensive nationwide pay-setting process that is truly equitable, representative, and considers the financial impact of the decision.",False,False,False,Negative,1
+239,MS. WALKER,a more clearly defined process would both reduce the cost of government and restore balance and fairness to pay setting for all federal employees.,False,False,False,Negative,1
+240,MS. WALKER,"further, the financial and staffing impacts of any decision, to include the potential loss of workload and personnel, must be considered.",False,False,False,Negative,1
+241,MS. WALKER,"in light of these concerns, amc recommends that the fprac -lrb-1-rrb- refuse to extend the locality pay decision to fws employees and -lrb-2-rrb- revisit the validity of the 2005 decision applying new york locality pay to tobyhanna army depot's gs employees.",False,True,True,Negative,1
+242,MS. WALKER,thank you for providing us with an opportunity to comment on this matter of extreme importance.,False,False,False,Positive,3
+243,CHAIRMAN FRIEDMAN,okay.,False,False,False,Positive,3
+244,CHAIRMAN FRIEDMAN,is there any discussion?.,False,False,False,Neutral,2
+245,CHAIRMAN FRIEDMAN,"if not, please thank mr.",True,False,False,Negative,1
+245,CHAIRMAN FRIEDMAN,marriott for providing this input to our's committee.,False,False,False,Negative,1
+246,MS. WALKER,ms.,False,False,False,Neutral,2
+246,MS. WALKER,walker will do that.,False,False,False,Neutral,2
+247,MS. WALKER,ms.,False,False,False,Neutral,2
+247,MS. WALKER,"walker have a couple of other comments, and this is something that has really confused ms.",False,False,False,Negative,1
+247,MS. WALKER,walker since this whole matter was kind of brought before the fprac.,False,False,False,Positive,3
+248,MS. WALKER,ms.,False,False,False,Neutral,2
+248,MS. WALKER,walker still don't understand the genesis and the justification for the linking of the fws pay to the gs locality pay to begin with.,False,False,False,Negative,1
+249,MS. WALKER,is there a way that we could get the history of a way since a way seems to be kind of at the crux of this whole issue?.,False,False,False,Neutral,2
+250,MS. WALKER,"because that didn't happen until, what, 2004, 2005?.",False,False,True,Neutral,2
+251,MS. WALKER,"but prior to that, the fws salary was in no way linked to the gs locality pay.",True,False,False,Negative,1
+252,MR. ALLEN,i guess what barbara is talking about is the floor increase provision.,False,False,False,Negative,1
+253,CHAIRMAN FRIEDMAN,that's what that assumed she was talking about.,False,False,False,Neutral,2
+254,MR. ALLEN,"it's in the legislation, which opm did not have anything to do with.",True,False,False,Negative,1
+255,MR. ALLEN,that was a congressional action.,False,False,False,Neutral,2
+256,MR. ALLEN,that was a pay parity initiative that the congress had been interested in.,False,False,False,Negative,1
+257,MS. WALKER,ms.,False,False,False,Neutral,2
+257,MS. WALKER,"walker think that that's something that if that all understand what the genesis of that was, maybe the genesis of that will shed some light on the validity of making any changes.",False,True,False,Neutral,2
+258,MS. WALKER,"also, as you heard in the letter, tobyhanna is very concerned about the fact that the gs locality area was moved to the new york area.",False,False,False,Negative,1
+259,MS. WALKER,it's been very costly to army.,False,False,False,Neutral,2
+260,MS. WALKER,"army has paid the biggest bill due to these changes, and we don't understand how these changes happened either, because dod nor army was a part of the federal salary council that even made that decision.",False,True,False,Negative,1
+261,MS. WALKER,and ms.,False,False,False,Neutral,2
+261,MS. WALKER,walker realize that gs pay is not what we do here on the fprac committee --.,True,False,False,Negative,1
+262,CHAIRMAN FRIEDMAN,that's correct.,False,False,False,Neutral,2
+263,MS. WALKER,-- but it does impact what we have on the floor in front of we right now to decide.,False,True,False,Positive,3
+264,MS. WALKER,"so, if we could possibly get -- and ms.",False,False,False,Neutral,2
+264,MS. WALKER,"walker'm assuming that that information is open to the public, since public funds are paying the bill -- how we came to that decision, the gs employees from monroe county to new york?.",False,True,False,Neutral,2
+265,CHAIRMAN FRIEDMAN,"chairman friedman believe if you consult the reports of the federal salary council for whatever the relevant year is, chairman friedman guess the relevant year would be 2004, something like the federal salary council.",False,True,True,Negative,1
+266,CHAIRMAN FRIEDMAN,"that would have the rationale, and that believe the rationale was based on commuting patterns at the time.",False,False,False,Negative,1
+267,MS. SIMON,didn't allan hearne come and give a briefing at some point?.,False,False,False,Negative,1
+268,CHAIRMAN FRIEDMAN,"chairman friedman did, indeed.",False,False,False,Negative,1
+269,MS. SIMON,yeah.,False,False,False,Positive,3
+270,MS. SIMON,maybe it might have been right before you came on.,False,False,False,Neutral,2
+271,MS. WALKER,"no, he didn't cover that.",True,False,False,Negative,1
+272,MS. WALKER,he covered the process of how --.,False,False,False,Neutral,2
+273,MS. SIMON,"well, that's the answer to the question.",False,False,False,Positive,3
+274,MS. WALKER,-- the locality pay is determined.,False,False,False,Neutral,2
+275,MS. SIMON,"well, that's the answer to your's question, because your question's based on census data, and the decennial census of 2000 had commuting data, and that brought monroe county into the -- is monroe county the combined statistical area or the metropolitan statistical area that includes new york city?.",False,True,True,Negative,1
+276,MR. ALLEN,csa.,False,False,False,Neutral,2
+277,MS. SIMON,csa.,False,False,False,Neutral,2
+278,MS. SIMON,it's a combined statistical area.,False,False,False,Neutral,2
+279,MS. SIMON,"and the gs system has adopted a regulation that concludes an entire combined statistical area in one gs locality, so the gs system was sort of automatic in that regard.",False,False,False,Negative,1
+280,MS. WALKER,"well, ms.",False,False,False,Positive,3
+280,MS. WALKER,walker think army would like --.,False,False,False,Neutral,2
+281,CHAIRMAN FRIEDMAN,chairman friedman'm sorry.,False,False,False,Negative,1
+282,CHAIRMAN FRIEDMAN,"chairman friedman don't mean to cut you off in any way, but you can certainly get you's question answered by top experts at opm right around the table here, jerry and mark, who can give you all the history of the federal salary council, and the federal salary council would be the correct body, chairman friedman think, not this one, for any questions about how monroe county came to be redefined to the new york gs locality pay area.",True,False,False,Negative,1
+283,CHAIRMAN FRIEDMAN,you certainly have avenues to raise that there.,False,False,False,Positive,3
+284,MS. WALKER,"and we will do we, because making that kind of a financial decision without the input of the department of defense is probably not a good way to do this based on the information that is in the report that ms.",True,False,False,Negative,1
+284,MS. WALKER,walker just read.,False,False,False,Neutral,2
+285,MS. WALKER,"increasing the salaries will basically cost us twice as much money, because us will be paying the salaries as well as paying higher cost for the work that's done at tobyhanna, so twice as much money's going to be a bigger financial impact on the department of defense.",False,False,False,Negative,1
+286,CHAIRMAN FRIEDMAN,"in other words, the white collar people already had a pay boost that you don't agree with, and then to also boost the pay of the blue collar people would compound something that you already don't agree with.",False,False,False,Negative,1
+287,MS. WALKER,"well, they have to increase they's cost of labor, and what they charge the department of defense to make the repairs on these weapon systems will increase using they.",False,False,False,Positive,3
+288,CHAIRMAN FRIEDMAN,"well, may chairman friedman suggest that we have a work group to consider implementation of this proposal, and when a work group to consider implementation of this proposal's work is done, its work will be brought back here, and its work would, chairman friedman think, be the time to revisit the issue as far as the fws is concerned.",False,True,False,Negative,1
+289,CHAIRMAN FRIEDMAN,anything else on this?.,False,False,False,Neutral,2
+290,CHAIRMAN FRIEDMAN,any other business that we need to address this morning?.,False,False,False,Neutral,2
+291,CHAIRMAN FRIEDMAN,"if not, how do people feel about adjourning?.",True,False,False,Neutral,2
+292,MR. PHELPS,so moved.,False,False,False,Positive,3
+293,MR. ALLEN,and seconded.,False,False,False,Neutral,2
+294,CHAIRMAN FRIEDMAN,okay.,False,False,False,Positive,3
+295,CHAIRMAN FRIEDMAN,"hearing no objection, we are adjourned, and we will have a work group meeting in -- let's make 's six minutes or seven minutes.",True,False,False,Negative,1
+296,CHAIRMAN FRIEDMAN,--.,False,False,False,Neutral,2

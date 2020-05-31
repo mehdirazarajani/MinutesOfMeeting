@@ -92,6 +92,7 @@ if __name__ == '__main__':
 
     with open(file_name) as data_file:
         _data = json.load(data_file)
+        dialogue_ids = [d['dialogue_id'] for d in _data]
         sentences = [d['sentence'].lower() for d in _data]
         speakers = [d['speaker'] for d in _data]
         importance = [isImportant(d) for d in _data]
@@ -105,7 +106,8 @@ if __name__ == '__main__':
     for i, sen in enumerate(sentence_ranking):
         if sentences[i] != sen[1]:
             print('mismatch')
-        resultant = {'sentence': sentences[i],
+        resultant = {'dialogue_id': dialogue_ids[i],
+                    'sentence': sentences[i],
                      'speaker': speakers[i],
                      'score': sen[0],
                      'is_important': importance[i]}
