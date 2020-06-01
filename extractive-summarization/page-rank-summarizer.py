@@ -11,7 +11,7 @@ import networkx as nx
 import hashlib
 import csv
 
-folder_path = 'D:\MinutesOfMeeting\meeting-transcript-data-text-parser\\venv'
+folder_path = 'D:\MinutesOfMeeting\\feature-extraction'
 # file_name = 'data_meeting_text_amazon.txt'
 file_name = 'features-extracted.txt'
 
@@ -75,7 +75,7 @@ def page_rank_algorithm(model_file, dim):
 
 
 def isImportant(data):
-    return not(data['not-word-found']) and (data['date-found'] or data['figure (number) found'])
+    return not (data['not-word-found']) and (data['date-found'] or data['figure (number) found'])
 
 
 def get_the_min_important_score(sentence_ranking, percent=0.5):
@@ -90,12 +90,13 @@ if __name__ == '__main__':
     # nltk.download('stopwords')# one time execution
     # nltk.download('punkt') # one time execution
 
-    with open(file_name) as data_file:
+    with open(folder_path + '\\' + file_name) as data_file:
         _data = json.load(data_file)
         dialogue_ids = [d['dialogue_id'] for d in _data]
         sentences = [d['sentence'].lower() for d in _data]
         speakers = [d['speaker'] for d in _data]
         importance = [isImportant(d) for d in _data]
+        classification_types = [d['classification_type'] for d in _data]
 
     stop_words = stopwords.words('english')
     clean_sentences = [_remove_stopwords(r.split()) for r in sentences]
@@ -107,7 +108,8 @@ if __name__ == '__main__':
         if sentences[i] != sen[1]:
             print('mismatch')
         resultant = {'dialogue_id': dialogue_ids[i],
-                    'sentence': sentences[i],
+                     'sentence': sentences[i],
+                     'classification_type': classification_types[i],
                      'speaker': speakers[i],
                      'score': sen[0],
                      'is_important': importance[i]}

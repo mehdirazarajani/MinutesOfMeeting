@@ -10,21 +10,19 @@ def get_file_content(filename: str) -> json:
 
 if __name__ == '__main__':
     clusters = get_file_content('clusters.txt')
-    classifications = get_file_content('classification.json')
     importants = get_file_content('important-sentence.txt')
 
     resultants = {}
     for i in range(0, len(clusters)):
         cluster_data = clusters[i]
-        classification_data = classifications[i]
         important_data = importants[i]
 
         cluster = cluster_data['cluster']
-        classification_type = str(classification_data['classification_type'])
+        classification_type = str(important_data['classification_type'])
         if classification_type.startswith("Interrogative"):
             classification_type = "Questions Answers"
 
-        if important_data['is_important'] or classification_type != 'Normal':
+        if important_data['is_important']:
             if cluster not in resultants:
                 resultants[cluster] = {'Normal': [], 'Suggestion': [], 'Task Assigned': [], 'Questions Answers': []}
             resultants[cluster][classification_type].append({'dialogue_id': important_data['dialogue_id'],

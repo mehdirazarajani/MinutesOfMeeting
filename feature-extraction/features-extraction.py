@@ -12,9 +12,9 @@ from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 
 
-folder_path = 'D:\MinutesOfMeeting\meeting-transcript-data-text-parser\\venv'
+folder_path = 'D:\MinutesOfMeeting\sentence-classifier'
 # file_name = 'data_meeting_text_amazon.txt'
-file_name = 'data_meeting_text_pronoun.txt'
+file_name = 'classification.json'
 
 
 def find_the_features(inp_sentences):
@@ -115,17 +115,19 @@ if __name__ == '__main__':
         sentences = [d['sentence'].lower() for d in _data]
         speakers = [d['speaker'] for d in _data]
         dialogue_ids = [d['dialogue_id'] for d in _data]
+        classification_types = [d['classification_type'] for d in _data]
         sentences_with_not, sentences_with_date, sentences_with_figure, sentiment_with_score = find_the_features(sentences)
 
         with open("features-extracted.csv", 'w') as output_file:
             writer = csv.writer(output_file)
-            writer.writerow(['dialogue_id', 'speaker', 'sentence',
+            writer.writerow(['dialogue_id', 'speaker', 'sentence', 'classification_type'
                              'not-word-found', 'date-found', 'figure (number) found', 'sentiment-type', 'sentiment-score'])
             for ind, sentence in enumerate(sentences):
                 temp = list()
                 temp.append(dialogue_ids[ind])
                 temp.append(speakers[ind])
                 temp.append(sentence)
+                temp.append(classification_types[ind])
                 temp.append(ind in sentences_with_not)
                 temp.append(ind in sentences_with_date)
                 temp.append(ind in sentences_with_figure)
@@ -140,6 +142,7 @@ if __name__ == '__main__':
                 resultant["dialogue_id"] = dialogue_ids[ind]
                 resultant["speaker"] = speakers[ind]
                 resultant["sentence"] = sentence
+                resultant['classification_type'] = classification_types[ind]
                 resultant["not-word-found"] = ind in sentences_with_not
                 resultant["date-found"] = ind in sentences_with_date
                 resultant["figure (number) found"] = ind in sentences_with_figure
