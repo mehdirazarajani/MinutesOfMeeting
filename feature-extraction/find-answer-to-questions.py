@@ -49,20 +49,21 @@ def answer_detection(question_sentence, adjacent_sentences, max_grid=20):
         else:
             continue
         # when next question occures stop search for the answer
-        if adjacent_sentence['sentence-type'] == 'Interrogative':
+        if adjacent_sentence['classification_type'].startswith('Interrogative'):
             break
         # iterate until the max length is not reached
         if i < max_grid:
             break
 
     for adjacent_sentence in _adjacent_sentences:
-        if question_sentence['question-type'] == "affirmation":
+        type = question_sentence['classification_type'].replace('Interrogative-', '')
+        if type == "affirmation":
             answer = detect_affirmative(question_sentence['sentence'], adjacent_sentence['sentence'])
         # elif question_sentence['question-type'] == "what":
         #     answer = dete(question_sentence, adjacent_sentence)
-        elif question_sentence['question-type'] == "when":
-            answer = detect_when(question_sentence['sentence'], adjacent_sentence['sentence'])
-        elif question_sentence['question-type'] == "who":
+        elif type == "when":
+            answer = detect_when(question_sentence['sentence'], adjacent_sentence['sentence'], adjacent_sentence)
+        elif type == "who":
             answer = detect_who(question_sentence['sentence'], adjacent_sentence['sentence'])
 
         if answer[0]:
@@ -139,13 +140,15 @@ def detect_who(question, adjacent):
     return False, ""
 
 
-def detect_when(question, adjacent):
+def detect_when(question, adjacent, adjacent_json):
     date_str = datetime.datetime.now().strftime('%Y-%m-%d')
 
-    for line in adjacent:
-        resultant = detectWhenAnswer(date_str, line)
-        if resultant[0]:
-            return resultant
+    resultant = detectWhenAnswer(date_str, adjacent)
+    if resultant[0]:
+        return resultant
+
+    if adjacent_json['date-found']:
+        return True, adjacent
 
     return False, ""
 
@@ -159,11 +162,13 @@ def getAdjacentSentences(allQuestions, curIndex):
 def getPossibleAnswerForAllQuestions(allData):
     resultants = []
     for i, data in enumerate(allData):
-        if data['sentence-type'] == 'Interrogative':
+        if data['classification_type'].startswith('Interrogative'):
+            print(data)
             resultant = {'question': data['sentence'], 'dialogue_id': data['dialogue_id'],
-                         'question-type': data['question-type']}
+                         'question-type': data['classification_type'].replace('Interrogative-', '')}
             adjacent = getAdjacentSentences(allData, i)
             res = answer_detection(data, adjacent)
+            print(res)
 
             if res[0]:
                 resultant['is-result-found'] = True

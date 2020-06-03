@@ -68,7 +68,7 @@ def detectWhenAnswer(date,query):
     xml = getUsefulData(xml.decode("utf-8"))
 
     if xml == "":
-        return False
+        return False, ""
 
     my_dict = xmltodict.parse(xml)
     json_data = json.dumps(my_dict)

@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f45b2cf8-8267-4673-be3e-e48c4253aeb3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../extractive-summarization/important-sentence.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../extractive-summarization/important-sentence.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../extractive-summarization/page-rank-summarizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../extractive-summarization/page-rank-summarizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feature-extraction/features-extracted.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../feature-extraction/features-extracted.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feature-extraction/features-extracted.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../feature-extraction/features-extracted.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../feature-extraction/features-extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../feature-extraction/features-extraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minutes-rough-draft/Rough-Draft.py" beforeDir="false" afterPath="$PROJECT_DIR$/../minutes-rough-draft/Rough-Draft.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minutes-rough-draft/classification.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minutes-rough-draft/important-sentence.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../minutes-rough-draft/important-sentence.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minutes-rough-draft/rough draft.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../minutes-rough-draft/rough draft.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f45b2cf8-8267-4673-be3e-e48c4253aeb3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
